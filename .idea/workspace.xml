@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272e7713-627e-4947-aedb-30505d8e779e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/create_JSON_from_CSV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/doctrees/environment.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/doctrees/environment.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_build/html/_sources/index.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/index.rst.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/scriptsForPreparingData/create_JSON_from_CSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/create_JSON_from_CSV.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/create_JSON_from_CSV.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+            <state relative-caret-position="85">
+              <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -71,7 +67,18 @@
             <path>
               <item name="MOW-SN" type="b2602c69:ProjectViewProjectNode" />
               <item name="MOW-SN" type="462c0819:PsiDirectoryNode" />
-              <item name="originalDataset" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOW-SN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOW-SN" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="scriptsForPreparingData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOW-SN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOW-SN" type="462c0819:PsiDirectoryNode" />
+              <item name="staggingArea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,12 +167,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554748162718</updated>
       <workItem from="1554748167902" duration="2327000" />
-      <workItem from="1554753708455" duration="2619000" />
+      <workItem from="1554753708455" duration="3910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4946000" />
+    <option name="totallyTimeSpent" value="6237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1554" height="1047" extended-state="0" />
@@ -175,7 +182,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3085339" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -199,7 +206,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MOW_SN$createJSONFromCSV_1.coverage" NAME="createJSONFromCSV.1 Coverage Results" MODIFIED="1554754682814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helpers" />
-    <SUITE FILE_PATH="coverage/MOW_SN$create_JSON_from_CSV.coverage" NAME="create_JSON_from_CSV Coverage Results" MODIFIED="1554756332812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scriptsForPreparingData" />
+    <SUITE FILE_PATH="coverage/MOW_SN$create_JSON_from_CSV.coverage" NAME="create_JSON_from_CSV Coverage Results" MODIFIED="1554757624747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scriptsForPreparingData" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/helpers/createJSONFromCSV.1.py">
@@ -229,10 +236,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/staggingArea/parsedTest.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="136">
+          <caret column="1244" lean-forward="true" selection-start-column="1244" selection-end-column="1244" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/create_JSON_from_CSV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        <state relative-caret-position="85">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
