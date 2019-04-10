@@ -39,6 +39,7 @@ def check_actor_infilm_JSON():
 
 fout = open('../..//helpers/outfile.csv', 'w', encoding="utf8")
 
+
 def modify_CSV_by_adding_name_of_actor(row_to_modify, actor_name):
     '''
     modify_CSV_by_adding_name_of_actor Modify row from original dataset
@@ -57,72 +58,78 @@ def modify_CSV_by_adding_name_of_actor(row_to_modify, actor_name):
     return row_to_modify
 
 
+def return_new_row(old_row, producer_cell, actor_cell):
+    #init array
+    new_row = [None] * 4
+    film_id = old_row[2]
+    new_row[0] = old_row[0]
+    new_row[1] = film_id
+    new_row[2] = producer_cell
+    new_row[3] = actor_cell
+
+    return new_row
+
+
+def create_proper_JSON(bad_formated_cell):
+    open_brackets_replaced = bad_formated_cell.replace("{\'", "{\"")
+    close_brackets_replaced = open_brackets_replaced.replace("\'}", "\"}")
+    space_plus_sinqle_quote_replaced = close_brackets_replaced.replace(
+        " \'", " \"")
+    a3 = space_plus_sinqle_quote_replaced.replace("\',", "\",")
+    single_quote_replaced = a3.replace("':", "\":")
+    quote_replaced = single_quote_replaced.replace('\'', ' ')
+    cell_with_proper_JSON = quote_replaced.replace("None", "1")
+
+    return cell_with_proper_JSON
+
+
 test = open('./actorsInAFilms.txt', 'w')
+
+
 def check_actor_in_film_CSV():
     '''
     check_actor_in_film_CSV Check if actor from prepared list is in a dataset
 
-    
+
     Check if actor from prepared list is in a dataset
     Print count of films with our actor
     Print count of unique actors
-    
+
     '''
 
-    actors_in_a_films=[]
-    unique_actors=[]
-    temp=[1]
-    iteration=0
-    new_row=[None]*6
+    actors_in_a_films = []
+    unique_actors = []
+    iteration = 0
     with open('../../originalDataset/credits.csv', 'r', encoding="utf8") as fin:
         writer = csv.writer(fout)
         for row in csv.reader(fin):
             for actor in prepared_actors:
                 if actor in row[0]:
-
                     try:
-                        row[4] = modify_CSV_by_adding_name_of_actor(row[1], actor)
-                        a0 = row[1].replace("\':,", "\":")
-                        a=row[1].replace("{\'","{\"")
-                        a2 =a.replace(" \'", " \"")
-                        a3 = a2.replace("\',", "\",")
-                        a4 = a3.replace("':", "\":")
-                        a5=a4.replace("\'}","\"}")
-                        a6 = a5.replace('\'', ' ')
-                        b = a6.replace("None", "1")
-                        # b1 = b.split(']')
-                        # b2=b1[0]+"]"
+                        # assign for better readability
+                        actor_cell = actor
+                        # modify "bad JSON" from CSV for proper parsing
+                        properly_modified_to_JSON_cell = create_proper_JSON(
+                            row[1])
 
-                        # print(b)
-                        # test.write(b2)
-                        test.write(',')
-                        js=json.loads(b)
-                        for obj in js:
-                            # if obj['job'] == 'Producer':
-                            if re.search("^Producer$", obj['job']):
-                                print(obj['job'], obj['name'])
-                                iteration+=1
-                                print(iteration)
-                                temp[0]=row[1]
+                        array_of_JSON = json.loads(properly_modified_to_JSON_cell)
+                        for single_object in array_of_JSON:
+                            if re.search("^Producer$", single_object['job']):
+                                producer_cell = single_object['name']
+
                                 actors_in_a_films.append(actor)
 
-
-                                new_row[0]=row[0]
-                                new_row[1] = obj['name']
-                                new_row[2] = row[2]
-                                new_row[3] = row[3]
-                                new_row[4] = row[4]
+                                new_row = return_new_row(row, producer_cell, actor_cell)
                                 writer.writerow(new_row)
+                                iteration += 1
+                                print(iteration, producer_cell, actor_cell)
                                 if actor not in unique_actors:
                                     unique_actors.append(actor)
                                 break
                     except:
-                        print("LOL")
+                        print("Problem found in parsing array of JSONS")
     print('Actors from prepared list in dataset:', len(actors_in_a_films))
     print('Unique actors count:', len(unique_actors))
-
-
-
 
 
 check_actor_in_film_CSV()
