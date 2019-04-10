@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272e7713-627e-4947-aedb-30505d8e779e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/scriptsForPreparingData/check_actor_availability_in_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/check_actor_availability_in_dataset.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/check_actor_availability_in_dataset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+            <state relative-caret-position="137">
+              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -47,6 +46,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>print</find>
+      <find>modify_CSV_by_adding_name_of_actor</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -218,12 +218,12 @@
       <workItem from="1554748167902" duration="2327000" />
       <workItem from="1554753708455" duration="3910000" />
       <workItem from="1554761900511" duration="9811000" />
-      <workItem from="1554927188596" duration="3696000" />
+      <workItem from="1554927188596" duration="4910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19744000" />
+    <option name="totallyTimeSpent" value="20958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -258,7 +258,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MOW_SN$createJSONFromCSV_1.coverage" NAME="createJSONFromCSV.1 Coverage Results" MODIFIED="1554754682814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helpers" />
     <SUITE FILE_PATH="coverage/MOW_SN$create_JSON_from_CSV.coverage" NAME="create_JSON_from_CSV Coverage Results" MODIFIED="1554762376381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scriptsForPreparingData" />
-    <SUITE FILE_PATH="coverage/MOW_SN$check_actor_availability_in_dataset.coverage" NAME="check_actor_availability_in_dataset Coverage Results" MODIFIED="1554930857518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scriptsForPreparingData" />
+    <SUITE FILE_PATH="coverage/MOW_SN$check_actor_availability_in_dataset.coverage" NAME="check_actor_availability_in_dataset Coverage Results" MODIFIED="1554931741501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scriptsForPreparingData" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/helpers/createJSONFromCSV.1.py">
@@ -304,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/check_actor_availability_in_dataset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+        <state relative-caret-position="137">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
