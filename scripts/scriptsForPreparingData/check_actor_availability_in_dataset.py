@@ -7,7 +7,7 @@ default_input_file_path = '../../staggingArea/parsed_credits.csv.json'
 # Uncomment when rns create_JSON_from_CSV script (data doesn`t exist)
 # JSON_raw = open(default_input_file_path, 'r').readlines()
 # JSON_object = json.loads(JSON_raw[0])
-prepared_actors = open('../../actors', 'r').read().split('\n')
+prepared_actors = open('../../preparedData/actors.txt', 'r').read().split('\n')
 actorsInAFilms = open('./actorsInAFilms.txt', 'w')
 
 
