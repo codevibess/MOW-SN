@@ -1,6 +1,7 @@
 import csv
 import json
 import re
+from create_proper_JSON import *
 
 default_input_file_path = '../../staggingArea/parsed_credits.csv.json'
 
