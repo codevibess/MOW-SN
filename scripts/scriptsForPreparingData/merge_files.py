@@ -4,7 +4,21 @@ import json
 from create_proper_JSON import *
 from create_CSV_header import *
 
+
 def create_list_of_ids(array_of_jsons):
+    '''
+    create_list_of_ids [Fuction create list of film metadata ids]
+
+    [We use this function to create array of only ids of film_metadata ids
+    and then use it when we iterate over selected dataset for merging two files in one
+    It`s work like JOIN (similarly) in sql but in files]
+
+    :param array_of_jsons: [array of jsons]
+    :type array_of_jsons: [array]
+    :return: [array of ids]
+    :rtype: [array of strings]
+    '''
+
     movies_metadata_Ids = []
     for iter, row in enumerate(array_of_jsons):
         filmId = row['id']
@@ -13,6 +27,18 @@ def create_list_of_ids(array_of_jsons):
 
 
 def merge_two_CSV_files_to_one():
+    '''
+    merge_two_CSV_files_to_one Get infromation from two files and return merged one
+
+    [First we load two csv files 1) our prepared file 2) file with film metadate
+    Next this function read files and parse it into array of JSONs
+    Create output file (merged one) amd write header for this file
+    Parse cells of film metadata to JSON
+    Iterate over file with prepared date and selects genre, title and rating from another one, 
+    store it to the variables and write to merged file
+    LAso in proces of parsing we discard data which doesn`t have all filed cells]
+
+    '''
 
     movies_metadata = open(
         '../../originalDataset/movies_metadata.csv', 'r', encoding="utf8")
@@ -37,17 +63,17 @@ def merge_two_CSV_files_to_one():
     movies_metadata_JSON = json.loads(movies_metadata_JSON)
     selected_data_JSON = json.loads(selected_data_JSON)
 
-
     # create and write header to csv file
-    header = create_CSV_header(6, "filmId", "title", "genre", "producer", "actor", "rating")
+    header = create_CSV_header(
+        6, "filmId", "title", "genre", "producer", "actor", "rating")
     writer_CSV.writerow(header)
-    
+
     # create list of IDs for better search when merge files (like JOIN)
-    movies_metadata_Ids=create_list_of_ids(movies_metadata_JSON)
+    movies_metadata_Ids = create_list_of_ids(movies_metadata_JSON)
 
     print(len(movies_metadata_Ids))
     print(movies_metadata_Ids)
-
+    # write to json file character of array start
     fout_JSON.write('[')
     for iter, object_from_selected in enumerate(selected_data_JSON):
         # ignore header of CSV
@@ -78,10 +104,12 @@ def merge_two_CSV_files_to_one():
         row_json = {"filmId": filmId, "title": title, "genre": genre,
                     "producer": producer, "actor": actor, "rating": rating}
 
-
         json.dump(row_json, fout_JSON)
+        # write to json file delimiter
         fout_JSON.write(',')
         writer_CSV.writerow(row)
+    # write to json file character of array end
     fout_JSON.write(']')
+
 
 merge_two_CSV_files_to_one()
