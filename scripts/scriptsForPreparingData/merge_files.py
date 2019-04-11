@@ -4,6 +4,13 @@ import json
 from create_proper_JSON import *
 from create_CSV_header import *
 
+def create_list_of_ids(array_of_jsons):
+    movies_metadata_Ids = []
+    for iter, row in enumerate(array_of_jsons):
+        filmId = row['id']
+        movies_metadata_Ids.append(filmId)
+    return movies_metadata_Ids
+
 
 def merge_two_CSV_files_to_one():
 
@@ -29,15 +36,14 @@ def merge_two_CSV_files_to_one():
     selected_data_JSON = json.dumps([row for row in selected_data_reader])
     movies_metadata_JSON = json.loads(movies_metadata_JSON)
     selected_data_JSON = json.loads(selected_data_JSON)
-    movies_metadata_Ids = []
+
 
     # create and write header to csv file
     header = create_CSV_header(6, "filmId", "title", "genre", "producer", "actor", "rating")
     writer_CSV.writerow(header)
-
-    for iter, row in enumerate(movies_metadata_JSON):
-        filmId = row['id']
-        movies_metadata_Ids.append(filmId)
+    
+    # create list of IDs for better search when merge files (like JOIN)
+    movies_metadata_Ids=create_list_of_ids(movies_metadata_JSON)
 
     print(len(movies_metadata_Ids))
     print(movies_metadata_Ids)
