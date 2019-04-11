@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272e7713-627e-4947-aedb-30505d8e779e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/create_proper_JSON.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/merge_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/create_CSV_header.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preparedData/outfileWithActorsAndProducer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/preparedData/outfileWithActorsAndProducer.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/scriptsForPreparingData/check_actor_availability_in_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/check_actor_availability_in_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/scriptsForPreparingData/merge_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/merge_files.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +19,19 @@
         <entry file="file://$PROJECT_DIR$/helpers/createJSONFromCSV.2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="186">
-              <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="30" />
+              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/check_actor_availability_in_dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="91" selection-end-column="31" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -31,29 +42,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/merge_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+            <state relative-caret-position="385">
+              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/create_proper_JSON.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="32" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linkToDatasetKaggle.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -74,8 +67,9 @@
       <list>
         <option value="$PROJECT_DIR$/helpers/createJSONFromCSV.1.py" />
         <option value="$PROJECT_DIR$/scripts/scriptsForPreparingData/create_JSON_from_CSV.py" />
-        <option value="$PROJECT_DIR$/scripts/scriptsForPreparingData/check_actor_availability_in_dataset.py" />
         <option value="$PROJECT_DIR$/scripts/scriptsForPreparingData/create_proper_JSON.py" />
+        <option value="$PROJECT_DIR$/scripts/scriptsForPreparingData/create_CSV_heade.py" />
+        <option value="$PROJECT_DIR$/scripts/scriptsForPreparingData/check_actor_availability_in_dataset.py" />
         <option value="$PROJECT_DIR$/scripts/scriptsForPreparingData/merge_files.py" />
       </list>
     </option>
@@ -268,8 +262,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.merge_files" />
-        <item itemvalue="Python.createJSONFromCSV.2" />
         <item itemvalue="Python.check_actor_availability_in_dataset" />
+        <item itemvalue="Python.createJSONFromCSV.2" />
         <item itemvalue="Python.create_JSON_from_CSV" />
         <item itemvalue="Python.createJSONFromCSV.1" />
       </list>
@@ -289,12 +283,12 @@
       <workItem from="1554753708455" duration="3910000" />
       <workItem from="1554761900511" duration="9811000" />
       <workItem from="1554927188596" duration="6887000" />
-      <workItem from="1554999924156" duration="8832000" />
+      <workItem from="1554999924156" duration="9839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31767000" />
+    <option name="totallyTimeSpent" value="32774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -328,10 +322,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MOW_SN$createJSONFromCSV_2.coverage" NAME="createJSONFromCSV.2 Coverage Results" MODIFIED="1554933421785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helpers" />
-    <SUITE FILE_PATH="coverage/MOW_SN$merge_files.coverage" NAME="merge_files Coverage Results" MODIFIED="1555008781625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scriptsForPreparingData" />
+    <SUITE FILE_PATH="coverage/MOW_SN$merge_files.coverage" NAME="merge_files Coverage Results" MODIFIED="1555011744952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scriptsForPreparingData" />
     <SUITE FILE_PATH="coverage/MOW_SN$createJSONFromCSV_1.coverage" NAME="createJSONFromCSV.1 Coverage Results" MODIFIED="1554754682814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helpers" />
     <SUITE FILE_PATH="coverage/MOW_SN$create_JSON_from_CSV.coverage" NAME="create_JSON_from_CSV Coverage Results" MODIFIED="1554762376381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scriptsForPreparingData" />
-    <SUITE FILE_PATH="coverage/MOW_SN$check_actor_availability_in_dataset.coverage" NAME="check_actor_availability_in_dataset Coverage Results" MODIFIED="1554932998910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scriptsForPreparingData" />
+    <SUITE FILE_PATH="coverage/MOW_SN$check_actor_availability_in_dataset.coverage" NAME="check_actor_availability_in_dataset Coverage Results" MODIFIED="1555011737948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scriptsForPreparingData" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/helpers/createJSONFromCSV.py">
@@ -352,16 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/check_actor_availability_in_dataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="70" lean-forward="true" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/create_JSON_from_CSV.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -375,7 +359,7 @@
     <entry file="file://$PROJECT_DIR$/helpers/createJSONFromCSV.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
-          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="30" />
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="30" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -395,10 +379,15 @@
     <entry file="file://$PROJECT_DIR$/originalDataset/credits.csv">
       <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/linkToDatasetKaggle.txt">
+    <entry file="file://$PROJECT_DIR$/staggingArea/mergedFile.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="63" />
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/create_CSV_header.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -409,15 +398,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staggingArea/mergedFile.json">
+    <entry file="file://$PROJECT_DIR$/linkToDatasetKaggle.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255" />
+        <state>
+          <caret selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/check_actor_availability_in_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="91" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/merge_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        <state relative-caret-position="385">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
