@@ -117,6 +117,20 @@ def merge_two_CSV_files_to_one():
 
 
 def mergeRating(rating):
+    '''
+    mergeRating [return new ranking]
+    
+    [Fynction return new ranikng, it means that if overage ranking 
+    is less then 4 of biggest then 8
+    We made it to solve classification problem]
+    
+    
+    :param rating: [actual film rating]
+    :type rating: [int]
+    :return: [new rating]
+    :rtype: [int]
+    '''
+
     newRating=0
     if rating < 4:
         newRating=5
