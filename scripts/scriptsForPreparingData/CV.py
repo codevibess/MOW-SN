@@ -1,7 +1,7 @@
 from sklearn.model_selection import KFold, train_test_split
 import pandas as pd
 
-file_name = 'df.csv'
+file_name = '../../preparedData/mergedFile.csv'
 
 data = pd.read_csv(file_name, sep=',')
 # columns names ['filmId' 'title' 'genre' 'producer' 'actor' 'rating']

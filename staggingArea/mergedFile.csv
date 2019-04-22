@@ -52,7 +52,7 @@ filmId,title,genre,producer,actor,rating
 1572,Die Hard: With a Vengeance,Action,John McTiernan,Jeremy Irons,7
 17447,Jeffrey,Comedy,Victoria Maxwell,Patrick Stewart,6
 9886,Johnny Mnemonic,Adventure,Don Carmody,Keanu Reeves,6
-19326,Jury Duty,Comedy,Yoram Ben-Ami,Stanley Tucci,4
+19326,Jury Duty,Comedy,Yoram Ben-Ami,Stanley Tucci,5
 9071,Living in Oblivion,Drama,Hilary Gilford,Peter Dinklage,7
 9071,Living in Oblivion,Drama,Hilary Gilford,Steve Buscemi,7
 2293,Mallrats,Romance,Scott Mosier,Ben Affleck,7
@@ -143,8 +143,8 @@ filmId,title,genre,producer,actor,rating
 11566,Dave,Comedy,Ivan Reitman,Ben Kingsley,6
 9571,Dazed and Confused,Comedy,Richard Linklater,Matthew McConaughey,7
 9571,Dazed and Confused,Comedy,Richard Linklater,Ben Affleck,7
-34444,Even Cowgirls Get the Blues,Western,Laurie Parker,Keanu Reeves,4
-50463,The Favor,Drama,Lauren Shuler Donner,Brad Pitt,3
+34444,Even Cowgirls Get the Blues,Western,Laurie Parker,Keanu Reeves,5
+50463,The Favor,Drama,Lauren Shuler Donner,Brad Pitt,5
 10443,Fearless,Drama,Paula Weinstein,Jeff Bridges,7
 10443,Fearless,Drama,Paula Weinstein,Benicio del Toro,7
 37233,The Firm,Drama,John Davis,Tom Cruise,7
@@ -319,7 +319,7 @@ filmId,title,genre,producer,actor,rating
 2323,Field of Dreams,Drama,Charles Gordon,Kevin Costner,7
 983,The Man Who Would Be King,Adventure,William Hill,Michael Caine,8
 983,The Man Who Would Be King,Adventure,William Hill,Christopher Plummer,8
-18762,Blue Juice,Comedy,Peter Salmi,Ewan McGregor,4
+18762,Blue Juice,Comedy,Peter Salmi,Ewan McGregor,5
 49126,Audrey Rose,Fantasy,Joe Wizan,Anthony Hopkins,6
 6114,Dracula,Romance,Francis Ford Coppola,Anthony Hopkins,7
 6114,Dracula,Romance,Francis Ford Coppola,Gary Oldman,7
@@ -370,7 +370,7 @@ filmId,title,genre,producer,actor,rating
 1701,Con Air,Action,Jerry Bruckheimer,John Cusack,6
 1701,Con Air,Action,Jerry Bruckheimer,Nicolas Cage,6
 26422,The Pillow Book,Drama,Kees Kasander,Ewan McGregor,7
-1639,Speed 2: Cruise Control,Action,Jan de Bont,Willem Dafoe,4
+1639,Speed 2: Cruise Control,Action,Jan de Bont,Willem Dafoe,5
 65889,Roseanna's Grave,Comedy,Alison Owen,Jean Reno,6
 8874,My Best Friend's Wedding,Comedy,Jerry Zucker,Paul Giamatti,6
 754,Face/Off,Action,Barrie M. Osborne,Nicolas Cage,7
@@ -520,7 +520,7 @@ filmId,title,genre,producer,actor,rating
 16155,Safe Men,Comedy,Andrew Hauptman,Paul Giamatti,6
 11814,Weird Science,Comedy,Joel Silver,Robert Downey Jr.,6
 11976,Legend,Adventure,Arnon Milchan,Tom Cruise,6
-9320,The Avengers,Thriller,Jerry Weintraub,Ralph Fiennes,4
+9320,The Avengers,Thriller,Jerry Weintraub,Ralph Fiennes,5
 10278,Return to Paradise,Drama,David Arnold,Joaquin Phoenix,6
 3682,54,Music,Richard N. Gladstein,Mark Ruffalo,6
 117,The Untouchables,Crime,Art Linson,Robert De Niro,8
@@ -546,8 +546,8 @@ filmId,title,genre,producer,actor,rating
 8916,Antz,Adventure,Aron Warner,Christopher Walken,6
 9429,A Night at the Roxbury,Comedy,Amy Heckerling,Will Ferrell,6
 1955,The Elephant Man,Drama,Jonathan Sanger,Anthony Hopkins,8
-108316,The Alarmist,Comedy,Dan Stone,Ryan Reynolds,3
-108316,The Alarmist,Comedy,Dan Stone,Stanley Tucci,3
+108316,The Alarmist,Comedy,Dan Stone,Ryan Reynolds,5
+108316,The Alarmist,Comedy,Dan Stone,Stanley Tucci,5
 9445,Apt Pupil,Drama,Jane Hamsher,Ian McKellen,6
 2657,Pleasantville,Fantasy,Jon Kilik,William H. Macy,7
 20701,Tales from the Darkside: The Movie,Thriller,Richard P. Rubinstein,Steve Buscemi,6
@@ -597,7 +597,7 @@ filmId,title,genre,producer,actor,rating
 1363,The Hi-Lo Country,Drama,Martin Scorsese,Woody Harrelson,5
 28902,In Dreams,Drama,Stephen Woolley,Robert Downey Jr.,5
 25018,Leatherface: Texas Chainsaw Massacre III,Horror,Robert Engelman,Viggo Mortensen,5
-16780,Texas Chainsaw Massacre: The Next Generation,Horror,Kim Henkel,Matthew McConaughey,4
+16780,Texas Chainsaw Massacre: The Next Generation,Horror,Kim Henkel,Matthew McConaughey,5
 10013,Peggy Sue Got Married,Comedy,Paul R. Gurian,Jim Carrey,6
 10013,Peggy Sue Got Married,Comedy,Paul R. Gurian,Nicolas Cage,6
 11873,The Color of Money,Drama,Irving Axelrad,Forest Whitaker,7
@@ -692,8 +692,8 @@ filmId,title,genre,producer,actor,rating
 492,Being John Malkovich,Fantasy,Steve Golin,Dustin Hoffman,7
 492,Being John Malkovich,Fantasy,Steve Golin,Sean Penn,7
 492,Being John Malkovich,Fantasy,Steve Golin,John Cusack,7
-46286,The Suburbans,Comedy,J.J. Abrams,Will Ferrell,4
-46286,The Suburbans,Comedy,J.J. Abrams,Ben Stiller,4
+46286,The Suburbans,Comedy,J.J. Abrams,Will Ferrell,5
+46286,The Suburbans,Comedy,J.J. Abrams,Ben Stiller,5
 9008,The Insider,Drama,Pieter Jan Brugge,Al Pacino,7
 9008,The Insider,Drama,Pieter Jan Brugge,Russell Crowe,7
 9008,The Insider,Drama,Pieter Jan Brugge,Christopher Plummer,7
@@ -821,12 +821,12 @@ filmId,title,genre,producer,actor,rating
 10518,Marathon Man,Thriller,Robert Evans,Dustin Hoffman,7
 11977,Caddyshack,Comedy,Douglas Kenney,Bill Murray,7
 3536,U-571,Action,Dino De Laurentiis,Matthew McConaughey,6
-310431,Stacy's Knights,Drama,Ann Locktov,Kevin Costner,0
-40562,Committed,Comedy,Marlen Hecht,Mark Ruffalo,4
+310431,Stacy's Knights,Drama,Ann Locktov,Kevin Costner,5
+40562,Committed,Comedy,Marlen Hecht,Mark Ruffalo,5
 15723,The Big Kahuna,Comedy,Kevin Spacey,Kevin Spacey,7
 98,Gladiator,Action,David Franzoni,Russell Crowe,8
 98,Gladiator,Action,David Franzoni,Joaquin Phoenix,8
-5491,Battlefield Earth,Action,John Travolta,Forest Whitaker,3
+5491,Battlefield Earth,Action,John Travolta,Forest Whitaker,5
 10688,Hamlet,Drama,Amy Hobby,Bill Murray,6
 12518,Honeymoon in Vegas,Action,Mike Lobell,Nicolas Cage,6
 8584,Shanghai Noon,Adventure,Roger Birnbaum,Owen Wilson,6
@@ -845,8 +845,8 @@ filmId,title,genre,producer,actor,rating
 9040,Serpico,Crime,Martin Bregman,Al Pacino,8
 479,Shaft,Action,Scott Rudin,Christian Bale,6
 479,Shaft,Action,Scott Rudin,Samuel L. Jackson,6
-17711,The Adventures of Rocky & Bullwinkle,Action,Robert De Niro,Robert De Niro,4
-17711,The Adventures of Rocky & Bullwinkle,Action,Robert De Niro,John Goodman,4
+17711,The Adventures of Rocky & Bullwinkle,Action,Robert De Niro,Robert De Niro,5
+17711,The Adventures of Rocky & Bullwinkle,Action,Robert De Niro,John Goodman,5
 2133,The Perfect Storm,Drama,Gail Katz,Mark Wahlberg,6
 2133,The Perfect Storm,Drama,Gail Katz,George Clooney,6
 28774,Communion,Drama,Whitley Strieber,Christopher Walken,5
@@ -892,7 +892,7 @@ filmId,title,genre,producer,actor,rating
 10876,Quills,Drama,Julia Chasman,Michael Caine,7
 10876,Quills,Drama,Julia Chasman,Joaquin Phoenix,7
 10876,Quills,Drama,Julia Chasman,Geoffrey Rush,7
-11849,Dungeons & Dragons,Action,Kia Jam,Jeremy Irons,4
+11849,Dungeons & Dragons,Action,Kia Jam,Jeremy Irons,5
 11983,Proof of Life,Action,Charles Mulvehill,Russell Crowe,6
 2669,The Bounty,Action,Bernard Williams,Anthony Hopkins,6
 2669,The Bounty,Action,Bernard Williams,Daniel Day-Lewis,6
@@ -937,8 +937,8 @@ filmId,title,genre,producer,actor,rating
 10110,Empire of the Sun,Drama,Kathleen Kennedy,Christian Bale,7
 10110,Empire of the Sun,Drama,Kathleen Kennedy,Ben Stiller,7
 32227,Hunk,Fantasy,Marilyn Jacobs Tenser,Brad Pitt,7
-12704,Ishtar,Action,Warren Beatty,Dustin Hoffman,4
-580,Jaws: The Revenge,Adventure,Joseph Sargent,Michael Caine,4
+12704,Ishtar,Action,Warren Beatty,Dustin Hoffman,5
+580,Jaws: The Revenge,Adventure,Joseph Sargent,Michael Caine,5
 9740,Hannibal,Crime,Ridley Scott,Anthony Hopkins,6
 9740,Hannibal,Crime,Ridley Scott,Gary Oldman,6
 1921,Sweet November,Drama,Steven Reuther,Keanu Reeves,6
@@ -948,7 +948,7 @@ filmId,title,genre,producer,actor,rating
 28410,Tuff Turf,Drama,Donald P. Borchers,Robert Downey Jr.,6
 15598,Alfie,Comedy,Lewis Gilbert,Michael Caine,6
 4986,Fuzz,Comedy,Jack Farren,Steve Carell,6
-33676,Losin' It,Comedy,Bryan Gindoff,Tom Cruise,4
+33676,Losin' It,Comedy,Bryan Gindoff,Tom Cruise,5
 31004,The Mighty Quinn,Action,Ed Elbert,Denzel Washington,6
 38718,Reversal of Fortune,Drama,Edward R. Pressman,Jeremy Irons,7
 14052,Revenge of the Nerds,Comedy,Ted Field,John Goodman,7
@@ -1004,7 +1004,7 @@ filmId,title,genre,producer,actor,rating
 10126,Colors,Action,Robert H. Solo,Sean Penn,7
 10126,Colors,Action,Robert H. Solo,Don Cheadle,7
 9602,Coming to America,Comedy,George Folsey Jr.,Samuel L. Jackson,6
-12702,Critters 3,Comedy,Rupert Harvey,Leonardo DiCaprio,4
+12702,Critters 3,Comedy,Rupert Harvey,Leonardo DiCaprio,5
 10651,The Dead Pool,Action,David Valdes,Clint Eastwood,6
 10651,The Dead Pool,Action,David Valdes,Jim Carrey,6
 10141,Dirty Rotten Scoundrels,Crime,Bernard Williams,Michael Caine,7
@@ -1116,7 +1116,7 @@ filmId,title,genre,producer,actor,rating
 26337,China Moon,Mystery,Roy Carlson,Benicio del Toro,5
 651,M*A*S*H,Comedy,Ingo Preminger,Robert Duvall,7
 11870,Big Fat Liar,Comedy,Brian Robbins,Paul Giamatti,6
-11535,Rollerball,Action,John McTiernan,Jean Reno,3
+11535,Rollerball,Action,John McTiernan,Jean Reno,5
 27593,"Scotland, Pa.",Comedy,Richard Shepard,Christopher Walken,6
 10592,Hart's War,Drama,David Foster,Colin Farrell,6
 8470,John Q,Drama,Mark Burg,Denzel Washington,7
@@ -1173,9 +1173,9 @@ filmId,title,genre,producer,actor,rating
 4147,Road to Perdition,Thriller,Sam Mendes,Daniel Craig,7
 4147,Road to Perdition,Thriller,Sam Mendes,Jude Law,7
 4147,Road to Perdition,Thriller,Sam Mendes,Stanley Tucci,7
-96238,Never Again,Comedy,Terence Michael,Peter Dinklage,4
+96238,Never Again,Comedy,Terence Michael,Peter Dinklage,5
 8665,K-19: The Widowmaker,Drama,Kathryn Bigelow,Harrison Ford,6
-18357,The Country Bears,Adventure,Jeffrey Chernov,Christopher Walken,4
+18357,The Country Bears,Adventure,Jeffrey Chernov,Christopher Walken,5
 9488,Spy Kids 2: The Island of Lost Dreams,Action,Elizabeth Avellan,Steve Buscemi,5
 9488,Spy Kids 2: The Island of Lost Dreams,Action,Elizabeth Avellan,Antonio Banderas,5
 9962,The Good Girl,Drama,Gina Kwon,Jake Gyllenhaal,6
@@ -1185,9 +1185,9 @@ filmId,title,genre,producer,actor,rating
 46878,The Swarm,Action,Irwin Allen,Michael Caine,5
 10859,Stakeout,Action,John Badham,Forest Whitaker,6
 4108,The Transporter,Action,Luc Besson,Jason Statham,7
-10550,Ballistic: Ecks vs. Sever,Action,Elie Samaha,Antonio Banderas,4
+10550,Ballistic: Ecks vs. Sever,Action,Elie Samaha,Antonio Banderas,5
 9034,The Banger Sisters,Comedy,Mark Johnson,Geoffrey Rush,6
-44635,Just a Kiss,Comedy,Matthew H. Rowland,Peter Dinklage,0
+44635,Just a Kiss,Comedy,Matthew H. Rowland,Peter Dinklage,5
 31005,Moonlight Mile,Romance,Mark Johnson,Dustin Hoffman,6
 31005,Moonlight Mile,Romance,Mark Johnson,Jake Gyllenhaal,6
 2110,Wasabi,Drama,Luc Besson,Jean Reno,6
@@ -1207,7 +1207,7 @@ filmId,title,genre,producer,actor,rating
 31679,Eyewitness,Action,Peter Yates,Christopher Plummer,6
 42149,The Hand,Drama,Edward R. Pressman,Michael Caine,6
 17450,Pennies from Heaven,Drama,Herbert Ross,Christopher Walken,6
-13440,The Truth About Charlie,Mystery,Neda Armian,Mark Wahlberg,4
+13440,The Truth About Charlie,Mystery,Neda Armian,Mark Wahlberg,5
 1360,Frida,Drama,Salma Hayek,Edward Norton,7
 1360,Frida,Drama,Salma Hayek,Geoffrey Rush,7
 1360,Frida,Drama,Salma Hayek,Antonio Banderas,7
@@ -1234,7 +1234,7 @@ filmId,title,genre,producer,actor,rating
 1429,25th Hour,Crime,Tobey Maguire,Edward Norton,7
 3131,Gangs of New York,Drama,Gerry Robert Byrne,Leonardo DiCaprio,7
 3131,Gangs of New York,Drama,Gerry Robert Byrne,Daniel Day-Lewis,7
-2149,Body of Evidence,Drama,Bernd Eichinger,Willem Dafoe,4
+2149,Body of Evidence,Drama,Bernd Eichinger,Willem Dafoe,5
 16993,Fat City,Drama,John Huston,Jeff Bridges,7
 640,Catch Me If You Can,Drama,Steven Spielberg,Tom Hanks,8
 640,Catch Me If You Can,Drama,Steven Spielberg,Leonardo DiCaprio,8
@@ -1245,7 +1245,7 @@ filmId,title,genre,producer,actor,rating
 4912,Confessions of a Dangerous Mind,Comedy,Andrew Lazar,Matt Damon,7
 4912,Confessions of a Dangerous Mind,Comedy,Andrew Lazar,Brad Pitt,7
 4912,Confessions of a Dangerous Mind,Comedy,Andrew Lazar,George Clooney,7
-10628,Kangaroo Jack,Comedy,Jerry Bruckheimer,Christopher Walken,4
+10628,Kangaroo Jack,Comedy,Jerry Bruckheimer,Christopher Walken,5
 1647,The Recruit,Action,Roger Birnbaum,Al Pacino,6
 1647,The Recruit,Action,Roger Birnbaum,Colin Farrell,6
 21189,Lost in La Mancha,Documentary,Rosa Bosch,Johnny Depp,7
@@ -1322,9 +1322,9 @@ filmId,title,genre,producer,actor,rating
 54580,Mondays in the Sun,Drama,Elías Querejeta,Javier Bardem,7
 4613,Scorched,Comedy,Al Corley,Woody Harrelson,5
 29805,Juggernaut,Thriller,Richard Alan Simmons,Anthony Hopkins,6
-8046,Gigli,Drama,Casey Silver,Al Pacino,4
-8046,Gigli,Drama,Casey Silver,Christopher Walken,4
-8046,Gigli,Drama,Casey Silver,Ben Affleck,4
+8046,Gigli,Drama,Casey Silver,Al Pacino,5
+8046,Gigli,Drama,Casey Silver,Christopher Walken,5
+8046,Gigli,Drama,Casey Silver,Ben Affleck,5
 9257,S.W.A.T.,Action,Dan Halsted,Samuel L. Jackson,6
 9257,S.W.A.T.,Action,Dan Halsted,Colin Farrell,6
 9257,S.W.A.T.,Action,Dan Halsted,Jeremy Renner,6
@@ -1375,7 +1375,7 @@ filmId,title,genre,producer,actor,rating
 30141,The Singing Detective,Comedy,Bruce Davey,Robert Downey Jr.,6
 30141,The Singing Detective,Comedy,Bruce Davey,Adrien Brody,6
 10536,The Italian Job,Action,Michael Deeley,Michael Caine,7
-96171,Men of Respect,Drama,Ephraim Horowitz,Stanley Tucci,4
+96171,Men of Respect,Drama,Ephraim Horowitz,Stanley Tucci,5
 20312,Interstate 60,Adventure,Bob Gale,Gary Oldman,7
 2348,Holy Matrimony,Comedy,William Stuart,Joseph Gordon-Levitt,5
 10922,The Human Stain,Drama,Tom Rosenberg,Anthony Hopkins,6
@@ -1437,8 +1437,8 @@ filmId,title,genre,producer,actor,rating
 13505,The Perfect Score,Comedy,Roger Birnbaum,Chris Evans,6
 7008,The Wilby Conspiracy,Action,Martin Baum,Michael Caine,7
 35227,Foolish Wives,Drama,Irving Thalberg,Harrison Ford,6
-6470,Fire Birds,Action,Bill Badalato,Tommy Lee Jones,4
-6470,Fire Birds,Action,Bill Badalato,Nicolas Cage,4
+6470,Fire Birds,Action,Bill Badalato,Tommy Lee Jones,5
+6470,Fire Birds,Action,Bill Badalato,Nicolas Cage,5
 9352,EuroTrip,Comedy,Jackie Marcus Schaffer,Matt Damon,6
 13572,Twisted,Action,Arnold Kopelson,Samuel L. Jackson,5
 2023,Hidalgo,Western,Casey Silver,Viggo Mortensen,6
@@ -1524,8 +1524,8 @@ filmId,title,genre,producer,actor,rating
 8699,Anchorman: The Legend of Ron Burgundy,Comedy,Judd Apatow,Will Ferrell,7
 8699,Anchorman: The Legend of Ron Burgundy,Comedy,Judd Apatow,Ben Stiller,7
 9893,Sleepover,Comedy,Charles Weinstock,Steve Carell,5
-36630,Zandalee,Drama,Judge Reinhold,Steve Buscemi,4
-36630,Zandalee,Drama,Judge Reinhold,Nicolas Cage,4
+36630,Zandalee,Drama,Judge Reinhold,Steve Buscemi,5
+36630,Zandalee,Drama,Judge Reinhold,Nicolas Cage,5
 2502,The Bourne Supremacy,Action,Frank Marshall,Matt Damon,7
 18923,A Home at the End of the World,Romance,Tom Hulce,Colin Farrell,7
 5228,Stay Hungry,Comedy,Harold Schneider,Jeff Bridges,6
@@ -1537,7 +1537,7 @@ filmId,title,genre,producer,actor,rating
 36709,Map of the Human Heart,Adventure,Tim Bevan,John Cusack,7
 119623,Swann in Love,Drama,Eberhard Junkersdorf,Jeremy Irons,6
 14462,The Manchurian Candidate,Drama,Scott Rudin,Denzel Washington,6
-14623,Thunderbirds,Action,Tim Bevan,Ben Kingsley,4
+14623,Thunderbirds,Action,Tim Bevan,Ben Kingsley,5
 1538,Collateral,Drama,Michael Mann,Mark Ruffalo,7
 1538,Collateral,Drama,Michael Mann,Javier Bardem,7
 1538,Collateral,Drama,Michael Mann,Jamie Foxx,7
@@ -1829,7 +1829,7 @@ filmId,title,genre,producer,actor,rating
 388,Inside Man,Crime,Brian Grazer,Denzel Washington,7
 388,Inside Man,Crime,Brian Grazer,Willem Dafoe,7
 388,Inside Man,Crime,Brian Grazer,Christopher Plummer,7
-10067,The Shaggy Dog,Comedy,Tim Allen,Robert Downey Jr.,4
+10067,The Shaggy Dog,Comedy,Tim Allen,Robert Downey Jr.,5
 55676,A Personal Journey with Martin Scorsese Through American Movies,Documentary,Martin Scorsese,Clint Eastwood,8
 12763,Take the Lead,Music,Diane Nabatoff,Antonio Banderas,7
 186,Lucky Number Slevin,Drama,Andreas Grosch,Morgan Freeman,7
@@ -1898,8 +1898,8 @@ filmId,title,genre,producer,actor,rating
 1491,The Illusionist,Fantasy,Bob Yari,Edward Norton,7
 1491,The Illusionist,Fantasy,Bob Yari,Paul Giamatti,7
 11652,Invincible,Drama,Mark Ciardi,Mark Wahlberg,7
-9708,The Wicker Man,Mystery,Nicolas Cage,James Franco,4
-9708,The Wicker Man,Mystery,Nicolas Cage,Nicolas Cage,4
+9708,The Wicker Man,Mystery,Nicolas Cage,James Franco,5
+9708,The Wicker Man,Mystery,Nicolas Cage,Nicolas Cage,5
 1249,Hollywoodland,Drama,Glenn Williamson,Ben Affleck,6
 1249,Hollywoodland,Drama,Glenn Williamson,Adrien Brody,6
 10846,The Tiger and the Snow,Comedy,Gianluigi Braschi,Jean Reno,7
@@ -1928,7 +1928,7 @@ filmId,title,genre,producer,actor,rating
 11619,Flushed Away,Adventure,Peter Lord,Ian McKellen,6
 11619,Flushed Away,Adventure,Peter Lord,Jean Reno,6
 1427,Perfume: The Story of a Murderer,Crime,Bernd Eichinger,Dustin Hoffman,7
-12486,Farce of the Penguins,Comedy,David Permut,Samuel L. Jackson,3
+12486,Farce of the Penguins,Comedy,David Permut,Samuel L. Jackson,5
 9726,A Good Year,Comedy,Ridley Scott,Russell Crowe,6
 8588,Shooting Dogs,Drama,Pippa Cross,Hugh Dancy,8
 36557,Casino Royale,Adventure,Barbara Broccoli,Daniel Craig,7
@@ -1982,7 +1982,7 @@ filmId,title,genre,producer,actor,rating
 68979,Dead Heat on a Merry-Go-Round,Comedy,Carter DeHaven,Harrison Ford,6
 1738,Next,Action,Nicolas Cage,Nicolas Cage,6
 1253,Breaking and Entering,Drama,Anthony Minghella,Jude Law,6
-15582,Teen Wolf Too,Comedy,Kent Bateman,Jason Bateman,4
+15582,Teen Wolf Too,Comedy,Kent Bateman,Jason Bateman,5
 1949,Zodiac,Crime,Ceán Chaffin,Robert Downey Jr.,7
 1949,Zodiac,Crime,Ceán Chaffin,Jake Gyllenhaal,7
 1949,Zodiac,Crime,Ceán Chaffin,Mark Ruffalo,7
@@ -2028,7 +2028,7 @@ filmId,title,genre,producer,actor,rating
 298,Ocean's Thirteen,Crime,Jerry Weintraub,Brad Pitt,6
 298,Ocean's Thirteen,Crime,Jerry Weintraub,George Clooney,6
 298,Ocean's Thirteen,Crime,Jerry Weintraub,Don Cheadle,6
-22049,Starcrash,Fantasy,Patrick Wachsberger,Christopher Plummer,4
+22049,Starcrash,Fantasy,Patrick Wachsberger,Christopher Plummer,5
 9408,Surf's Up,Animation,Christopher Jenkins,Jeff Bridges,6
 1979,Fantastic 4: Rise of the Silver Surfer,Adventure,Bernd Eichinger,Chris Evans,5
 17035,The Moguls,Comedy,Aaron Ryder,Jeff Bridges,6
@@ -2130,7 +2130,7 @@ filmId,title,genre,producer,actor,rating
 14047,The Great Debaters,Drama,Oprah Winfrey,Forest Whitaker,7
 4787,Cassandra's Dream,Crime,Letty Aronson,Ewan McGregor,6
 4787,Cassandra's Dream,Crime,Letty Aronson,Colin Farrell,6
-2312,In the Name of the King: A Dungeon Siege Tale,Adventure,Brandon Baker,Jason Statham,4
+2312,In the Name of the King: A Dungeon Siege Tale,Adventure,Brandon Baker,Jason Statham,5
 13252,Cleaner,Crime,Steve Golin,Samuel L. Jackson,6
 10247,He Was a Quiet Man,Romance,Frank A. Cappello,William H. Macy,6
 13160,Over Her Dead Body,Comedy,Paul Brooks,Paul Rudd,5
@@ -2138,7 +2138,7 @@ filmId,title,genre,producer,actor,rating
 8321,In Bruges,Comedy,Graham Broadbent,Colin Farrell,7
 8676,Fool's Gold,Romance,Donald De Line,Matthew McConaughey,5
 8247,Jumper,Adventure,Arnon Milchan,Samuel L. Jackson,6
-14105,Already Dead,Action,Christopher Eberts,Christopher Plummer,4
+14105,Already Dead,Action,Christopher Eberts,Christopher Plummer,5
 8390,"Definitely, Maybe",Comedy,Tim Bevan,Ryan Reynolds,7
 7461,Vantage Point,Drama,Neal H. Moritz,Forest Whitaker,6
 8328,Step Up 2: The Streets,Music,Patrick Wachsberger,Channing Tatum,6
@@ -2147,7 +2147,7 @@ filmId,title,genre,producer,actor,rating
 8848,The Bank Job,Thriller,Charles Roven,Jason Statham,7
 12222,Horton Hears a Who!,Animation,Bob Gordon,Steve Carell,6
 12222,Horton Hears a Who!,Animation,Bob Gordon,Jim Carrey,6
-12177,The Love Guru,Comedy,Michael De Luca,Ben Kingsley,4
+12177,The Love Guru,Comedy,Michael De Luca,Ben Kingsley,5
 7985,Penelope,Fantasy,Reese Witherspoon,James McAvoy,6
 7985,Penelope,Fantasy,Reese Witherspoon,Peter Dinklage,6
 13196,Then She Found Me,Comedy,Helen Hunt,Colin Firth,5
@@ -2224,7 +2224,7 @@ filmId,title,genre,producer,actor,rating
 4944,Burn After Reading,Comedy,Joel Coen,Brad Pitt,6
 4944,Burn After Reading,Comedy,Joel Coen,George Clooney,6
 4944,Burn After Reading,Comedy,Joel Coen,J.K. Simmons,6
-13805,Disaster Movie,Action,Jason Friedberg,Javier Bardem,3
+13805,Disaster Movie,Action,Jason Friedberg,Javier Bardem,5
 13291,Traitor,Drama,Don Cheadle,Don Cheadle,7
 8285,The Spirit,Action,Michael Uslan,Samuel L. Jackson,5
 21335,Oh! What a Lovely War,War,Richard Attenborough,Colin Farrell,6
@@ -2250,7 +2250,7 @@ filmId,title,genre,producer,actor,rating
 10764,Quantum of Solace,Adventure,Barbara Broccoli,Daniel Craig,6
 15373,Role Models,Comedy,Scott Stuber,Paul Rudd,6
 13516,Slacker Uprising,Documentary,Michael Moore,Viggo Mortensen,6
-82519,Restaurant,Drama,Eric Bross,Adrien Brody,0
+82519,Restaurant,Drama,Eric Bross,Adrien Brody,5
 6972,Australia,Drama,Baz Luhrmann,Hugh Jackman,6
 10139,Milk,History,Bruce Cohen,Sean Penn,7
 10139,Milk,History,Bruce Cohen,James Franco,7
@@ -2285,7 +2285,7 @@ filmId,title,genre,producer,actor,rating
 7353,Fireflies in the Garden,Drama,Sukee Chew,Willem Dafoe,6
 7353,Fireflies in the Garden,Drama,Sukee Chew,Ryan Reynolds,6
 18884,Nuremberg,TV Movie,Ian McDougall,Christopher Plummer,8
-14977,Red Sands,Action,Ash R. Shah,J.K. Simmons,4
+14977,Red Sands,Action,Ash R. Shah,J.K. Simmons,5
 14979,Thick as Thieves,Action,Les Weldon,Morgan Freeman,6
 14979,Thick as Thieves,Action,Les Weldon,Tom Hardy,6
 14979,Thick as Thieves,Action,Les Weldon,Antonio Banderas,6
@@ -2361,7 +2361,7 @@ filmId,title,genre,producer,actor,rating
 18533,Bronson,Drama,Rupert Preston,Tom Hardy,7
 25704,Post Grad,Comedy,Ivan Reitman,J.K. Simmons,5
 12244,9,Action,Tim Burton,Christopher Plummer,7
-6309,Flood,Drama,Peter McAleese,Tom Hardy,4
+6309,Flood,Drama,Peter McAleese,Tom Hardy,5
 10313,The Men Who Stare at Goats,Comedy,George Clooney,Kevin Spacey,6
 10313,The Men Who Stare at Goats,Comedy,George Clooney,Jeff Bridges,6
 10313,The Men Who Stare at Goats,Comedy,George Clooney,George Clooney,6
@@ -2382,7 +2382,7 @@ filmId,title,genre,producer,actor,rating
 17622,Fifty Dead Men Walking,Action,Kari Skogland,Ben Kingsley,6
 16523,Where the Wild Things Are,Family,Tom Hanks,Mark Ruffalo,6
 16523,Where the Wild Things Are,Family,Tom Hanks,Forest Whitaker,6
-44630,Aces High,Action,Benjamin Fisz,Christopher Plummer,4
+44630,Aces High,Action,Benjamin Fisz,Christopher Plummer,5
 25132,Shorts,Comedy,Robert Rodriguez,William H. Macy,5
 12572,"New York, I Love You",Comedy,Marina Grasic,Bradley Cooper,6
 22803,Law Abiding Citizen,Drama,Lucas Foster,Jamie Foxx,7
@@ -2490,7 +2490,7 @@ filmId,title,genre,producer,actor,rating
 66775,Young Winston,Action,Carl Foreman,Anthony Hopkins,7
 38199,Unthinkable,Drama,Bill Perkins,Samuel L. Jackson,7
 37707,Splice,Horror,Guillermo del Toro,Adrien Brody,6
-20533,Jonah Hex,Action,Akiva Goldsman,Michael Fassbender,4
+20533,Jonah Hex,Action,Akiva Goldsman,Michael Fassbender,5
 34544,The A-Team,Thriller,Iain Smith,Bradley Cooper,6
 59231,The Rain People,Drama,Ronald Colby,Robert Duvall,6
 76180,Empire of Dreams: The Story of the Star Wars Trilogy,Documentary,Edith Becker,Harrison Ford,7
@@ -2514,13 +2514,13 @@ filmId,title,genre,producer,actor,rating
 23759,Centurion,Adventure,Robert Jones,Michael Fassbender,6
 43549,The Experiment,Thriller,Bill Johnson,Forest Whitaker,6
 43549,The Experiment,Thriller,Bill Johnson,Adrien Brody,6
-29159,Giallo,Crime,Adrien Brody,Adrien Brody,4
+29159,Giallo,Crime,Adrien Brody,Adrien Brody,5
 27579,The American,Crime,George Clooney,George Clooney,6
 41210,The Switch,Comedy,Albert Berger,Jason Bateman,6
 23631,Machete,Action,Robert Rodriguez,Robert De Niro,6
 4204,$5 a Day,Drama,Carol Baum,Christopher Walken,6
 37645,22 Bullets,Action,Luc Besson,Jean Reno,6
-55066,The Eternal,Horror,David L. Bushell,Christopher Walken,4
+55066,The Eternal,Horror,David L. Bushell,Christopher Walken,5
 23168,The Town,Crime,Graham King,Ben Affleck,7
 23168,The Town,Crime,Graham King,Jeremy Renner,7
 37735,Easy A,Comedy,Zanne Devine,Stanley Tucci,7
@@ -2662,11 +2662,11 @@ filmId,title,genre,producer,actor,rating
 1771,Captain America: The First Avenger,Action,Kevin Feige,Stanley Tucci,7
 50646,"Crazy, Stupid, Love.",Comedy,Denise Di Novi,Ryan Gosling,7
 50646,"Crazy, Stupid, Love.",Comedy,Denise Di Novi,Steve Carell,7
-74946,Feast of All Saints,Romance,Peter R. McIntosh,Forest Whitaker,4
+74946,Feast of All Saints,Romance,Peter R. McIntosh,Forest Whitaker,5
 67913,The Guard,Action,Andrew Lowe,Don Cheadle,7
 13931,Mike's New Car,Animation,Pete Docter,John Goodman,7
-83105,The Boy in Blue,Drama,John Kemeny,Christopher Plummer,4
-83105,The Boy in Blue,Drama,John Kemeny,Nicolas Cage,4
+83105,The Boy in Blue,Drama,John Kemeny,Christopher Plummer,5
+83105,The Boy in Blue,Drama,John Kemeny,Nicolas Cage,5
 55846,Blitz,Crime,Donald Kushner,Jason Statham,6
 59968,Our Idiot Brother,Comedy,Anthony Bregman,Hugh Dancy,6
 59968,Our Idiot Brother,Comedy,Anthony Bregman,Paul Rudd,6
@@ -2674,7 +2674,7 @@ filmId,title,genre,producer,actor,rating
 49520,The Change-Up,Comedy,Neal H. Moritz,Jason Bateman,6
 59435,An Invisible Sign,Family,Pamela Falk,J.K. Simmons,5
 60309,The Conspirator,Crime,Bill Holderman,James McAvoy,6
-56288,Spy Kids: All the Time in the World,Family,Robert Rodriguez,Antonio Banderas,4
+56288,Spy Kids: All the Time in the World,Family,Robert Rodriguez,Antonio Banderas,5
 58151,Fright Night,Horror,Michael De Luca,Colin Farrell,6
 44835,Hesher,Drama,Natalie Portman,Joseph Gordon-Levitt,7
 63311,The Skin I Live In,Drama,Esther García,Antonio Banderas,7
@@ -2734,8 +2734,8 @@ filmId,title,genre,producer,actor,rating
 44826,Hugo,Adventure,Johnny Depp,Jude Law,7
 44826,Hugo,Adventure,Johnny Depp,Ben Kingsley,7
 70578,Trespass,Crime,Irwin Winkler,Nicolas Cage,5
-26738,Rage,Thriller,Christopher Sheppard,Steve Buscemi,4
-26738,Rage,Thriller,Christopher Sheppard,Jude Law,4
+26738,Rage,Thriller,Christopher Sheppard,Steve Buscemi,5
+26738,Rage,Thriller,Christopher Sheppard,Jude Law,5
 65057,The Descendants,Comedy,Jim Taylor,George Clooney,7
 57212,War Horse,Drama,Steven Spielberg,Benedict Cumberbatch,7
 57212,War Horse,Drama,Steven Spielberg,Tom Hiddleston,7
@@ -2785,8 +2785,8 @@ filmId,title,genre,producer,actor,rating
 70954,The Hunter,Drama,Vincent Sheehan,Willem Dafoe,7
 71676,Ghost Rider: Spirit of Vengeance,Action,Michael De Luca,Idris Elba,5
 71676,Ghost Rider: Spirit of Vengeance,Action,Michael De Luca,Nicolas Cage,5
-26397,The Civil War,Documentary,Ken Burns,Morgan Freeman,9
-26397,The Civil War,Documentary,Ken Burns,Jeremy Irons,9
+26397,The Civil War,Documentary,Ken Burns,Morgan Freeman,8
+26397,The Civil War,Documentary,Ken Burns,Jeremy Irons,8
 70876,Seven Days in Utopia,Drama,Mark G. Mathis,Robert Duvall,5
 71254,Arena,Action,Brad Krevoy,Samuel L. Jackson,5
 73937,The Big Year,Comedy,Curtis Hanson,Owen Wilson,6
@@ -2803,7 +2803,7 @@ filmId,title,genre,producer,actor,rating
 57165,Wrath of the Titans,Adventure,Basil Iwanyk,Ralph Fiennes,6
 74308,Detachment,Drama,Greg Shapiro,Bryan Cranston,7
 74308,Detachment,Drama,Greg Shapiro,Adrien Brody,7
-86820,4:44 Last Day on Earth,Drama,Vincent Maraval,Willem Dafoe,4
+86820,4:44 Last Day on Earth,Drama,Vincent Maraval,Willem Dafoe,5
 22970,The Cabin in the Woods,Horror,Joss Whedon,Chris Hemsworth,7
 87098,The Desert of Forbidden Art,History,Amanda Pope,Ben Kingsley,5
 70436,The Raven,Crime,Aaron Ryder,John Cusack,6
@@ -2875,7 +2875,7 @@ filmId,title,genre,producer,actor,rating
 86838,Seven Psychopaths,Comedy,Graham Broadbent,Colin Farrell,7
 79697,Butter,Comedy,Michael De Luca,Hugh Jackman,6
 75736,Catch.44,Drama,Randall Emmett,Forest Whitaker,5
-122928,The Letter,Drama,Vince Jolivette,James Franco,4
+122928,The Letter,Drama,Vince Jolivette,James Franco,5
 94348,Alex Cross,Action,Steve Bowen,Jean Reno,5
 83542,Cloud Atlas,Drama,Tom Tykwer,Tom Hanks,7
 105942,ReGeneration,Documentary,Ryan Gosling,Ryan Gosling,7
@@ -2894,7 +2894,7 @@ filmId,title,genre,producer,actor,rating
 81188,Rise of the Guardians,Fantasy,Christina Steinberg,Hugh Jackman,7
 81188,Rise of the Guardians,Fantasy,Christina Steinberg,Jude Law,7
 81188,Rise of the Guardians,Fantasy,Christina Steinberg,Chris Pine,7
-51594,The Statue of Liberty,History,Ken Burns,Jeremy Irons,0
+51594,The Statue of Liberty,History,Ken Burns,Jeremy Irons,5
 152795,The Congress,Drama,Robin Wright,Paul Giamatti,6
 112336,Hitchcock,Drama,Ivan Reitman,Anthony Hopkins,6
 49051,The Hobbit: An Unexpected Journey,Adventure,Carolynne Cunningham,Ian McKellen,7
@@ -2928,8 +2928,8 @@ filmId,title,genre,producer,actor,rating
 84834,Double Indemnity,Crime,Robert F. O Neill,Edward Norton,5
 98357,Broken City,Thriller,Arnon Milchan,Russell Crowe,6
 98357,Broken City,Thriller,Arnon Milchan,Mark Wahlberg,6
-87818,Movie 43,Comedy,Peter Farrelly,Hugh Jackman,4
-87818,Movie 43,Comedy,Peter Farrelly,Chris Pratt,4
+87818,Movie 43,Comedy,Peter Farrelly,Hugh Jackman,5
+87818,Movie 43,Comedy,Peter Farrelly,Chris Pratt,5
 119283,Parker,Action,Sidney Kimmel,Jason Statham,6
 60304,Hansel & Gretel: Witch Hunters,Fantasy,Tommy Wirkola,Jeremy Renner,6
 121824,Stand Up Guys,Thriller,Tom Rosenberg,Al Pacino,6
@@ -2937,7 +2937,7 @@ filmId,title,genre,producer,actor,rating
 109421,Side Effects,Thriller,Lorenzo di Bonaventura,Jude Law,6
 109421,Side Effects,Thriller,Lorenzo di Bonaventura,Channing Tatum,6
 109431,Identity Thief,Comedy,Pamela Abdy,Jason Bateman,6
-124461,A Glimpse Inside the Mind of Charles Swan III,Comedy,Roman Coppola,Bill Murray,4
+124461,A Glimpse Inside the Mind of Charles Swan III,Comedy,Roman Coppola,Bill Murray,5
 109491,Beautiful Creatures,Fantasy,Broderick Johnson,Jeremy Irons,6
 84330,Room 237,Documentary,Tim Kirk,Tom Cruise,6
 134411,Snitch,Thriller,Jonathan King,Dwayne Johnson,6
@@ -3048,7 +3048,7 @@ filmId,title,genre,producer,actor,rating
 76285,Percy Jackson: Sea of Monsters,Adventure,Michael Barnathan,Stanley Tucci,6
 113148,Prince Avalanche,Comedy,Lisa Muskat,Paul Rudd,6
 109418,Grown Ups 2,Comedy,Jack Giarraputo,Steve Buscemi,6
-259808,Criminal Justice,TV Movie,Michael Nozik,Forest Whitaker,10
+259808,Criminal Justice,TV Movie,Michael Nozik,Forest Whitaker,8
 59859,Kick-Ass 2,Action,Adam Bohling,Jim Carrey,6
 115348,Paranoia,Drama,Scott Lambert,Gary Oldman,6
 115348,Paranoia,Drama,Scott Lambert,Harrison Ford,6
@@ -3077,7 +3077,7 @@ filmId,title,genre,producer,actor,rating
 136911,The Factory,Crime,Joel Silver,John Cusack,6
 138697,Don Jon,Romance,Ram Bergman,Joseph Gordon-Levitt,6
 138697,Don Jon,Romance,Ram Bergman,Channing Tatum,6
-60125,Men Seeking Women,Comedy,Jim Milio,Will Ferrell,4
+60125,Men Seeking Women,Comedy,Jim Milio,Will Ferrell,5
 146238,Runner Runner,Crime,Leonardo DiCaprio,Ben Affleck,6
 209262,Parkland,History,Gary Goetzman,Paul Giamatti,6
 109424,Captain Phillips,Action,Scott Rudin,Tom Hanks,8
@@ -3105,12 +3105,12 @@ filmId,title,genre,producer,actor,rating
 152532,Dallas Buyers Club,Drama,Robbie Brenner,Matthew McConaughey,8
 97434,Gambit,Comedy,Mike Lobell,Colin Firth,5
 97434,Gambit,Comedy,Mike Lobell,Stanley Tucci,5
-193212,The Man Who Captured Eichmann,TV Movie,Raúl Outeda,Robert Duvall,4
+193212,The Man Who Captured Eichmann,TV Movie,Raúl Outeda,Robert Duvall,5
 121674,Great Expectations,Drama,Stephen Woolley,Ralph Fiennes,6
 137093,Last Vegas,Comedy,Laurence Mark,Morgan Freeman,6
 137093,Last Vegas,Comedy,Laurence Mark,Robert De Niro,6
-225703,The Starving Games,Comedy,Peter Safran,Jason Statham,4
-222858,A Bucket of Blood,Thriller,Mike Elliott,Will Ferrell,4
+225703,The Starving Games,Comedy,Peter Safran,Jason Statham,5
+222858,A Bucket of Blood,Thriller,Mike Elliott,Will Ferrell,5
 193645,Seduced and Abandoned,Documentary,Alec Baldwin,Ryan Gosling,7
 203833,The Book Thief,Drama,Karen Rosenfelt,Geoffrey Rush,7
 101299,The Hunger Games: Catching Fire,Adventure,Jon Kilik,Woody Harrelson,7
@@ -3118,7 +3118,7 @@ filmId,title,genre,producer,actor,rating
 57158,The Hobbit: The Desolation of Smaug,Adventure,Carolynne Cunningham,Ian McKellen,8
 57158,The Hobbit: The Desolation of Smaug,Adventure,Carolynne Cunningham,Benedict Cumberbatch,8
 64686,47 Ronin,Drama,Scott Stuber,Keanu Reeves,6
-129405,World War II: When Lions Roared,Drama,David W. Rintels,Michael Caine,0
+129405,World War II: When Lions Roared,Drama,David W. Rintels,Michael Caine,5
 146239,Delivery Man,Comedy,André Rouleau,Chris Pratt,6
 86829,Inside Llewyn Davis,Drama,Ethan Coen,John Goodman,7
 204082,Homefront,Action,Sylvester Stallone,James Franco,6
@@ -3160,7 +3160,7 @@ filmId,title,genre,producer,actor,rating
 173467,Milius,Documentary,Joey Figueroa,Harrison Ford,7
 173467,Milius,Documentary,Joey Figueroa,Clint Eastwood,7
 173467,Milius,Documentary,Joey Figueroa,John Goodman,7
-4949,A Time for Killing,Western,Harry Joe Brown,Harrison Ford,4
+4949,A Time for Killing,Western,Harry Joe Brown,Harrison Ford,5
 137094,Jack Ryan: Shadow Recruit,Action,Lorenzo di Bonaventura,Chris Pine,6
 137094,Jack Ryan: Shadow Recruit,Action,Lorenzo di Bonaventura,Kevin Costner,6
 240916,Reasonable Doubt,Crime,David Valleau,Samuel L. Jackson,6
@@ -3251,7 +3251,7 @@ filmId,title,genre,producer,actor,rating
 188161,A Million Ways to Die in the West,Comedy,Jason Clark,Ryan Reynolds,6
 188161,A Million Ways to Die in the West,Comedy,Jason Clark,Jamie Foxx,6
 137113,Edge of Tomorrow,Action,Jason Hoffs,Tom Cruise,8
-163376,Luv,Romance,Martin Manulis,Harrison Ford,0
+163376,Luv,Romance,Martin Manulis,Harrison Ford,5
 248688,A Night in Old Mexico,Drama,Emilio Aragón,Robert Duvall,5
 222935,The Fault in Our Stars,Romance,Marty Bowen,Willem Dafoe,8
 175541,Black Nativity,Drama,T.D. Jakes,Forest Whitaker,6
@@ -3277,7 +3277,7 @@ filmId,title,genre,producer,actor,rating
 157849,A Most Wanted Man,Thriller,Andrea Calderwood,Willem Dafoe,6
 217316,1,Documentary,Michael Shevloff,Michael Fassbender,7
 227156,The Giver,Drama,Jeff Bridges,Jeff Bridges,6
-124972,Generation Um...,Drama,Alison Palmer Bourke,Keanu Reeves,4
+124972,Generation Um...,Drama,Alison Palmer Bourke,Keanu Reeves,5
 189,Sin City: A Dame to Kill For,Crime,Robert Rodriguez,Joseph Gordon-Levitt,6
 209244,Are You Here,Comedy,Jordan Horowitz,Owen Wilson,5
 174326,A Birder's Guide to Everything,Comedy,Kirsten Duncan Fuller,Ben Kingsley,6
@@ -3309,12 +3309,12 @@ filmId,title,genre,producer,actor,rating
 157829,The Disappearance of Eleanor Rigby: Them,Drama,Cassandra Kulukundis,James McAvoy,6
 228150,Fury,War,David Ayer,Brad Pitt,7
 239563,St. Vincent,Comedy,Fred Roos,Bill Murray,7
-218043,Left Behind,Thriller,Ed Clydesdale,Nicolas Cage,4
+218043,Left Behind,Thriller,Ed Clydesdale,Nicolas Cage,5
 289727,The Rewrite,Romance,Liz Glotzer,J.K. Simmons,6
 242582,Nightcrawler,Crime,Jennifer Fox,Jake Gyllenhaal,8
 152736,Child of God,Crime,Vince Jolivette,James Franco,5
 228326,The Book of Life,Romance,Guillermo del Toro,Channing Tatum,7
-119213,Cold Around the Heart,Crime,Dan Halsted,Jude Law,4
+119213,Cold Around the Heart,Crime,Dan Halsted,Jude Law,5
 289314,Olive Kitteridge,Drama,David Coatsworth,Bill Murray,8
 87492,Foxcatcher,Drama,Anthony Bregman,Mark Ruffalo,6
 87492,Foxcatcher,Drama,Anthony Bregman,Steve Carell,6
@@ -3340,7 +3340,7 @@ filmId,title,genre,producer,actor,rating
 253331,Black or White,Drama,Mike Binder,Kevin Costner,6
 256917,The Water Diviner,War,Andrew Mason,Russell Crowe,7
 244458,The Voices,Comedy,Roy Lee,Ryan Reynolds,6
-297596,Dying of the Light,Thriller,Scott Clayton,Nicolas Cage,4
+297596,Dying of the Light,Thriller,Scott Clayton,Nicolas Cage,5
 245916,Kill the Messenger,Thriller,Pamela Abdy,Jeremy Renner,7
 122917,The Hobbit: The Battle of the Five Armies,Action,Peter Jackson,Ian McKellen,7
 122917,The Hobbit: The Battle of the Five Armies,Action,Peter Jackson,Benedict Cumberbatch,7
@@ -3359,7 +3359,7 @@ filmId,title,genre,producer,actor,rating
 181533,Night at the Museum: Secret of the Tomb,Adventure,Chris Columbus,Ben Kingsley,6
 181533,Night at the Museum: Secret of the Tomb,Adventure,Chris Columbus,Owen Wilson,6
 181533,Night at the Museum: Secret of the Tomb,Adventure,Chris Columbus,Ben Stiller,6
-241432,Days and Nights,Drama,Barbara Romer,Jean Reno,4
+241432,Days and Nights,Drama,Barbara Romer,Jean Reno,5
 68737,Seventh Son,Adventure,Basil Iwanyk,Jeff Bridges,5
 196867,Annie,Comedy,Will Smith,Jamie Foxx,6
 198184,Chappie,Crime,Simon Kinberg,Hugh Jackman,7
@@ -3378,10 +3378,10 @@ filmId,title,genre,producer,actor,rating
 38602,Little Lord Fauntleroy,TV Movie,Norman Rosemont,Patrick Stewart,7
 75337,Too Tough to Die: A Tribute to Johnny Ramone,Documentary,Jonathan Del Gatto,Nicolas Cage,7
 174343,Trust Me,Comedy,Mary Vernieu,William H. Macy,6
-12787,Homeboy,Drama,Alan Marshall,Christopher Walken,4
+12787,Homeboy,Drama,Alan Marshall,Christopher Walken,5
 48358,The Canterville Ghost,TV Movie,Robert Benedetti,Patrick Stewart,6
-49429,Older Than America,Drama,Christine K. Walker,Bradley Cooper,4
-45662,Space Chimps 2: Zartog Strikes Back,Animation,John H. Williams,Stanley Tucci,4
+49429,Older Than America,Drama,Christine K. Walker,Bradley Cooper,5
+45662,Space Chimps 2: Zartog Strikes Back,Animation,John H. Williams,Stanley Tucci,5
 76341,Mad Max: Fury Road,Action,Doug Mitchell,Tom Hardy,7
 140607,Star Wars: The Force Awakens,Action,Bryan Burk,Harrison Ford,8
 140607,Star Wars: The Force Awakens,Action,Bryan Burk,Ewan McGregor,8
@@ -3390,17 +3390,17 @@ filmId,title,genre,producer,actor,rating
 166426,Pirates of the Caribbean: Dead Men Tell No Tales,Adventure,Jerry Bruckheimer,Johnny Depp,7
 166426,Pirates of the Caribbean: Dead Men Tell No Tales,Adventure,Jerry Bruckheimer,Javier Bardem,7
 166426,Pirates of the Caribbean: Dead Men Tell No Tales,Adventure,Jerry Bruckheimer,Geoffrey Rush,7
-141052,Justice League,Action,Charles Roven,Willem Dafoe,0
-141052,Justice League,Action,Charles Roven,J.K. Simmons,0
-141052,Justice League,Action,Charles Roven,Jeremy Irons,0
-141052,Justice League,Action,Charles Roven,Ben Affleck,0
+141052,Justice League,Action,Charles Roven,Willem Dafoe,5
+141052,Justice League,Action,Charles Roven,J.K. Simmons,5
+141052,Justice League,Action,Charles Roven,Jeremy Irons,5
+141052,Justice League,Action,Charles Roven,Ben Affleck,5
 102899,Ant-Man,Science Fiction,Kevin Feige,Paul Rudd,7
-284053,Thor: Ragnarok,Action,Kevin Feige,Anthony Hopkins,0
-284053,Thor: Ragnarok,Action,Kevin Feige,Benedict Cumberbatch,0
-284053,Thor: Ragnarok,Action,Kevin Feige,Mark Ruffalo,0
-284053,Thor: Ragnarok,Action,Kevin Feige,Chris Hemsworth,0
-284053,Thor: Ragnarok,Action,Kevin Feige,Idris Elba,0
-284053,Thor: Ragnarok,Action,Kevin Feige,Tom Hiddleston,0
+284053,Thor: Ragnarok,Action,Kevin Feige,Anthony Hopkins,5
+284053,Thor: Ragnarok,Action,Kevin Feige,Benedict Cumberbatch,5
+284053,Thor: Ragnarok,Action,Kevin Feige,Mark Ruffalo,5
+284053,Thor: Ragnarok,Action,Kevin Feige,Chris Hemsworth,5
+284053,Thor: Ragnarok,Action,Kevin Feige,Idris Elba,5
+284053,Thor: Ragnarok,Action,Kevin Feige,Tom Hiddleston,5
 271110,Captain America: Civil War,Adventure,Kevin Feige,Robert Downey Jr.,7
 271110,Captain America: Civil War,Adventure,Kevin Feige,Chris Evans,7
 271110,Captain America: Civil War,Adventure,Kevin Feige,Paul Rudd,7
@@ -3419,11 +3419,11 @@ filmId,title,genre,producer,actor,rating
 284536,The Gambler,Thriller,Irwin Winkler,John Goodman,6
 60949,Toys in the Attic,Thriller,Vivian Schilling,Forest Whitaker,6
 111910,Stage Struck,Drama,Stuart Millar,Christopher Plummer,6
-46562,The Last Rites of Ransom Pride,Action,Michael Frislev,Peter Dinklage,4
+46562,The Last Rites of Ransom Pride,Action,Michael Frislev,Peter Dinklage,5
 244580,Low Down,Drama,Albert Berger,Peter Dinklage,5
 210860,Mortdecai,Comedy,Christi Dembrowski,Johnny Depp,5
 210860,Mortdecai,Comedy,Christi Dembrowski,Ewan McGregor,5
-250066,American Heist,Action,Gevond Andreasyan,Adrien Brody,4
+250066,American Heist,Action,Gevond Andreasyan,Adrien Brody,5
 291869,I Am Michael,Drama,James Franco,James Franco,6
 309242,Mississippi Grind,Drama,Lynette Howell,Ryan Reynolds,6
 245706,True Story,Crime,Dede Gardner,James Franco,6
@@ -3439,12 +3439,12 @@ filmId,title,genre,producer,actor,rating
 86835,Knight of Cups,Romance,Sarah Green,Christian Bale,6
 86835,Knight of Cups,Romance,Sarah Green,Ben Kingsley,6
 86835,Knight of Cups,Romance,Sarah Green,Antonio Banderas,6
-49789,Priest of Love,Drama,Christopher Miles,Ian McKellen,0
+49789,Priest of Love,Drama,Christopher Miles,Ian McKellen,5
 2141,James Dean,Drama,George W. Perkins,James Franco,7
 201085,Crimson Peak,Mystery,Callum Greene,Tom Hiddleston,6
-300803,Dragonheart 3: The Sorcerer's Curse,Action,Raffaella De Laurentiis,Ben Kingsley,4
+300803,Dragonheart 3: The Sorcerer's Curse,Action,Raffaella De Laurentiis,Ben Kingsley,5
 243938,Hot Tub Time Machine 2,Comedy,Andrew Panay,John Cusack,5
-98554,Serving Life,TV Movie,Molly M. Fowler,Forest Whitaker,9
+98554,Serving Life,TV Movie,Molly M. Fowler,Forest Whitaker,8
 208028,Exhibition,Drama,Gayle Griffiths,Tom Hiddleston,5
 246127,Every Thing Will Be Fine,Drama,Gian-Piero Ringel,James Franco,5
 228165,The SpongeBob Movie: Sponge Out of Water,Animation,Nan Morales,Antonio Banderas,6
@@ -3461,9 +3461,9 @@ filmId,title,genre,producer,actor,rating
 266396,The Gunman,Action,Joel Silver,Idris Elba,6
 275060,The Disappearance of Eleanor Rigby: Her,Drama,Cassandra Kulukundis,James McAvoy,7
 276401,The Disappearance of Eleanor Rigby: Him,Romance,Jessica Chastain,James McAvoy,7
-199647,The Color of Time,Drama,James Franco,James Franco,4
+199647,The Color of Time,Drama,James Franco,James Franco,5
 255343,Escobar: Paradise Lost,Thriller,Dimitri Rassam,Benicio del Toro,6
-220493,Sal,Drama,Vince Jolivette,James Franco,4
+220493,Sal,Drama,Vince Jolivette,James Franco,5
 181283,Child 44,Crime,Ridley Scott,Gary Oldman,6
 181283,Child 44,Crime,Ridley Scott,Tom Hardy,6
 283227,A Little Chaos,Drama,Andrea Calderwood,Stanley Tucci,6
@@ -3485,11 +3485,11 @@ filmId,title,genre,producer,actor,rating
 92389,Badge 373,Thriller,Howard W. Koch,Robert Duvall,6
 293863,The Age of Adaline,Fantasy,Sidney Kimmel,Harrison Ford,7
 333103,Comedy Central Roast of Justin Bieber,Comedy,Jeffrey Ross,Will Ferrell,7
-192712,Kite,Drama,Moisés Cosío,Samuel L. Jackson,4
+192712,Kite,Drama,Moisés Cosío,Samuel L. Jackson,5
 175112,Tinker Bell and the Pirate Fairy,Animation,Jenni Magee-Cook,Tom Hiddleston,6
 254128,San Andreas,Action,Beau Flynn,Paul Giamatti,6
 254128,San Andreas,Action,Beau Flynn,Dwayne Johnson,6
-240704,Island of Lemurs: Madagascar,Documentary,Drew Fellman,Morgan Freeman,4
+240704,Island of Lemurs: Madagascar,Documentary,Drew Fellman,Morgan Freeman,5
 160768,Jimmy P.,Drama,Pascal Caucheteux,Benicio del Toro,6
 136368,Echo Planet,Adventure,Auchara Kijkanjanas,J.K. Simmons,6
 254320,The Lobster,Thriller,Ceci Dempsey,Colin Farrell,7
@@ -3510,7 +3510,7 @@ filmId,title,genre,producer,actor,rating
 131634,The Hunger Games: Mockingjay - Part 2,Action,Jon Kilik,Woody Harrelson,7
 131634,The Hunger Games: Mockingjay - Part 2,Action,Jon Kilik,Stanley Tucci,7
 257344,Pixels,Action,Michael Barnathan,Peter Dinklage,6
-74849,The Star Wars Holiday Special,Adventure,Mitzie Welch,Harrison Ford,3
+74849,The Star Wars Holiday Special,Adventure,Mitzie Welch,Harrison Ford,5
 30762,3: The Dale Earnhardt Story,TV Movie,Orly Adelson,J.K. Simmons,6
 280996,Mr. Holmes,Drama,Iain Canning,Ian McKellen,6
 238615,Self/less,Science Fiction,Ram Bergman,Ryan Reynolds,6
@@ -3539,11 +3539,11 @@ filmId,title,genre,producer,actor,rating
 296099,Vacation,Comedy,Chris Bender,Chris Hemsworth,6
 253161,Madame Bovary,Drama,Sophie Barthes,Paul Giamatti,5
 254905,Manglehorn,Drama,Lisa Muskat,Al Pacino,5
-324333,Wild Horses,Crime,Rob Carliner,Robert Duvall,4
-324333,Wild Horses,Crime,Rob Carliner,James Franco,4
+324333,Wild Horses,Crime,Rob Carliner,Robert Duvall,5
+324333,Wild Horses,Crime,Rob Carliner,James Franco,5
 245685,Postman Pat: The Movie,Adventure,Robert Anich,Chris Evans,5
 240483,Robot Overlords,Adventure,Ian Flooks,Ben Kingsley,5
-264560,When Friendship Kills,Drama,Tracey Jeffrey,Ryan Reynolds,4
+264560,When Friendship Kills,Drama,Tracey Jeffrey,Ryan Reynolds,5
 264999,Magic Mike XXL,Comedy,Nick Wechsler,Channing Tatum,6
 77625,Moving Target,Thriller,Andy Tennant,Jason Bateman,5
 278927,The Jungle Book,Family,Jon Favreau,Christopher Walken,7
@@ -3555,7 +3555,7 @@ filmId,title,genre,producer,actor,rating
 63971,Deserter,Drama,Laura Burrows,Tom Hardy,5
 285783,The Walk,Adventure,Jack Rapke,Joseph Gordon-Levitt,7
 285783,The Walk,Adventure,Jack Rapke,Ben Kingsley,7
-88658,Cold Feet,Crime,Susan Bridges,Jeff Bridges,0
+88658,Cold Feet,Crime,Susan Bridges,Jeff Bridges,5
 279144,"The Death of ""Superman Lives"": What Happened?",Documentary,Jon Schnepp,Nicolas Cage,7
 281957,The Revenant,Western,Steve Golin,Leonardo DiCaprio,7
 281957,The Revenant,Western,Steve Golin,Tom Hardy,7
@@ -3630,7 +3630,7 @@ filmId,title,genre,producer,actor,rating
 266639,Jem and the Holograms,Drama,Brian Goldner,Dwayne Johnson,5
 293646,The 33,Drama,Robert Katz,Antonio Banderas,6
 254172,Fathers and Daughters,Drama,Sherryl Clark,Russell Crowe,7
-287636,The Sound And The Fury,Drama,Vince Jolivette,James Franco,4
+287636,The Sound And The Fury,Drama,Vince Jolivette,James Franco,5
 294016,Trumbo,Drama,Kevin Kelly Brown,Bryan Cranston,7
 294016,Trumbo,Drama,Kevin Kelly Brown,John Goodman,7
 321039,The Phoenix Incident,Horror,Keith Arem,Patrick Stewart,5
@@ -3643,7 +3643,7 @@ filmId,title,genre,producer,actor,rating
 348060,Antigang,Action,James Richardson,Jean Reno,6
 210293,The Smile Man,Comedy,Kevin Spacey,Willem Dafoe,7
 80775,Away All Boats,War,Howard Christie,Clint Eastwood,6
-134743,Who Am I This Time?,Drama,Neal Miller,Christopher Walken,9
+134743,Who Am I This Time?,Drama,Neal Miller,Christopher Walken,8
 340275,Chi-Raq,Music,Spike Lee,Samuel L. Jackson,6
 340275,Chi-Raq,Music,Spike Lee,John Cusack,6
 291868,My Life Directed by Nicolas Winding Refn,Documentary,Lene Børglum,Ryan Gosling,6
@@ -3670,7 +3670,7 @@ filmId,title,genre,producer,actor,rating
 29982,Unrelated,Drama,Joanna Hogg,Tom Hiddleston,5
 319888,Eddie the Eagle,Comedy,Matthew Vaughn,Hugh Jackman,7
 319888,Eddie the Eagle,Comedy,Matthew Vaughn,Christopher Walken,7
-331962,Exposed,Drama,Keanu Reeves,Keanu Reeves,4
+331962,Exposed,Drama,Keanu Reeves,Keanu Reeves,5
 340357,April and the Extraordinary World,Thriller,Michel Dutheil,J.K. Simmons,7
 291870,Dirty Grandpa,Comedy,Barry Josephson,Robert De Niro,6
 300673,The Finest Hours,Action,James Whitaker,Chris Pine,6
@@ -3689,7 +3689,7 @@ filmId,title,genre,producer,actor,rating
 302528,Remember,Drama,Ari Lantos,Christopher Plummer,7
 301365,The Neon Demon,Thriller,Lene Børglum,Keanu Reeves,6
 301348,Elvis & Nixon,Comedy,Cassian Elwes,Kevin Spacey,6
-291871,Yosemite,Drama,Gabrielle Demeestere,James Franco,4
+291871,Yosemite,Drama,Gabrielle Demeestere,James Franco,5
 292010,The Daughter,Drama,Jan Chapman,Geoffrey Rush,6
 228109,Two-Bit Waltz,Comedy,Eric B. Fleischman,William H. Macy,5
 210302,Love's Routine,Comedy,Kevin Spacey,Willem Dafoe,7
@@ -3741,8 +3741,8 @@ filmId,title,genre,producer,actor,rating
 41149,A Performance of Macbeth,Drama,Trevor Nunn,Ian McKellen,5
 318121,The Fundamentals of Caring,Comedy,Donna Gigliotti,Paul Rudd,7
 347123,All the Way,Drama,Scott Ferguson,Bryan Cranston,7
-168098,Cell,Horror,Shara Kay,Samuel L. Jackson,4
-168098,Cell,Horror,Shara Kay,John Cusack,4
+168098,Cell,Horror,Shara Kay,Samuel L. Jackson,5
+168098,Cell,Horror,Shara Kay,John Cusack,5
 359790,Blackway,Thriller,Rick Dugdale,Anthony Hopkins,5
 302699,Central Intelligence,Action,Scott Stuber,Dwayne Johnson,6
 302699,Central Intelligence,Action,Scott Stuber,Jason Bateman,6
@@ -3785,7 +3785,7 @@ filmId,title,genre,producer,actor,rating
 340945,USS Indianapolis: Men of Courage,Action,Richard Rionda Del Castro,Nicolas Cage,6
 103215,Anton Corbijn Inside Out,Documentary,Morgan Bushe,George Clooney,5
 329718,Finding Altamira,Drama,Andy Paterson,Antonio Banderas,6
-43719,Small Island,Drama,Joanna Anderson,Benedict Cumberbatch,2
+43719,Small Island,Drama,Joanna Anderson,Benedict Cumberbatch,5
 329865,Arrival,Thriller,Aaron Ryder,Forest Whitaker,7
 329865,Arrival,Thriller,Aaron Ryder,Jeremy Renner,7
 409536,Horace and Pete,Comedy,Ryan Cunningham,Steve Buscemi,8
@@ -3845,7 +3845,7 @@ filmId,title,genre,producer,actor,rating
 293167,Kong: Skull Island,Action,Thomas Tull,John Goodman,6
 293167,Kong: Skull Island,Action,Thomas Tull,Tom Hiddleston,6
 180863,T2 Trainspotting,Crime,Danny Boyle,Ewan McGregor,7
-295011,Patient Zero,Action,Vincent Newman,Stanley Tucci,10
+295011,Patient Zero,Action,Vincent Newman,Stanley Tucci,8
 274857,King Arthur: Legend of the Sword,Action,Steve Clark-Hall,Jude Law,6
 295693,The Boss Baby,Animation,Ramsey Ann Naito,Steve Buscemi,6
 346681,Wilson,Drama,Jared Goldman,Woody Harrelson,6
@@ -3858,7 +3858,7 @@ filmId,title,genre,producer,actor,rating
 44303,Higglety Pigglety Pop! or There Must Be More to Life,Family,Spike Jonze,Forest Whitaker,5
 336000,The Glass Castle,Drama,Erik Feig,Woody Harrelson,6
 340101,Their Finest,Romance,Stephen Woolley,Jeremy Irons,7
-416166,The Institute,Thriller,Lati Grobman,James Franco,4
+416166,The Institute,Thriller,Lati Grobman,James Franco,5
 395992,Life,Horror,Bonnie Curtis,Jake Gyllenhaal,6
 395992,Life,Horror,Bonnie Curtis,Ryan Reynolds,6
 140465,Prohibition,Documentary,Lynn Novick,Tom Hanks,8
@@ -3874,8 +3874,8 @@ filmId,title,genre,producer,actor,rating
 353070,Going in Style,Crime,Donald De Line,Michael Caine,7
 397415,Vengeance: A Love Story,Action,Nicolas Cage,Nicolas Cage,6
 305642,Ithaca,Drama,Janet Brenner,Tom Hanks,6
-410205,"All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone",Documentary,Peter Raymont,Kevin Spacey,0
-410205,"All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone",Documentary,Peter Raymont,Dustin Hoffman,0
+410205,"All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone",Documentary,Peter Raymont,Kevin Spacey,5
+410205,"All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone",Documentary,Peter Raymont,Dustin Hoffman,5
 400928,Gifted,Drama,Andy Cohen,Chris Evans,8
 331214,Band of Brothers,Action,Gary Goetzman,Tom Hanks,8
 331214,Band of Brothers,Action,Gary Goetzman,Tom Hardy,8

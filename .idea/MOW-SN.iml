@@ -5,6 +5,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
   <component name="ReSTService">
     <option name="workdir" value="E:\Programs\Python3.7\Scripts" />
     <option name="DOC_DIR" value="E:\Programs\Python3.7\Scripts" />

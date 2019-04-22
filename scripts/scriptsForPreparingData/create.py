@@ -118,8 +118,9 @@ def merge_two_CSV_files_to_one():
 
 def mergeRating(rating):
     newRating=0
+    print("newRating")
     if rating < 4:
-        newRating=5
+        newRating=4
     elif rating > 8:
         newRating=8
     else:
