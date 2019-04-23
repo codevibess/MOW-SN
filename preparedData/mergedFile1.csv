@@ -1,0 +1,924 @@
+filmId,title,genre,producer,actor,rating
+862,Toy Story,Animation,Bonnie Arnold,Tom Hanks,8
+949,Heat,Action,Art Linson,Robert De Niro,8
+949,Heat,Action,Art Linson,Al Pacino,8
+11860,Sabrina,Comedy,Sydney Pollack,Harrison Ford,6
+11860,Sabrina,Comedy,Sydney Pollack,Paul Giamatti,6
+10858,Nixon,History,Dan Halsted,Anthony Hopkins,7
+524,Casino,Drama,Barbara De Fina,Robert De Niro,8
+9273,Ace Ventura: When Nature Calls,Crime,Bob Israel,Jim Carrey,6
+11517,Money Train,Action,Neil Canton,Woody Harrelson,5
+9691,Assassins,Action,Richard Donner,Antonio Banderas,6
+451,Leaving Las Vegas,Drama,Lila Cazès,Nicolas Cage,7
+9603,Clueless,Comedy,Scott Rudin,Paul Rudd,7
+35196,Restoration,Drama,Sarah Blackburn,Robert Downey Jr.,6
+35196,Restoration,Drama,Sarah Blackburn,Ian McKellen,6
+577,To Die For,Fantasy,Laura Ziskin,Joaquin Phoenix,7
+807,Se7en,Crime,Arnold Kopelson,Morgan Freeman,8
+807,Se7en,Crime,Arnold Kopelson,Kevin Spacey,8
+807,Se7en,Crime,Arnold Kopelson,Brad Pitt,8
+629,The Usual Suspects,Drama,Bryan Singer,Kevin Spacey,8
+629,The Usual Suspects,Drama,Bryan Singer,Benicio del Toro,8
+9089,Home for the Holidays,Comedy,Jodie Foster,Robert Downey Jr.,6
+9623,The Juror,Drama,Rob Cowan,Joseph Gordon-Levitt,6
+400,Things to Do in Denver When You're Dead,Drama,Cary Woods,Christopher Walken,7
+400,Things to Do in Denver When You're Dead,Drama,Cary Woods,Steve Buscemi,7
+10534,White Squall,Action,Mimi Polk Gitlin,Jeff Bridges,6
+2086,Nick of Time,Crime,John Badham,Johnny Depp,6
+2086,Nick of Time,Crime,John Badham,Christopher Walken,6
+11062,City Hall,Drama,Harold Becker,Al Pacino,6
+11062,City Hall,Drama,Harold Becker,John Cusack,6
+13685,Bottle Rocket,Comedy,Cynthia Hargrave,Owen Wilson,7
+9614,Happy Gilmore,Comedy,Robert Simonds,Ben Stiller,6
+688,The Bridges of Madison County,Drama,Clint Eastwood,Clint Eastwood,7
+103,Taxi Driver,Crime,Julia Phillips,Robert De Niro,8
+2074,Flirting with Disaster,Comedy,Dean Silvers,Ben Stiller,6
+110972,Pie in the Sky,Comedy,Allan Mindel,John Goodman,7
+9101,Down Periscope,Comedy,Robert Lawrence,William H. Macy,6
+10474,The Basketball Diaries,Drama,Liz Heller,Leonardo DiCaprio,7
+10474,The Basketball Diaries,Drama,Liz Heller,Mark Wahlberg,7
+568,Apollo 13,Drama,Brian Grazer,Tom Hanks,7
+34996,The Addiction,Drama,Fernando Sulichin,Christopher Walken,6
+414,Batman Forever,Action,Tim Burton,Tommy Lee Jones,5
+414,Batman Forever,Action,Tim Burton,Jim Carrey,5
+8839,Casper,Fantasy,Colin Wilson,Clint Eastwood,6
+8963,Crimson Tide,Action,Jerry Bruckheimer,Denzel Washington,7
+8963,Crimson Tide,Action,Jerry Bruckheimer,Viggo Mortensen,7
+8068,Desperado,Thriller,Robert Rodriguez,Steve Buscemi,7
+8068,Desperado,Thriller,Robert Rodriguez,Antonio Banderas,7
+8512,Devil in a Blue Dress,Drama,Jesse Beaton,Denzel Washington,6
+8512,Devil in a Blue Dress,Drama,Jesse Beaton,Don Cheadle,6
+1572,Die Hard: With a Vengeance,Action,John McTiernan,Samuel L. Jackson,7
+1572,Die Hard: With a Vengeance,Action,John McTiernan,Jeremy Irons,7
+17447,Jeffrey,Comedy,Victoria Maxwell,Patrick Stewart,6
+9886,Johnny Mnemonic,Adventure,Don Carmody,Keanu Reeves,6
+19326,Jury Duty,Comedy,Yoram Ben-Ami,Stanley Tucci,4
+9071,Living in Oblivion,Drama,Hilary Gilford,Peter Dinklage,7
+9071,Living in Oblivion,Drama,Hilary Gilford,Steve Buscemi,7
+2293,Mallrats,Romance,Scott Mosier,Ben Affleck,7
+11980,The Prophecy,Fantasy,Joel Soisson,Christopher Walken,6
+11980,The Prophecy,Fantasy,Joel Soisson,Viggo Mortensen,6
+10533,The Scarlet Letter,Drama,Roland Joffé,Gary Oldman,6
+10533,The Scarlet Letter,Drama,Roland Joffé,Robert Duvall,6
+10149,Smoke,Comedy,Peter Newman,Forest Whitaker,7
+18402,Something to Talk About,Comedy,Anthea Sylbert,Robert Duvall,6
+9348,Species,Science Fiction,Frank Mancuso Jr.,Forest Whitaker,6
+9348,Species,Science Fiction,Frank Mancuso Jr.,Ben Kingsley,6
+281,Strange Days,Crime,Steven-Charles Jaffe,Ralph Fiennes,7
+36834,Total Eclipse,Drama,Jean-Pierre Ramsay-Levi,Leonardo DiCaprio,6
+9560,A Walk in the Clouds,Drama,Gil Netter,Keanu Reeves,6
+11017,Billy Madison,Comedy,Robert Simonds,Steve Buscemi,6
+9382,Boys on the Side,Comedy,Arnon Milchan,Matthew McConaughey,6
+22625,Circle of Friends,Drama,Frank Price,Colin Firth,6
+1909,Don Juan DeMarco,Romance,Francis Ford Coppola,Johnny Depp,6
+10531,Death and the Maiden,Drama,Josh Kramer,Ben Kingsley,7
+11929,Dolores Claiborne,Crime,Taylor Hackford,Christopher Plummer,7
+522,Ed Wood,Comedy,Tim Burton,Johnny Depp,7
+522,Ed Wood,Comedy,Tim Burton,Bill Murray,7
+397,French Kiss,Comedy,Charles Okun,Jean Reno,6
+21183,Fluke,Drama,Paul Maslansky,Samuel L. Jackson,7
+13701,Immortal Beloved,Drama,Bruce Davey,Gary Oldman,7
+628,Interview with the Vampire,Horror,David Geffen,Brad Pitt,7
+628,Interview with the Vampire,Horror,David Geffen,Tom Cruise,7
+628,Interview with the Vampire,Horror,David Geffen,Antonio Banderas,7
+6071,Kiss of Death,Action,Barbet Schroeder,Samuel L. Jackson,6
+6071,Kiss of Death,Action,Barbet Schroeder,Stanley Tucci,6
+6071,Kiss of Death,Action,Barbet Schroeder,Nicolas Cage,6
+11,Star Wars,Adventure,Gary Kurtz,Harrison Ford,8
+9587,Little Women,Drama,Denise Di Novi,Christian Bale,7
+4476,Legends of the Fall,Adventure,Edward Zwick,Anthony Hopkins,7
+4476,Legends of the Fall,Adventure,Edward Zwick,Brad Pitt,7
+28313,Losing Isaiah,Drama,Hawk Koch,Samuel L. Jackson,6
+3036,Mary Shelley's Frankenstein,Drama,Francis Ford Coppola,Robert De Niro,6
+241,Natural Born Killers,Crime,Jane Hamsher,Robert Downey Jr.,7
+241,Natural Born Killers,Crime,Jane Hamsher,Tommy Lee Jones,7
+241,Natural Born Killers,Crime,Jane Hamsher,Woody Harrelson,7
+9058,Only You,Comedy,Robert N. Fried,Robert Downey Jr.,6
+6950,Outbreak,Action,Arnold Kopelson,Morgan Freeman,6
+6950,Outbreak,Action,Arnold Kopelson,Kevin Spacey,6
+6950,Outbreak,Action,Arnold Kopelson,Dustin Hoffman,6
+101,Leon: The Professional,Thriller,Patrice Ledoux,Gary Oldman,8
+101,Leon: The Professional,Thriller,Patrice Ledoux,Jean Reno,8
+680,Pulp Fiction,Thriller,Lawrence Bender,Samuel L. Jackson,8
+680,Pulp Fiction,Thriller,Lawrence Bender,Christopher Walken,8
+680,Pulp Fiction,Thriller,Lawrence Bender,Steve Buscemi,8
+11450,Quiz Show,History,Michael Jacobs,Ralph Fiennes,7
+12106,The Quick and the Dead,Action,Patrick Markey,Leonardo DiCaprio,6
+12106,The Quick and the Dead,Action,Patrick Markey,Russell Crowe,6
+3586,Prêt-à-Porter,Drama,Robert Altman,Forest Whitaker,5
+9905,Shallow Grave,Crime,Andrew Macdonald,Ewan McGregor,7
+193,Star Trek: Generations,Science Fiction,Rick Berman,Patrick Stewart,6
+46797,Tom & Viv,Drama,Harvey Kass,Willem Dafoe,6
+9271,Virtuosity,Action,Gary Lucchesi,Denzel Washington,5
+9271,Virtuosity,Action,Gary Lucchesi,Russell Crowe,5
+19855,The War,Drama,Jon Avnet,Kevin Costner,6
+3049,Ace Ventura: Pet Detective,Comedy,James G. Robinson,Jim Carrey,6
+11382,Bullets Over Broadway,Action,Robert Greenhut,John Cusack,7
+10731,The Client,Drama,Arnon Milchan,Tommy Lee Jones,6
+10731,The Client,Drama,Arnon Milchan,William H. Macy,6
+888,The Flintstones,Fantasy,Bruce Cohen,John Goodman,5
+13,Forrest Gump,Comedy,Wendy Finerman,Tom Hanks,8
+10660,It Could Happen to You,Comedy,Mike Lobell,Stanley Tucci,6
+10660,It Could Happen to You,Comedy,Mike Lobell,Nicolas Cage,6
+12280,The Paper,Comedy,Brian Grazer,Robert Duvall,6
+2788,Reality Bites,Drama,Danny DeVito,Ben Stiller,6
+10427,Red Rock West,Crime,Steve Golin,Nicolas Cage,6
+1637,Speed,Action,Mark Gordon,Keanu Reeves,7
+10395,Wolf,Fantasy,Douglas Wick,Christopher Plummer,6
+12160,Wyatt Earp,Drama,Kevin Costner,Kevin Costner,6
+10436,The Age of Innocence,Drama,Barbara De Fina,Daniel Day-Lewis,7
+13595,Airheads,Comedy,Mark Burg,Steve Buscemi,6
+46924,Being Human,Drama,Robert F. Colesberry,Ewan McGregor,5
+46924,Being Human,Drama,Robert F. Colesberry,William H. Macy,5
+178,Blown Away,Drama,Pen Densham,Tommy Lee Jones,6
+178,Blown Away,Drama,Pen Densham,Jeff Bridges,6
+178,Blown Away,Drama,Pen Densham,Forest Whitaker,6
+57834,Blue Sky,Drama,Robert H. Solo,Tommy Lee Jones,6
+4722,Body Snatchers,Horror,Robert H. Solo,Forest Whitaker,6
+1607,A Bronx Tale,Drama,Robert De Niro,Robert De Niro,7
+6075,Carlito's Way,Action,Martin Bregman,Al Pacino,8
+6075,Carlito's Way,Action,Martin Bregman,Viggo Mortensen,8
+6075,Carlito's Way,Action,Martin Bregman,Sean Penn,8
+19176,The Cowboy Way,Western,Brian Grazer,Woody Harrelson,5
+11566,Dave,Comedy,Ivan Reitman,Ben Kingsley,6
+9571,Dazed and Confused,Comedy,Richard Linklater,Matthew McConaughey,7
+9571,Dazed and Confused,Comedy,Richard Linklater,Ben Affleck,7
+34444,Even Cowgirls Get the Blues,Western,Laurie Parker,Keanu Reeves,4
+50463,The Favor,Drama,Lauren Shuler Donner,Brad Pitt,4
+10443,Fearless,Drama,Paula Weinstein,Jeff Bridges,7
+10443,Fearless,Drama,Paula Weinstein,Benicio del Toro,7
+37233,The Firm,Drama,John Davis,Tom Cruise,7
+13815,Fresh,Crime,Lawrence Bender,Samuel L. Jackson,8
+5503,The Fugitive,Adventure,Arnold Kopelson,Harrison Ford,7
+5503,The Fugitive,Adventure,Arnold Kopelson,Tommy Lee Jones,7
+35588,Geronimo: An American Legend,History,Neil Canton,Matt Damon,6
+35588,Geronimo: An American Legend,History,Neil Canton,Robert Duvall,6
+31642,Heaven & Earth,History,Robert Kline,Tommy Lee Jones,6
+2259,The House of the Spirits,Romance,Bernd Eichinger,Jeremy Irons,7
+2259,The House of the Spirits,Romance,Bernd Eichinger,Antonio Banderas,7
+11934,The Hudsucker Proxy,Comedy,Ethan Coen,John Goodman,7
+11934,The Hudsucker Proxy,Comedy,Ethan Coen,Steve Buscemi,7
+106143,I'll Do Anything,Comedy,James L. Brooks,Ian McKellen,6
+106143,I'll Do Anything,Comedy,James L. Brooks,Woody Harrelson,6
+9386,In the Line of Fire,Action,Jeff Apple,Clint Eastwood,7
+7984,In the Name of the Father,Drama,Jim Sheridan,Daniel Day-Lewis,8
+31643,Jimmy Hollywood,Comedy,Mark Johnson,Harrison Ford,5
+10909,Kalifornia,Thriller,Steve Golin,Brad Pitt,6
+1413,M. Butterfly,Drama,Gabriella Martinelli,Jeremy Irons,7
+9516,Menace II Society,Drama,Darin Scott,Samuel L. Jackson,7
+11971,Much Ado About Nothing,Drama,Kenneth Branagh,Denzel Washington,7
+11971,Much Ado About Nothing,Drama,Kenneth Branagh,Keanu Reeves,7
+9559,A Perfect World,Crime,Clint Eastwood,Clint Eastwood,7
+9559,A Perfect World,Crime,Clint Eastwood,Kevin Costner,7
+9800,Philadelphia,Drama,Jonathan Demme,Tom Hanks,8
+9800,Philadelphia,Drama,Jonathan Demme,Denzel Washington,8
+9800,Philadelphia,Drama,Jonathan Demme,Antonio Banderas,8
+10872,The Ref,Comedy,Jerry Bruckheimer,Kevin Spacey,7
+10872,The Ref,Comedy,Jerry Bruckheimer,J.K. Simmons,7
+1245,The Remains of the Day,Drama,Ismail Merchant,Anthony Hopkins,8
+11858,Renaissance Man,Comedy,Robert Greenhut,Mark Wahlberg,6
+7007,Rising Sun,Action,Peter Kaufman,Steve Buscemi,6
+10467,The Road to Wellville,Comedy,Robert F. Colesberry,Anthony Hopkins,6
+10467,The Road to Wellville,Comedy,Robert F. Colesberry,John Cusack,6
+2088,Romeo Is Bleeding,Action,Hilary Henkin,Gary Oldman,6
+10412,Romper Stomper,Action,Ian Pringle,Russell Crowe,7
+424,Schindler's List,Drama,Steven Spielberg,Ralph Fiennes,8
+424,Schindler's List,Drama,Steven Spielberg,Ben Kingsley,8
+14291,Searching for Bobby Fischer,Drama,Scott Rudin,William H. Macy,7
+14291,Searching for Bobby Fischer,Drama,Scott Rudin,Ben Kingsley,7
+8850,The Shadow,Adventure,Martin Bregman,Ian McKellen,5
+10445,Shadowlands,Drama,Richard Attenborough,Anthony Hopkins,7
+695,Short Cuts,Comedy,Cary Brokaw,Robert Downey Jr.,7
+858,Sleepless in Seattle,Comedy,Gary Foster,Tom Hanks,6
+78,Blade Runner,Science Fiction,Michael Deeley,Harrison Ford,8
+11074,Striking Distance,Crime,Marty Kaplan,Tom Hardy,5
+319,True Romance,Action,Gary Barber,Gary Oldman,8
+319,True Romance,Action,Gary Barber,Brad Pitt,8
+319,True Romance,Action,Gary Barber,Samuel L. Jackson,8
+319,True Romance,Action,Gary Barber,Christopher Walken,8
+32562,The Celluloid Closet,History,Rob Epstein,Tom Hanks,7
+581,Dances with Wolves,Adventure,Jim Wilson,Kevin Costner,8
+274,The Silence of the Lambs,Crime,Ronald M. Bozman,Anthony Hopkins,8
+7300,One Fine Day,Comedy,Lynda Obst,George Clooney,6
+275,Fargo,Crime,Ethan Coen,Steve Buscemi,8
+275,Fargo,Crime,Ethan Coen,William H. Macy,8
+2021,Jack & Sarah,Comedy,Pippa Cross,Ian McKellen,5
+10684,Courage Under Fire,Drama,John Davis,Denzel Washington,6
+10684,Courage Under Fire,Drama,John Davis,Matt Damon,6
+954,Mission: Impossible,Adventure,Tom Cruise,Tom Cruise,7
+954,Mission: Impossible,Adventure,Tom Cruise,Jean Reno,7
+10543,Fear,Drama,Brian Grazer,Mark Wahlberg,6
+2300,Space Jam,Animation,Daniel Goldberg,Bill Murray,6
+12656,Feeling Minnesota,Action,Danny DeVito,Keanu Reeves,6
+8866,The Truth About Cats & Dogs,Comedy,Richard Hashimoto,Jamie Foxx,6
+922,Dead Man,Drama,Demetra J. MacBride,Johnny Depp,7
+11687,The Visitors,Fantasy,Alain Terzian,Jean Reno,7
+9802,The Rock,Action,Jerry Bruckheimer,Nicolas Cage,7
+627,Trainspotting,Drama,Andrew Macdonald,Ewan McGregor,8
+9566,The Fan,Drama,Wendy Finerman,Robert De Niro,6
+9566,The Fan,Drama,Wendy Finerman,Benicio del Toro,6
+9894,The Cable Guy,Comedy,Judd Apatow,Jim Carrey,6
+9894,The Cable Guy,Comedy,Judd Apatow,Owen Wilson,6
+9894,The Cable Guy,Comedy,Judd Apatow,Ben Stiller,6
+11228,Daylight,Action,John Davis,Viggo Mortensen,6
+26748,Lone Star,Drama,R. Paul Miller,Matthew McConaughey,7
+9294,Phenomenon,Drama,Barbara Boyle,Robert Duvall,6
+9294,Phenomenon,Drama,Barbara Boyle,Forest Whitaker,6
+1645,A Time to Kill,Crime,Michael G. Nathanson,Kevin Spacey,7
+1645,A Time to Kill,Crime,Michael G. Nathanson,Samuel L. Jackson,7
+1645,A Time to Kill,Crime,Michael G. Nathanson,Matthew McConaughey,7
+31546,American Buffalo,Drama,Gregory Mosher,Dustin Hoffman,6
+34170,Larger Than Life,Family,Pen Densham,Matthew McConaughey,5
+34170,Larger Than Life,Family,Pen Densham,Bill Murray,5
+12123,Chain Reaction,Action,Arne Schmidt,Morgan Freeman,5
+12123,Chain Reaction,Action,Arne Schmidt,Keanu Reeves,5
+3573,Emma,Drama,Patrick Cassavetti,Ewan McGregor,7
+10061,Escape from L.A.,Action,Debra Hill,Steve Buscemi,6
+549,Basquiat,Drama,Jon Kilik,Gary Oldman,7
+549,Basquiat,Drama,Jon Kilik,Christopher Walken,7
+549,Basquiat,Drama,Jon Kilik,Willem Dafoe,7
+549,Basquiat,Drama,Jon Kilik,Benicio del Toro,7
+10478,Tin Cup,Comedy,Gary Foster,Kevin Costner,6
+238,The Godfather,Drama,Albert S. Ruddy,Al Pacino,8
+238,The Godfather,Drama,Albert S. Ruddy,Robert Duvall,8
+10987,Halloween: The Curse of Michael Myers,Horror,Paul Freeman,Paul Rudd,5
+44705,Twelfth Night,Drama,Stephen Evans,Ben Kingsley,7
+9333,Last Man Standing,Action,Walter Hill,Christopher Walken,6
+12241,Curdled,Comedy,Raul Puig,George Clooney,6
+11306,Extreme Measures,Drama,Elizabeth Hurley,J.K. Simmons,6
+8367,Robin Hood: Prince of Thieves,Adventure,Pen Densham,Morgan Freeman,7
+8367,Robin Hood: Prince of Thieves,Adventure,Pen Densham,Kevin Costner,7
+15121,The Sound of Music,Drama,Robert Wise,Christopher Plummer,7
+9591,That Thing You Do!,Comedy,Jonathan Demme,Tom Hanks,7
+9591,That Thing You Do!,Comedy,Jonathan Demme,Bryan Cranston,7
+41843,Surviving Picasso,Drama,David L. Wolper,Anthony Hopkins,5
+11412,The Long Kiss Goodnight,Crime,Stephanie Austin,Samuel L. Jackson,6
+42314,Looking for Richard,Documentary,Michael Hadge,Al Pacino,7
+42314,Looking for Richard,Documentary,Michael Hadge,Kevin Spacey,7
+27845,Trees Lounge,Comedy,Chris Hanley,Samuel L. Jackson,7
+27845,Trees Lounge,Comedy,Chris Hanley,Steve Buscemi,7
+454,Romeo + Juliet,Drama,Baz Luhrmann,Leonardo DiCaprio,7
+454,Romeo + Juliet,Drama,Baz Luhrmann,Paul Rudd,7
+819,Sleepers,Crime,Steve Golin,Robert De Niro,7
+819,Sleepers,Crime,Steve Golin,Brad Pitt,7
+819,Sleepers,Crime,Steve Golin,Dustin Hoffman,7
+500,Reservoir Dogs,Crime,Lawrence Bender,Steve Buscemi,8
+792,Platoon,Drama,Arnold Kopelson,Johnny Depp,8
+792,Platoon,Drama,Arnold Kopelson,Forest Whitaker,8
+792,Platoon,Drama,Arnold Kopelson,Willem Dafoe,8
+11386,The Crying Game,Romance,Stephen Woolley,Forest Whitaker,7
+9504,Glengarry Glen Ross,Crime,Jerry Tokofsky,Al Pacino,8
+9504,Glengarry Glen Ross,Crime,Jerry Tokofsky,Kevin Spacey,8
+2119,Days of Thunder,Adventure,Jerry Bruckheimer,Robert Duvall,6
+2119,Days of Thunder,Adventure,Jerry Bruckheimer,Tom Cruise,6
+744,Top Gun,Action,Jerry Bruckheimer,Tom Cruise,7
+11843,The Return of the Pink Panther,Mystery,Blake Edwards,Christopher Plummer,7
+10608,Bob Roberts,Comedy,Forrest Murray,John Cusack,6
+409,The English Patient,Drama,Saul Zaentz,Colin Firth,7
+409,The English Patient,Drama,Saul Zaentz,Ralph Fiennes,7
+409,The English Patient,Drama,Saul Zaentz,Willem Dafoe,7
+10161,My Left Foot: The Story of Christy Brown,Drama,Noel Pearson,Daniel Day-Lewis,8
+2469,Tie Me Up! Tie Me Down!,Comedy,Enrique Posner,Antonio Banderas,7
+10174,Madonna: Truth or Dare,Documentary,Tim Clawson,Al Pacino,6
+10174,Madonna: Truth or Dare,Documentary,Tim Clawson,Kevin Costner,6
+10174,Madonna: Truth or Dare,Documentary,Tim Clawson,Antonio Banderas,6
+1891,The Empire Strikes Back,Adventure,Gary Kurtz,Harrison Ford,8
+85,Raiders of the Lost Ark,Adventure,Frank Marshall,Harrison Ford,8
+68,Brazil,Comedy,Arnon Milchan,Robert De Niro,8
+429,"The Good, the Bad and the Ugly",Western,Alberto Grimaldi,Clint Eastwood,8
+595,To Kill a Mockingbird,Crime,Alan J. Pakula,Robert Duvall,8
+28,Apocalypse Now,Drama,Francis Ford Coppola,Harrison Ford,8
+28,Apocalypse Now,Drama,Francis Ford Coppola,Robert Duvall,8
+1892,Return of the Jedi,Adventure,Howard G. Kazanjian,Harrison Ford,8
+769,GoodFellas,Drama,Irwin Winkler,Robert De Niro,8
+769,GoodFellas,Drama,Irwin Winkler,Samuel L. Jackson,8
+175,The Big Blue,Adventure,Patrice Ledoux,Jean Reno,8
+240,The Godfather: Part II,Drama,Francis Ford Coppola,Robert De Niro,8
+240,The Godfather: Part II,Drama,Francis Ford Coppola,Al Pacino,8
+240,The Godfather: Part II,Drama,Francis Ford Coppola,Robert Duvall,8
+10705,Henry V,War,Bruce Sharman,Christian Bale,7
+311,Once Upon a Time in America,Drama,Arnon Milchan,Robert De Niro,8
+1578,Raging Bull,Drama,Irwin Winkler,Robert De Niro,8
+703,Annie Hall,Comedy,Charles H. Joffe,Christopher Walken,8
+9665,Glory,War,Freddie Fields,Morgan Freeman,7
+9665,Glory,War,Freddie Fields,Denzel Washington,7
+9322,La Femme Nikita,Action,Luc Besson,Jean Reno,7
+13667,Better Off Dead...,Comedy,Michael Jaffe,John Cusack,7
+235,Stand by Me,Crime,Bruce A. Evans,John Cusack,8
+137,Groundhog Day,Romance,Trevor Albert,Bill Murray,7
+33,Unforgiven,Western,Clint Eastwood,Morgan Freeman,8
+33,Unforgiven,Western,Clint Eastwood,Clint Eastwood,8
+89,Indiana Jones and the Last Crusade,Adventure,Robert Watts,Harrison Ford,8
+783,Gandhi,Drama,Richard Attenborough,Daniel Day-Lewis,7
+783,Gandhi,Drama,Richard Attenborough,Colin Farrell,7
+783,Gandhi,Drama,Richard Attenborough,Ben Kingsley,7
+10644,The Unbearable Lightness of Being,Comedy,Paul Zaentz,Daniel Day-Lewis,7
+11257,A Room with a View,Drama,Ismail Merchant,Daniel Day-Lewis,7
+2323,Field of Dreams,Drama,Charles Gordon,Matt Damon,7
+2323,Field of Dreams,Drama,Charles Gordon,Ben Affleck,7
+2323,Field of Dreams,Drama,Charles Gordon,Kevin Costner,7
+983,The Man Who Would Be King,Adventure,William Hill,Michael Caine,8
+983,The Man Who Would Be King,Adventure,William Hill,Christopher Plummer,8
+18762,Blue Juice,Comedy,Peter Salmi,Ewan McGregor,4
+49126,Audrey Rose,Fantasy,Joe Wizan,Anthony Hopkins,6
+6114,Dracula,Romance,Francis Ford Coppola,Anthony Hopkins,7
+6114,Dracula,Romance,Francis Ford Coppola,Gary Oldman,7
+6114,Dracula,Romance,Francis Ford Coppola,Keanu Reeves,7
+1598,Cape Fear,Crime,Robert De Niro,Robert De Niro,7
+377,A Nightmare on Elm Street,Horror,Robert Shaye,Johnny Depp,7
+28198,Vampire in Venice,Horror,Augusto Caminito,Christopher Plummer,8
+31640,Blood and Wine,Crime,Jeremy Thomas,Michael Caine,6
+2212,Nightwatch,Action,Michael Obel,Ewan McGregor,6
+199,Star Trek: First Contact,Science Fiction,Rick Berman,Patrick Stewart,7
+7863,Shine,Drama,Jane Scott,Geoffrey Rush,7
+12498,Sling Blade,Drama,David L. Bushell,Robert Duvall,7
+174,Star Trek VI: The Undiscovered Country,Science Fiction,Steven-Charles Jaffe,Christopher Plummer,7
+364,Batman Returns,Action,Tim Burton,Christopher Walken,7
+11967,Young Guns,Crime,Joe Roth,Tom Cruise,7
+9086,Young Guns II,Western,John Fusco,Viggo Mortensen,6
+8845,Under Siege,Action,Arnon Milchan,Tommy Lee Jones,6
+9390,Jerry Maguire,Comedy,James L. Brooks,Tom Cruise,7
+378,Raising Arizona,Comedy,Ethan Coen,John Goodman,7
+378,Raising Arizona,Comedy,Ethan Coen,Nicolas Cage,7
+2322,Sneakers,Comedy,Walter F. Parkes,Ben Kingsley,7
+9819,Marvin's Room,Drama,Robert De Niro,Leonardo DiCaprio,7
+9819,Marvin's Room,Drama,Robert De Niro,Robert De Niro,7
+9361,The Last of the Mohicans,Action,Hunt Lowry,Daniel Day-Lewis,7
+8818,Evita,History,Alan Parker,Antonio Banderas,6
+36758,The Portrait of a Lady,Drama,Steve Golin,Christian Bale,6
+36758,The Portrait of a Lady,Drama,Steve Golin,Viggo Mortensen,6
+4104,Benny & Joon,Comedy,Susan Arnold,Johnny Depp,7
+4104,Benny & Joon,Comedy,Susan Arnold,William H. Macy,7
+66,Absolute Power,Crime,Clint Eastwood,Clint Eastwood,6
+25624,Rosewood,Drama,Jon Peters,Don Cheadle,7
+9366,Donnie Brasco,Crime,Louis DiGiaimo,Johnny Depp,7
+9366,Donnie Brasco,Crime,Louis DiGiaimo,Al Pacino,7
+9403,Private Parts,Comedy,Celia D. Costas,Paul Giamatti,7
+1624,Liar Liar,Comedy,Brian Grazer,Jim Carrey,6
+4477,The Devil's Own,Crime,Robert F. Colesberry,Brad Pitt,6
+4477,The Devil's Own,Crime,Robert F. Colesberry,Harrison Ford,6
+12723,Inventing the Abbotts,Drama,Brian Grazer,Joaquin Phoenix,6
+9360,Anaconda,Adventure,Verna Harrah,Owen Wilson,5
+9434,Grosse Pointe Blank,Action,Susan Arnold,John Cusack,7
+10357,Volcano,Science Fiction,Neal H. Moritz,Tommy Lee Jones,5
+10357,Volcano,Science Fiction,Neal H. Moritz,Don Cheadle,5
+9977,Children of the Revolution,Comedy,Tristram Miall,Geoffrey Rush,5
+816,Austin Powers: International Man of Mystery,Science Fiction,Demi Moore,Will Ferrell,6
+18,The Fifth Element,Adventure,Patrice Ledoux,Gary Oldman,7
+9450,Brassed Off,Comedy,Steve Abbott,Ewan McGregor,7
+1701,Con Air,Action,Jerry Bruckheimer,Steve Buscemi,6
+1701,Con Air,Action,Jerry Bruckheimer,John Cusack,6
+1701,Con Air,Action,Jerry Bruckheimer,Nicolas Cage,6
+26422,The Pillow Book,Drama,Kees Kasander,Ewan McGregor,7
+1639,Speed 2: Cruise Control,Action,Jan de Bont,Willem Dafoe,4
+65889,Roseanna's Grave,Comedy,Alison Owen,Jean Reno,6
+8874,My Best Friend's Wedding,Comedy,Jerry Zucker,Paul Giamatti,6
+754,Face/Off,Action,Barrie M. Osborne,Nicolas Cage,7
+607,Men in Black,Action,Laurie MacDonald,Tommy Lee Jones,7
+4421,G.I. Jane,Action,Ridley Scott,Viggo Mortensen,6
+2142,Cop Land,Action,Cathy Konrad,Robert De Niro,7
+8834,Conspiracy Theory,Action,Richard Donner,Patrick Stewart,6
+26180,Excess Baggage,Action,Alicia Silverstone,Christopher Walken,6
+26180,Excess Baggage,Action,Alicia Silverstone,Benicio del Toro,6
+9772,Air Force One,Action,Wolfgang Petersen,Gary Oldman,6
+9772,Air Force One,Action,Wolfgang Petersen,Harrison Ford,6
+9772,Air Force One,Action,Wolfgang Petersen,William H. Macy,6
+6072,One Eight Seven,Drama,Bruce Davey,Samuel L. Jackson,6
+468,My Own Private Idaho,Drama,Laurie Parker,Keanu Reeves,7
+6623,The Peacemaker,Action,Branko Lustig,George Clooney,6
+978,Seven Years in Tibet,Adventure,Jean-Jacques Annaud,Brad Pitt,7
+9437,Kiss the Girls,Drama,David Brown,Morgan Freeman,6
+2649,The Game,Drama,Steve Golin,Sean Penn,8
+10155,U Turn,Thriller,Clayton Townsend,Joaquin Phoenix,6
+10155,U Turn,Thriller,Clayton Townsend,Sean Penn,6
+18355,The Assignment,Thriller,Franco Battista,Ben Kingsley,7
+2255,Chasing Amy,Comedy,Scott Mosier,Matt Damon,7
+2255,Chasing Amy,Comedy,Scott Mosier,Ben Affleck,7
+1813,The Devil's Advocate,Drama,Arnon Milchan,Al Pacino,7
+1813,The Devil's Advocate,Drama,Arnon Milchan,Keanu Reeves,7
+782,Gattaca,Thriller,Danny DeVito,Jude Law,8
+9827,Phantoms,Horror,Dean R. Koontz,Ben Affleck,5
+1959,Swept from the Sea,Drama,Beeban Kidron,Ian McKellen,6
+8067,A Life Less Ordinary,Fantasy,Andrew Macdonald,Ewan McGregor,6
+8067,A Life Less Ordinary,Fantasy,Andrew Macdonald,Stanley Tucci,6
+45153,Eve's Bayou,Drama,Samuel L. Jackson,Samuel L. Jackson,6
+10890,Stripes,Action,Ivan Reitman,Bill Murray,6
+9770,Mad City,Action,Arnold Kopelson,Dustin Hoffman,6
+12616,One Night Stand,Drama,Mike Figgis,Robert Downey Jr.,6
+14905,Welcome to Sarajevo,War,Graham Broadbent,Woody Harrelson,6
+11975,The Rainmaker,Drama,Steven Reuther,Matt Damon,7
+4995,Boogie Nights,Drama,Paul Thomas Anderson,Mark Wahlberg,8
+4995,Boogie Nights,Drama,Paul Thomas Anderson,William H. Macy,8
+4995,Boogie Nights,Drama,Paul Thomas Anderson,Don Cheadle,8
+9281,Witness,Crime,Edward S. Feldman,Harrison Ford,7
+9281,Witness,Crime,Edward S. Feldman,Viggo Mortensen,7
+37165,The Truman Show,Comedy,Edward S. Feldman,Paul Giamatti,8
+37165,The Truman Show,Comedy,Edward S. Feldman,Jim Carrey,8
+9414,The Man Who Knew Too Little,Comedy,Arnon Milchan,Bill Murray,6
+11831,Amistad,Drama,Debbie Allen,Morgan Freeman,7
+11831,Amistad,Drama,Debbie Allen,Anthony Hopkins,7
+11831,Amistad,Drama,Debbie Allen,Matthew McConaughey,7
+2639,Deconstructing Harry,Comedy,Jean Doumanian,Paul Giamatti,7
+2639,Deconstructing Harry,Comedy,Jean Doumanian,Stanley Tucci,7
+8197,Midnight in the Garden of Good and Evil,Crime,Clint Eastwood,Kevin Spacey,6
+8197,Midnight in the Garden of Good and Evil,Crime,Clint Eastwood,Jude Law,6
+8197,Midnight in the Garden of Good and Evil,Crime,Clint Eastwood,John Cusack,6
+6283,MouseHunt,Comedy,Bruce Cohen,Christopher Walken,6
+597,Titanic,Drama,James Cameron,Leonardo DiCaprio,8
+9922,The Postman,Drama,Steve Tisch,Kevin Costner,6
+184,Jackie Brown,Comedy,Lawrence Bender,Robert De Niro,7
+184,Jackie Brown,Comedy,Lawrence Bender,Samuel L. Jackson,7
+115,The Big Lebowski,Comedy,Ethan Coen,Jeff Bridges,8
+115,The Big Lebowski,Comedy,Ethan Coen,John Goodman,8
+115,The Big Lebowski,Comedy,Ethan Coen,Steve Buscemi,8
+586,Wag the Dog,Comedy,Robert De Niro,Robert De Niro,7
+586,Wag the Dog,Comedy,Robert De Niro,Dustin Hoffman,7
+586,Wag the Dog,Comedy,Robert De Niro,Woody Harrelson,7
+586,Wag the Dog,Comedy,Robert De Niro,William H. Macy,7
+11258,Hard Rain,Thriller,Gary Levinsohn,Morgan Freeman,6
+9411,Fallen,Thriller,Charles Roven,Denzel Washington,7
+9411,Fallen,Thriller,Charles Roven,John Goodman,7
+11568,Blues Brothers 2000,Music,Leslie Belzberg,John Goodman,5
+11003,The Wedding Singer,Romance,Jack Giarraputo,Steve Buscemi,6
+10153,Sphere,Science Fiction,Michael Crichton,Samuel L. Jackson,6
+10153,Sphere,Science Fiction,Michael Crichton,Dustin Hoffman,6
+9558,King of New York,Thriller,Augusto Caminito,Christopher Walken,6
+9558,King of New York,Thriller,Augusto Caminito,Steve Buscemi,6
+11808,U.S. Marshals,Thriller,Arnold Kopelson,Robert Downey Jr.,6
+11808,U.S. Marshals,Thriller,Arnold Kopelson,Tommy Lee Jones,6
+10668,Suicide Kings,Action,Morrie Eisenman,Christopher Walken,7
+9313,The Man in the Iron Mask,Action,René Dupont,Leonardo DiCaprio,6
+9313,The Man in the Iron Mask,Action,René Dupont,Jeremy Irons,6
+617,Wild Things,Thriller,Steven A. Jones,Bill Murray,6
+32456,Two Girls and a Guy,Drama,Chris Hanley,Robert Downey Jr.,5
+795,City of Angels,Drama,Charles Roven,Nicolas Cage,6
+9469,He Got Game,Drama,Jon Kilik,Denzel Washington,7
+12488,The Gingerbread Man,Thriller,Jeremy Tannenbaum,Robert Downey Jr.,6
+12488,The Gingerbread Man,Thriller,Jeremy Tannenbaum,Robert Duvall,6
+267,Live Flesh,Drama,Agustín Almodóvar,Javier Bardem,7
+16148,Zero Effect,Comedy,Janet Yang,Ben Stiller,6
+9449,The Borrowers,Adventure,Tim Bevan,John Goodman,6
+215373,Love Walked In,Drama,Denis Leary,J.K. Simmons,6
+29825,The Real Blonde,Comedy,Tom Rosenberg,Steve Buscemi,6
+9448,The Big Hit,Action,Warren Zide,Mark Wahlberg,6
+4415,Les Misérables,Crime,James Gorman,Geoffrey Rush,7
+8656,Deep Impact,Action,Richard D. Zanuck,Morgan Freeman,6
+8656,Deep Impact,Action,Richard D. Zanuck,Robert Duvall,6
+18937,Quest for Camelot,Fantasy,Dalisa Cohen,Gary Oldman,7
+929,Godzilla,Science Fiction,Dean Devlin,Jean Reno,5
+9452,Bulworth,Comedy,Pieter Jan Brugge,Don Cheadle,6
+1878,Fear and Loathing in Las Vegas,Adventure,Patrick Cassavetti,Johnny Depp,7
+1878,Fear and Loathing in Las Vegas,Adventure,Patrick Cassavetti,Benicio del Toro,7
+1965,A Perfect Murder,Crime,Peter Macgregor-Scott,Viggo Mortensen,6
+6068,Six Days Seven Nights,Action,Roger Birnbaum,Harrison Ford,6
+3050,Doctor Dolittle,Comedy,John Davis,Paul Giamatti,5
+1389,Out of Sight,Romance,Danny DeVito,Samuel L. Jackson,6
+1389,Out of Sight,Romance,Danny DeVito,George Clooney,6
+1389,Out of Sight,Romance,Danny DeVito,Don Cheadle,6
+95,Armageddon,Action,Jerry Bruckheimer,Steve Buscemi,6
+95,Armageddon,Action,Jerry Bruckheimer,Ben Affleck,6
+95,Armageddon,Action,Jerry Bruckheimer,Owen Wilson,6
+11551,Small Soldiers,Comedy,Colin Wilson,Tommy Lee Jones,6
+3116,Midnight Cowboy,Drama,Kenneth Utt,Dustin Hoffman,7
+12102,Kramer vs. Kramer,Drama,Stanley R. Jaffe,Dustin Hoffman,7
+380,Rain Man,Drama,Mark Johnson,Dustin Hoffman,8
+380,Rain Man,Drama,Mark Johnson,Tom Cruise,8
+403,Driving Miss Daisy,Comedy,Richard D. Zanuck,Morgan Freeman,7
+11284,Freddy's Dead: The Final Nightmare,Horror,Robert Shaye,Johnny Depp,5
+11587,The Exorcist III,Thriller,Carter DeHaven,Samuel L. Jackson,6
+9342,The Mask of Zorro,Action,Doug Claybourne,Anthony Hopkins,6
+9342,The Mask of Zorro,Action,Doug Claybourne,Antonio Banderas,6
+859,Dangerous Liaisons,Drama,Norma Heyman,Keanu Reeves,7
+841,Dune,Action,Raffaella De Laurentiis,Patrick Stewart,6
+11051,The Last Temptation of Christ,Drama,Barbara De Fina,Willem Dafoe,7
+242,The Godfather: Part III,Crime,Francis Ford Coppola,Al Pacino,7
+9769,Lolita,Drama,Mario Kassar,Jeremy Irons,7
+857,Saving Private Ryan,Drama,Steven Spielberg,Tom Hanks,8
+857,Saving Private Ryan,Drama,Steven Spielberg,Matt Damon,8
+857,Saving Private Ryan,Drama,Steven Spielberg,Bryan Cranston,8
+857,Saving Private Ryan,Drama,Steven Spielberg,Paul Giamatti,8
+9631,The Negotiator,Action,David Hoberman,Kevin Spacey,7
+9631,The Negotiator,Action,David Hoberman,Samuel L. Jackson,7
+9631,The Negotiator,Action,David Hoberman,Paul Giamatti,7
+42121,Tender Mercies,Drama,Philip Hobel,Robert Duvall,6
+2887,And the Band Played On,Drama,Marcia Basichis,Ian McKellen,6
+11974,The 'Burbs,Comedy,Larry Brezner,Tom Hanks,7
+35144,The Journey of Natty Gann,Adventure,Michael Lobell,John Cusack,6
+10437,The Muppet Christmas Carol,Comedy,Martin G. Baker,Michael Caine,7
+2619,Splash,Comedy,Brian Grazer,Tom Hanks,6
+97,Tron,Science Fiction,Harrison Ellenshaw,Jeff Bridges,7
+10419,Swing Kids,Music,Mark Gordon,Christian Bale,7
+11675,Halloween: H20,Horror,Paul Freeman,Joseph Gordon-Levitt,6
+2107,L.A. Story,Comedy,Daniel Melnick,Woody Harrelson,6
+2107,L.A. Story,Comedy,Daniel Melnick,Patrick Stewart,6
+227,The Outsiders,Crime,Gray Frederickson,Tom Cruise,7
+87,Indiana Jones and the Temple of Doom,Adventure,Robert Watts,Harrison Ford,7
+11336,The Dead Zone,Horror,Debra Hill,Christopher Walken,7
+8688,Snake Eyes,Crime,Brian De Palma,Nicolas Cage,6
+16155,Safe Men,Comedy,Andrew Hauptman,Mark Ruffalo,6
+16155,Safe Men,Comedy,Andrew Hauptman,Peter Dinklage,6
+16155,Safe Men,Comedy,Andrew Hauptman,Paul Giamatti,6
+11814,Weird Science,Comedy,Joel Silver,Robert Downey Jr.,6
+11976,Legend,Adventure,Arnon Milchan,Tom Cruise,6
+9320,The Avengers,Thriller,Jerry Weintraub,Ralph Fiennes,4
+10278,Return to Paradise,Drama,David Arnold,Joaquin Phoenix,6
+3682,54,Music,Richard N. Gladstein,Mark Ruffalo,6
+117,The Untouchables,Crime,Art Linson,Robert De Niro,8
+117,The Untouchables,Crime,Art Linson,Kevin Costner,8
+10220,Rounders,Drama,Ted Demme,Edward Norton,7
+10220,Rounders,Drama,Ted Demme,Matt Damon,7
+84116,"Grandview, U.S.A.",Drama,William Blaylock,John Cusack,6
+12626,Broadcast News,Comedy,James L. Brooks,John Cusack,7
+3525,Working Girl,Comedy,Douglas Wick,Kevin Spacey,6
+3525,Working Girl,Comedy,Douglas Wick,Harrison Ford,6
+2028,Say Anything...,Comedy,Polly Platt,John Cusack,7
+10699,Hero,Drama,Laura Ziskin,Dustin Hoffman,6
+11597,Toys,Fantasy,Barry Levinson,Jamie Foxx,5
+14347,Blame It on Rio,Comedy,Stanley Donen,Michael Caine,6
+5971,We're No Angels,Comedy,Art Linson,Robert De Niro,6
+5971,We're No Angels,Comedy,Art Linson,Sean Penn,6
+881,A Few Good Men,Drama,Rob Reiner,Tom Cruise,7
+4478,Indecent Proposal,Drama,Michael Tadross,Woody Harrelson,6
+8195,Ronin,Action,Frank Mancuso Jr.,Robert De Niro,7
+8195,Ronin,Action,Frank Mancuso Jr.,Jean Reno,7
+10403,The Player,Comedy,David Brown,John Cusack,7
+162,Edward Scissorhands,Fantasy,Denise Di Novi,Johnny Depp,8
+8916,Antz,Adventure,Aron Warner,Christopher Walken,6
+9429,A Night at the Roxbury,Comedy,Amy Heckerling,Will Ferrell,6
+1955,The Elephant Man,Drama,Jonathan Sanger,Anthony Hopkins,8
+108316,The Alarmist,Comedy,Dan Stone,Ryan Reynolds,4
+108316,The Alarmist,Comedy,Dan Stone,Stanley Tucci,4
+9445,Apt Pupil,Drama,Jane Hamsher,Ian McKellen,6
+2657,Pleasantville,Fantasy,Jon Kilik,William H. Macy,7
+20701,Tales from the Darkside: The Movie,Thriller,Richard P. Rubinstein,Steve Buscemi,6
+3033,Gods and Monsters,Drama,Gregg Fienberg,Ian McKellen,7
+4518,Elizabeth,Drama,Tim Bevan,Daniel Craig,7
+4518,Elizabeth,Drama,Tim Bevan,Geoffrey Rush,7
+1808,Velvet Goldmine,Drama,Bob Weinstein,Christian Bale,7
+1808,Velvet Goldmine,Drama,Bob Weinstein,Ewan McGregor,7
+297,Meet Joe Black,Fantasy,Martin Brest,Anthony Hopkins,7
+297,Meet Joe Black,Fantasy,Martin Brest,Brad Pitt,7
+14924,Sid & Nancy,Drama,Eric Fellner,Gary Oldman,7
+10002,Mona Lisa,Drama,Patrick Cassavetti,Michael Caine,7
+41817,Heart Condition,Fantasy,Steve Tisch,Denzel Washington,5
+12560,The Big Chill,Comedy,Michael Shamberg,Kevin Costner,7
+9487,A Bug's Life,Adventure,Darla K. Anderson,Kevin Spacey,7
+9466,Celebrity,Drama,Jean Doumanian,Leonardo DiCaprio,6
+9466,Celebrity,Drama,Jean Doumanian,J.K. Simmons,6
+10730,King Kong,Adventure,Dino De Laurentiis,Jeff Bridges,6
+10466,The Money Pit,Comedy,Kathleen Kennedy,Tom Hanks,6
+707,A View to a Kill,Adventure,Albert R. Broccoli,Christopher Walken,6
+11954,Lifeforce,Fantasy,Yoram Globus,Patrick Stewart,6
+11252,Psycho,Horror,Brian Grazer,Viggo Mortensen,5
+11252,Psycho,Horror,Brian Grazer,William H. Macy,5
+8545,Little Voice,Comedy,Elizabeth Karlsen,Michael Caine,7
+8545,Little Voice,Comedy,Elizabeth Karlsen,Ewan McGregor,7
+200,Star Trek: Insurrection,Science Fiction,Rick Berman,Patrick Stewart,6
+9837,The Prince of Egypt,Adventure,Penney Finkelman Cox,Ralph Fiennes,7
+9837,The Prince of Egypt,Adventure,Penney Finkelman Cox,Patrick Stewart,7
+11545,Rushmore,Comedy,Barry Mendel,Bill Murray,8
+1934,Shakespeare in Love,Romance,Harvey Weinstein,Colin Firth,7
+1934,Shakespeare in Love,Romance,Harvey Weinstein,Ben Affleck,7
+1934,Shakespeare in Love,Romance,Harvey Weinstein,Geoffrey Rush,7
+8879,Pale Rider,Romance,Clint Eastwood,Clint Eastwood,7
+15596,Back to School,Comedy,Chuck Russell,Robert Downey Jr.,6
+13818,Heartburn,Comedy,Robert Greenhut,Kevin Spacey,6
+29968,Nothing in Common,Drama,Alexandra Rose,Tom Hanks,6
+9489,You've Got Mail,Comedy,Lauren Shuler Donner,Tom Hanks,6
+8741,The Thin Red Line,Drama,Grant Hill,Woody Harrelson,7
+8741,The Thin Red Line,Drama,Grant Hill,George Clooney,7
+8741,The Thin Red Line,Drama,Grant Hill,Sean Penn,7
+8741,The Thin Red Line,Drama,Grant Hill,John Cusack,7
+8741,The Thin Red Line,Drama,Grant Hill,Adrien Brody,7
+9422,A Civil Action,Drama,Rachel Pfeffer,Robert Duvall,6
+9422,A Civil Action,Drama,Rachel Pfeffer,William H. Macy,6
+11365,Wilde,Drama,Marc Samuelson,Jude Law,7
+31662,Affliction,Drama,Linda Reisman,Willem Dafoe,6
+1363,The Hi-Lo Country,Drama,Martin Scorsese,Woody Harrelson,5
+28902,In Dreams,Drama,Stephen Woolley,Robert Downey Jr.,5
+25018,Leatherface: Texas Chainsaw Massacre III,Horror,Robert Engelman,Viggo Mortensen,5
+16780,Texas Chainsaw Massacre: The Next Generation,Horror,Kim Henkel,Matthew McConaughey,4
+10013,Peggy Sue Got Married,Comedy,Paul R. Gurian,Jim Carrey,6
+10013,Peggy Sue Got Married,Comedy,Paul R. Gurian,Nicolas Cage,6
+11873,The Color of Money,Drama,Irving Axelrad,Forest Whitaker,7
+11873,The Color of Money,Drama,Irving Axelrad,Tom Cruise,7
+10015,Heartbreak Ridge,Action,Clint Eastwood,Clint Eastwood,6
+11622,Blast from the Past,Comedy,Hugh Wilson,Christopher Walken,6
+10207,Message in a Bottle,Romance,Kevin Costner,Kevin Costner,6
+13466,October Sky,Drama,Larry J. Franco,Jake Gyllenhaal,7
+15256,200 Cigarettes,Comedy,David Gale,Paul Rudd,6
+15256,200 Cigarettes,Comedy,David Gale,Ben Affleck,6
+8224,8MM,Thriller,Joel Schumacher,Joaquin Phoenix,6
+8224,8MM,Thriller,Joel Schumacher,Nicolas Cage,6
+12479,Breakfast of Champions,Comedy,David Willis,Owen Wilson,5
+14742,Night Shift,Comedy,Brian Grazer,Kevin Costner,6
+31638,Beyond the Poseidon Adventure,Action,Irwin Allen,Michael Caine,5
+9535,Analyze This,Comedy,Jane Rosenthal,Robert De Niro,6
+9455,The Corruptor,Action,Dan Halsted,Mark Wahlberg,6
+100,"Lock, Stock and Two Smoking Barrels",Comedy,Matthew Vaughn,Jason Statham,8
+47501,Six Ways to Sunday,Comedy,Adam Bernstein,Adrien Brody,6
+9540,Dead Ringers,Drama,Marc Boyman,Jeremy Irons,7
+1641,Forces of Nature,Romance,Ian Bryce,Ben Affleck,5
+10354,True Crime,Crime,Clint Eastwood,Clint Eastwood,6
+11374,Edtv,Comedy,Jeffrey T. Barabe,Matthew McConaughey,6
+11374,Edtv,Comedy,Jeffrey T. Barabe,Woody Harrelson,6
+28029,A Walk on the Moon,Drama,Tony Goldwyn,Viggo Mortensen,6
+603,The Matrix,Action,Joel Silver,Keanu Reeves,8
+11355,Never Been Kissed,Romance,Nancy Juvonen,James Franco,6
+114719,Friends & Lovers,Comedy,Josi W. Konski,Robert Downey Jr.,6
+12596,Pushing Tin,Comedy,Art Linson,John Cusack,6
+1946,eXistenZ,Action,David Cronenberg,Willem Dafoe,7
+1946,eXistenZ,Action,David Cronenberg,Jude Law,7
+8592,Dick Tracy,Adventure,Warren Beatty,Al Pacino,6
+8592,Dick Tracy,Adventure,Warren Beatty,Dustin Hoffman,6
+10210,A Midsummer Night's Dream,Fantasy,Arnon Milchan,Christian Bale,6
+10210,A Midsummer Night's Dream,Fantasy,Arnon Milchan,Stanley Tucci,6
+1893,Star Wars: Episode I - The Phantom Menace,Adventure,Rick McCallum,Samuel L. Jackson,6
+1893,Star Wars: Episode I - The Phantom Menace,Adventure,Rick McCallum,Ewan McGregor,6
+9077,Tarantula,Horror,William Alland,Clint Eastwood,6
+12117,Instinct,Drama,Michael Taylor,Anthony Hopkins,6
+817,Austin Powers: The Spy Who Shagged Me,Adventure,Eric McLeod,Woody Harrelson,6
+817,Austin Powers: The Spy Who Shagged Me,Adventure,Eric McLeod,Will Ferrell,6
+9032,Big Daddy,Comedy,Sid Ganis,Steve Buscemi,6
+6488,Arachnophobia,Comedy,Kathleen Kennedy,John Goodman,6
+10279,Summer of Sam,Thriller,Jon Kilik,Adrien Brody,6
+1073,Arlington Road,Drama,Tom Gorai,Jeff Bridges,7
+345,Eyes Wide Shut,Mystery,Stanley Kubrick,Tom Cruise,7
+620,Ghostbusters,Comedy,Ivan Reitman,Bill Murray,7
+2978,Ghostbusters II,Comedy,Ivan Reitman,Bill Murray,6
+9824,Mystery Men,Adventure,Lawrence Gordon,William H. Macy,6
+9824,Mystery Men,Adventure,Lawrence Gordon,Geoffrey Rush,6
+9824,Mystery Men,Adventure,Lawrence Gordon,Ben Stiller,6
+21185,Vibes,Romance,Tony Ganz,Steve Buscemi,6
+11120,The Mosquito Coast,Adventure,Peter Weir,Harrison Ford,6
+11416,The Mission,Adventure,Fernando Ghia,Robert De Niro,7
+11416,The Mission,Adventure,Fernando Ghia,Jeremy Irons,7
+10776,Little Shop of Horrors,Horror,David Geffen,Bill Murray,7
+3526,Frances,Drama,Jonathan Sanger,Kevin Costner,7
+16406,Dick,Comedy,Gale Anne Hurd,Ryan Reynolds,6
+16406,Dick,Comedy,Gale Anne Hurd,Will Ferrell,6
+91076,Illuminata,Drama,John Turturro,Christopher Walken,6
+19457,The Yards,Drama,Matt Reeves,Mark Wahlberg,6
+19457,The Yards,Drama,Matt Reeves,Joaquin Phoenix,6
+11353,Bowfinger,Comedy,Brian Grazer,Robert Downey Jr.,6
+2280,Big,Fantasy,James L. Brooks,Tom Hanks,7
+9944,The Pelican Brief,Drama,Pieter Jan Brugge,Denzel Washington,6
+9944,The Pelican Brief,Drama,Pieter Jan Brugge,Stanley Tucci,6
+1911,The 13th Warrior,Adventure,Michael Crichton,Antonio Banderas,6
+21719,The Minus Man,Drama,David L. Bushell,Owen Wilson,6
+26522,A Soldier's Story,Drama,Norman Jewison,Denzel Washington,6
+14,American Beauty,Drama,Bruce Cohen,Kevin Spacey,8
+11527,Excalibur,Fantasy,John Boorman,Patrick Stewart,7
+10398,Double Jeopardy,Crime,Leonard Goldberg,Tommy Lee Jones,6
+6415,Three Kings,Action,Charles Roven,Mark Wahlberg,7
+6415,Three Kings,Action,Charles Roven,George Clooney,7
+21430,New Rose Hotel,Drama,Edward R. Pressman,Christopher Walken,5
+21430,New Rose Hotel,Drama,Edward R. Pressman,Willem Dafoe,5
+29787,Monkey Shines,Thriller,Charles Evans,Stanley Tucci,6
+12618,Random Hearts,Drama,Sydney Pollack,Harrison Ford,5
+9346,Risky Business,Comedy,Jon Avnet,Sean Penn,6
+9346,Risky Business,Comedy,Jon Avnet,Tom Cruise,6
+11901,High Plains Drifter,Western,Robert Daley,Clint Eastwood,7
+4929,Hang 'em High,Western,Leonard Freeman,Clint Eastwood,7
+24453,The Razor's Edge,Drama,Harry Benn,Bill Murray,7
+391,A Fistful of Dollars,Western,Arrigo Colombo,Clint Eastwood,8
+8052,Hard Eight,Drama,Robert Jones,Samuel L. Jackson,7
+1610,Fever Pitch,Comedy,Amanda Posey,Colin Firth,6
+8649,Bringing Out the Dead,Drama,Scott Rudin,John Goodman,7
+8649,Bringing Out the Dead,Drama,Scott Rudin,Nicolas Cage,7
+15247,The Ipcress File,Thriller,Harry Saltzman,Michael Caine,7
+709,Licence to Kill,Adventure,Albert R. Broccoli,Benicio del Toro,6
+492,Being John Malkovich,Fantasy,Steve Golin,Brad Pitt,7
+492,Being John Malkovich,Fantasy,Steve Golin,Dustin Hoffman,7
+492,Being John Malkovich,Fantasy,Steve Golin,Sean Penn,7
+492,Being John Malkovich,Fantasy,Steve Golin,John Cusack,7
+46286,The Suburbans,Comedy,J.J. Abrams,Will Ferrell,4
+46286,The Suburbans,Comedy,J.J. Abrams,Ben Stiller,4
+9008,The Insider,Drama,Pieter Jan Brugge,Al Pacino,7
+9008,The Insider,Drama,Pieter Jan Brugge,Russell Crowe,7
+9008,The Insider,Drama,Pieter Jan Brugge,Christopher Plummer,7
+37094,Falling Down,Crime,Timothy Harris,Robert Duvall,7
+11040,Little Big Man,Adventure,Stuart Millar,Dustin Hoffman,8
+14035,Meatballs,Comedy,Daniel Goldberg,Bill Murray,6
+1832,Dogma,Fantasy,Scott Mosier,Matt Damon,7
+1832,Dogma,Fantasy,Scott Mosier,Ben Affleck,7
+10047,The Messenger: The Story of Joan of Arc,Adventure,Luc Besson,Dustin Hoffman,6
+18561,Oxygen,Mystery,Richard Shepard,Adrien Brody,5
+9264,Poison Ivy,Thriller,Andy Ruben,Leonardo DiCaprio,5
+4203,Women on the Verge of a Nervous Breakdown,Comedy,Pedro Almodóvar,Antonio Banderas,8
+2039,Moonstruck,Comedy,Patrick J. Palmer,Nicolas Cage,7
+2668,Sleepy Hollow,Drama,Scott Rudin,Johnny Depp,7
+2668,Sleepy Hollow,Drama,Scott Rudin,Christopher Walken,7
+9647,Scrooged,Fantasy,Art Linson,Bill Murray,7
+26371,Maurice,Drama,Ismail Merchant,Ben Kingsley,7
+11393,The Natural,Drama,Mark Johnson,Robert Duvall,7
+293,A River Runs Through It,Drama,Robert Redford,Brad Pitt,7
+293,A River Runs Through It,Drama,Robert Redford,Joseph Gordon-Levitt,7
+12235,Jagged Edge,Mystery,Martin Ransohoff,Jeff Bridges,6
+36094,Stanley & Iris,Drama,Arlene Sellers,Robert De Niro,6
+9013,Midnight Run,Adventure,Martin Brest,Robert De Niro,7
+11005,Awakenings,Drama,Walter F. Parkes,Robert De Niro,8
+2924,Backdraft,Action,Pen Densham,Robert De Niro,6
+177,The Fisher King,Comedy,Debra Hill,Jeff Bridges,7
+31582,Flawless,Comedy,Jane Rosenthal,Robert De Niro,6
+22267,Ride with the Devil,Drama,James Schamus,Mark Ruffalo,7
+20024,The End of the Affair,Drama,Neil Jordan,Ralph Fiennes,7
+9586,The Bonfire of the Vanities,Comedy,Brian De Palma,Tom Hanks,5
+9586,The Bonfire of the Vanities,Comedy,Brian De Palma,Morgan Freeman,5
+21887,The Great Santini,Drama,Charles A. Pratt,Robert Duvall,7
+32274,Cradle Will Rock,Drama,Lydia Dean Pilcher,Bill Murray,7
+32274,Cradle Will Rock,Drama,Lydia Dean Pilcher,Paul Giamatti,7
+32274,Cradle Will Rock,Drama,Lydia Dean Pilcher,John Cusack,7
+497,The Green Mile,Fantasy,David Valdes,Tom Hanks,8
+1715,The Cider House Rules,Drama,Alan C. Blomquist,Michael Caine,7
+1715,The Cider House Rules,Drama,Alan C. Blomquist,J.K. Simmons,7
+1715,The Cider House Rules,Drama,Alan C. Blomquist,Paul Rudd,7
+42739,The War Zone,Drama,Dixie Linder,Colin Farrell,7
+334,Magnolia,Drama,Paul Thomas Anderson,William H. Macy,8
+334,Magnolia,Drama,Paul Thomas Anderson,Tom Cruise,8
+26578,The Falcon and the Snowman,Thriller,John Schlesinger,Sean Penn,6
+9563,Any Given Sunday,Drama,Clayton Townsend,Al Pacino,7
+9563,Any Given Sunday,Drama,Clayton Townsend,Jamie Foxx,7
+1850,Man on the Moon,Comedy,Danny DeVito,Paul Giamatti,7
+1850,Man on the Moon,Comedy,Danny DeVito,Jim Carrey,7
+1213,The Talented Mr. Ripley,Thriller,Tom Sternberg,Matt Damon,7
+1213,The Talented Mr. Ripley,Thriller,Tom Sternberg,Jude Law,7
+20761,Play It to the Bone,Comedy,Stephen Chin,Woody Harrelson,6
+20761,Play It to the Bone,Comedy,Stephen Chin,Kevin Costner,6
+20761,Play It to the Bone,Comedy,Stephen Chin,Antonio Banderas,6
+12524,Titus,Drama,Conchita Airoldi,Anthony Hopkins,6
+5924,Papillon,Crime,Franklin J. Schaffner,Dustin Hoffman,8
+9644,National Lampoon's Loaded Weapon 1,Comedy,Suzanne Todd,Samuel L. Jackson,6
+13342,Fast Times at Ridgemont High,Comedy,Art Linson,Forest Whitaker,7
+13342,Fast Times at Ridgemont High,Comedy,Art Linson,Sean Penn,7
+13342,Fast Times at Ridgemont High,Comedy,Art Linson,Nicolas Cage,7
+21256,Born to Win,Comedy,Philip Langner,Robert De Niro,6
+79474,"Not Love, Just Frenzy",Comedy,Fernando Colomo,Javier Bardem,5
+13005,Where the Buffalo Roam,Comedy,Art Linson,Bill Murray,6
+1883,Malcolm X,Drama,Spike Lee,Denzel Washington,7
+1883,Malcolm X,Drama,Spike Lee,Christopher Plummer,7
+9475,Scent of a Woman,Drama,Martin Brest,Al Pacino,7
+8873,Wayne's World 2,Music,Lorne Michaels,Christopher Walken,6
+11287,A League of Their Own,Comedy,Robert Greenhut,Tom Hanks,7
+9869,Patriot Games,Drama,Mace Neufeld,Samuel L. Jackson,6
+9869,Patriot Games,Drama,Mace Neufeld,Harrison Ford,6
+619,The Bodyguard,Thriller,Kevin Costner,Kevin Costner,6
+11259,Far and Away,Adventure,Brian Grazer,Tom Cruise,6
+8293,Howards End,Drama,Ismail Merchant,Anthony Hopkins,7
+11068,Singles,Comedy,Richard Hashimoto,Paul Giamatti,7
+10158,White Men Can't Jump,Comedy,David V. Lester,Woody Harrelson,6
+10206,Buffy the Vampire Slayer,Action,Howard Rosenman,Ben Affleck,5
+8374,The Boondock Saints,Action,Chris Brinker,Willem Dafoe,7
+1907,The Beach,Drama,Andrew Macdonald,Leonardo DiCaprio,6
+14181,Boiler Room,Crime,Jennifer Todd,Ben Affleck,6
+2155,Reindeer Games,Thriller,Marty Katz,Ben Affleck,5
+11004,Wonder Boys,Comedy,Curtis Hanson,Robert Downey Jr.,7
+10416,What Planet Are You From?,Comedy,Mike Nichols,John Goodman,5
+10416,What Planet Are You From?,Comedy,Mike Nichols,Ben Kingsley,5
+14271,Beyond the Mat,Documentary,Brian Grazer,Dwayne Johnson,8
+4816,Ghost Dog: The Way of the Samurai,Crime,Jim Jarmusch,Forest Whitaker,7
+11296,Birdy,Drama,Alan Marshall,Nicolas Cage,7
+2067,Mission to Mars,Science Fiction,Tom Jacobson,Don Cheadle,6
+622,The Ninth Gate,Horror,Roman Polanski,Johnny Depp,6
+287,Bull Durham,Comedy,Mark Burg,Kevin Costner,7
+968,Dog Day Afternoon,Crime,Martin Bregman,Al Pacino,8
+838,American Graffiti,Comedy,Francis Ford Coppola,Harrison Ford,7
+820,JFK,Drama,Oliver Stone,Gary Oldman,8
+820,JFK,Drama,Oliver Stone,Tommy Lee Jones,8
+820,JFK,Drama,Oliver Stone,Kevin Costner,8
+26827,Who's That Girl,Comedy,Rosilyn Heller,Stanley Tucci,5
+18890,We're Back! A Dinosaur's Story,Animation,Steve Hickner,John Goodman,6
+17443,...And Justice for All,Crime,Norman Jewison,Al Pacino,7
+36739,School Daze,Comedy,Spike Lee,Samuel L. Jackson,6
+925,Do the Right Thing,Drama,Spike Lee,Samuel L. Jackson,8
+41823,Mo' Better Blues,Drama,Spike Lee,Denzel Washington,6
+41823,Mo' Better Blues,Drama,Spike Lee,Samuel L. Jackson,6
+1713,Jungle Fever,Drama,Spike Lee,Samuel L. Jackson,6
+26170,Coogan's Bluff,Action,Don Siegel,Clint Eastwood,6
+11690,Bloodsport,Action,Yoram Globus,Forest Whitaker,7
+29143,Eyes of Laura Mars,Drama,Jon Peters,Tommy Lee Jones,6
+801,"Good Morning, Vietnam",Comedy,Mark Johnson,Forest Whitaker,7
+16222,Whatever It Takes,Drama,Paul Schiff,James Franco,5
+12187,Heart and Souls,Fantasy,Sean Daniel,Robert Downey Jr.,7
+243,High Fidelity,Comedy,Tim Bevan,John Cusack,7
+879,Hook,Adventure,Frank Marshall,Dustin Hoffman,7
+17529,True Grit,Western,Paul Nathan,Robert Duvall,7
+40841,Roadside Prophets,Action,Peter McCarthy,Don Cheadle,7
+40841,Roadside Prophets,Action,Peter McCarthy,John Cusack,7
+10774,Network,Drama,Fred C. Caruso,Robert Duvall,8
+10083,No Way Out,Action,Robert Garland,Brad Pitt,7
+10083,No Way Out,Action,Robert Garland,Kevin Costner,7
+10747,The Outlaw Josey Wales,Drama,Robert Daley,Clint Eastwood,7
+11305,Mystery Train,Crime,Jim Stark,Steve Buscemi,7
+12309,Bachelor Party,Comedy,Bob Israel,Tom Hanks,6
+1552,Parenthood,Comedy,Brian Grazer,Joaquin Phoenix,6
+1552,Parenthood,Comedy,Brian Grazer,Keanu Reeves,6
+10468,28 Days,Comedy,Celia D. Costas,Viggo Mortensen,6
+10468,28 Days,Comedy,Celia D. Costas,Steve Buscemi,6
+4967,Keeping the Faith,Comedy,Edward Norton,Edward Norton,6
+4967,Keeping the Faith,Comedy,Edward Norton,Ben Stiller,6
+11654,The Hunger,Horror,Richard Shepherd,Willem Dafoe,6
+10518,Marathon Man,Thriller,Robert Evans,Dustin Hoffman,7
+11977,Caddyshack,Comedy,Douglas Kenney,Bill Murray,7
+3536,U-571,Action,Dino De Laurentiis,Matthew McConaughey,6
+310431,Stacy's Knights,Drama,Ann Locktov,Kevin Costner,4
+40562,Committed,Comedy,Marlen Hecht,Mark Ruffalo,4
+15723,The Big Kahuna,Comedy,Kevin Spacey,Kevin Spacey,7
+98,Gladiator,Action,David Franzoni,Russell Crowe,8
+98,Gladiator,Action,David Franzoni,Joaquin Phoenix,8
+5491,Battlefield Earth,Action,John Travolta,Forest Whitaker,4
+10688,Hamlet,Drama,Amy Hobby,Bill Murray,6
+12518,Honeymoon in Vegas,Action,Mike Lobell,Nicolas Cage,6
+8584,Shanghai Noon,Adventure,Roger Birnbaum,Owen Wilson,6
+9600,Big Momma's House,Crime,David T. Friendly,Paul Giamatti,6
+938,For a Few Dollars More,Western,Alberto Grimaldi,Clint Eastwood,8
+10648,Magnum Force,Action,Robert Daley,Clint Eastwood,7
+10875,The Fabulous Baker Boys,Music,Paula Weinstein,Jeff Bridges,6
+9663,Starman,Action,Michael Douglas,Jeff Bridges,7
+635,Angel Heart,Horror,Alan Marshall,Robert De Niro,7
+9679,Gone in Sixty Seconds,Action,Jerry Bruckheimer,Robert Duvall,6
+9679,Gone in Sixty Seconds,Action,Jerry Bruckheimer,Nicolas Cage,6
+17771,Sunshine,Drama,András Hámori,Ralph Fiennes,6
+592,The Conversation,Crime,Francis Ford Coppola,Harrison Ford,8
+592,The Conversation,Crime,Francis Ford Coppola,Robert Duvall,8
+31593,Cutter's Way,Drama,Paul R. Gurian,Jeff Bridges,6
+9040,Serpico,Crime,Martin Bregman,Al Pacino,8
+479,Shaft,Action,Scott Rudin,Christian Bale,6
+479,Shaft,Action,Scott Rudin,Samuel L. Jackson,6
+17711,The Adventures of Rocky & Bullwinkle,Action,Robert De Niro,Robert De Niro,4
+17711,The Adventures of Rocky & Bullwinkle,Action,Robert De Niro,John Goodman,4
+2133,The Perfect Storm,Drama,Gail Katz,Mark Wahlberg,6
+2133,The Perfect Storm,Drama,Gail Katz,George Clooney,6
+28774,Communion,Drama,Whitley Strieber,Christopher Walken,5
+8348,Thunderbolt and Lightfoot,Action,Robert Daley,Clint Eastwood,7
+8348,Thunderbolt and Lightfoot,Action,Robert Daley,Jeff Bridges,7
+24099,Dreamscape,Adventure,Bruce Cohn Curtis,Christopher Plummer,6
+36657,X-Men,Adventure,Ralph Winter,Hugh Jackman,7
+36657,X-Men,Adventure,Ralph Winter,Ian McKellen,7
+36657,X-Men,Adventure,Ralph Winter,Patrick Stewart,7
+1448,The Wisdom of Crocodiles,Drama,Carolyn Choa,Jude Law,6
+9278,Freejack,Science Fiction,Stuart Oken,Anthony Hopkins,5
+90715,Greaser's Palace,Western,Cyma Rubin,Robert Downey Jr.,6
+10276,What About Bob?,Comedy,Laura Ziskin,Bill Murray,7
+10641,Autumn in New York,Drama,Tom Rosenberg,J.K. Simmons,6
+6282,Coyote Ugly,Comedy,Jerry Bruckheimer,John Goodman,6
+5551,Space Cowboys,Action,Clint Eastwood,Clint Eastwood,6
+5551,Space Cowboys,Action,Clint Eastwood,Tommy Lee Jones,6
+21866,Bronco Billy,Action,Neal H. Dobrofsky,Clint Eastwood,5
+11589,Kelly's Heroes,Adventure,Gabriel Katzka,Clint Eastwood,7
+11856,Air America,Action,Daniel Melnick,Robert Downey Jr.,5
+10393,The Replacements,Comedy,Dylan Sellers,Keanu Reeves,6
+10480,Nurse Betty,Comedy,Steve Golin,Morgan Freeman,6
+10685,The Watcher,Mystery,Christopher Eberts,Keanu Reeves,5
+1619,The Way of the Gun,Action,Kenneth Kokin,Benicio del Toro,6
+10637,Remember the Titans,Drama,Jerry Bruckheimer,Denzel Washington,7
+10637,Remember the Titans,Drama,Jerry Bruckheimer,Ryan Gosling,7
+10434,"Faraway, So Close!",Drama,Ulrich Felsberg,Willem Dafoe,6
+10461,Get Carter,Action,Mark Canton,Michael Caine,5
+1597,Meet the Parents,Comedy,Robert De Niro,Robert De Niro,7
+1597,Meet the Parents,Comedy,Robert De Niro,Owen Wilson,7
+1597,Meet the Parents,Comedy,Robert De Niro,Ben Stiller,7
+16888,The Ladies Man,Comedy,Lorne Michaels,Will Ferrell,6
+4327,Charlie's Angels,Action,Drew Barrymore,Bill Murray,6
+4958,The Legend of Bagger Vance,Fantasy,Jake Eberts,Matt Damon,6
+11978,Men of Honor,Drama,Bill Badalato,Robert De Niro,7
+14295,You Can Count on Me,Drama,John Hart,Mark Ruffalo,7
+11372,The Eagle Has Landed,Adventure,Jack Wiener,Michael Caine,6
+11372,The Eagle Has Landed,Adventure,Jack Wiener,Robert Duvall,6
+8452,The 6th Day,Science Fiction,Arnold Schwarzenegger,Robert Duvall,6
+10862,Bounce,Drama,Steve Golin,Ben Affleck,6
+8871,How the Grinch Stole Christmas,Family,Brian Grazer,Anthony Hopkins,6
+8871,How the Grinch Stole Christmas,Family,Brian Grazer,Jim Carrey,6
+10876,Quills,Drama,Julia Chasman,Michael Caine,7
+10876,Quills,Drama,Julia Chasman,Joaquin Phoenix,7
+10876,Quills,Drama,Julia Chasman,Geoffrey Rush,7
+11849,Dungeons & Dragons,Action,Kia Jam,Jeremy Irons,4
+11983,Proof of Life,Action,Charles Mulvehill,Russell Crowe,6
+2669,The Bounty,Action,Bernard Williams,Anthony Hopkins,6
+2669,The Bounty,Action,Bernard Williams,Daniel Day-Lewis,6
+12714,She's Having a Baby,Comedy,John Hughes,Woody Harrelson,6
+12714,She's Having a Baby,Comedy,John Hughes,Bill Murray,6
+2604,Born on the Fourth of July,Drama,Oliver Stone,Willem Dafoe,7
+2604,Born on the Fourth of July,Drama,Oliver Stone,Tom Cruise,7
+107,Snatch,Thriller,Matthew Vaughn,Brad Pitt,8
+107,Snatch,Thriller,Matthew Vaughn,Benicio del Toro,8
+107,Snatch,Thriller,Matthew Vaughn,Jason Statham,8
+40820,Punchline,Comedy,Daniel Melnick,Tom Hanks,5
+40820,Punchline,Comedy,Daniel Melnick,John Goodman,5
+392,Chocolat,Comedy,David Brown,Johnny Depp,7
+11688,The Emperor's New Groove,Adventure,Randy Fullmer,John Goodman,7
+711,Finding Forrester,Drama,Sean Connery,Matt Damon,7
+5001,Before Night Falls,Drama,Jon Kilik,Johnny Depp,7
+5001,Before Night Falls,Drama,Jon Kilik,Sean Penn,7
+5001,Before Night Falls,Drama,Jon Kilik,Javier Bardem,7
+8358,Cast Away,Adventure,Robert Zemeckis,Tom Hanks,8
+5994,The Family Man,Comedy,Marc Abraham,Don Cheadle,6
+5994,The Family Man,Comedy,Marc Abraham,Nicolas Cage,6
+1493,Miss Congeniality,Comedy,Sandra Bullock,Michael Caine,6
+134,"O Brother, Where Art Thou?",Action,Ethan Coen,George Clooney,7
+134,"O Brother, Where Art Thou?",Action,Ethan Coen,John Goodman,7
+21991,State and Main,Comedy,Sarah Green,William H. Macy,6
+10577,Dracula 2000,Thriller,W.K. Border,Christopher Plummer,5
+11973,Thirteen Days,Drama,Kevin Costner,Kevin Costner,7
+1900,Traffic,Thriller,Laura Bickford,Don Cheadle,7
+1900,Traffic,Thriller,Laura Bickford,Benicio del Toro,7

@@ -4,7 +4,7 @@ import pandas as pd
 import os
 import shutil
 
-file_name = 'df.csv'
+file_name = '../../preparedData/updatedFile.csv'
 
 data = pd.read_csv(file_name, sep=',')
 # columns names ['filmId' 'title' 'genre' 'producer' 'actor' 'rating']

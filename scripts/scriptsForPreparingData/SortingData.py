@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_name = 'mergedFile.csv'
+file_name = '../../preparedData/mergedFile1.csv'
 
 data = pd.read_csv(file_name, sep=',')
 # columns names ['filmId' 'title' 'genre' 'producer' 'actor' 'rating']

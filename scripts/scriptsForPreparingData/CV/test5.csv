@@ -1,0 +1,394 @@
+actor,filmId,genre,producer,rating,title
+Jeff Bridges,88658.0,Crime,Susan Bridges,5.0,Cold Feet
+J.K. Simmons,141052.0,Action,Charles Roven,5.0,Justice League
+Jason Statham,2312.0,Adventure,Brandon Baker,5.0,In the Name of the King: A Dungeon Siege Tale
+Ryan Reynolds,264560.0,Drama,Tracey Jeffrey,5.0,When Friendship Kills
+Robert Duvall,193212.0,TV Movie,Raúl Outeda,5.0,The Man Who Captured Eichmann
+Keanu Reeves,331962.0,Drama,Keanu Reeves,5.0,Exposed
+Jason Statham,225703.0,Comedy,Peter Safran,5.0,The Starving Games
+James Franco,324333.0,Crime,Rob Carliner,5.0,Wild Horses
+Robert Duvall,324333.0,Crime,Rob Carliner,5.0,Wild Horses
+Will Ferrell,222858.0,Thriller,Mike Elliott,5.0,A Bucket of Blood
+Jim Carrey,20006.0,Action,David Valdes,5.0,Pink Cadillac
+Clint Eastwood,20006.0,Action,David Valdes,5.0,Pink Cadillac
+Chris Pratt,19994.0,Comedy,Brad Van Arragon,5.0,Jennifer's Body
+Ben Stiller,27418.0,Adventure,Les Alexander,5.0,Next of Kin
+Dustin Hoffman,10551.0,Action,Lawrence Gordon,5.0,Family Business
+Michael Fassbender,30685.0,Horror,Paul Brooks,5.0,Blood Creek
+Paul Rudd,42888.0,Comedy,James L. Brooks,5.0,How Do You Know
+Owen Wilson,8427.0,Action,Betty Thomas,5.0,I Spy
+Ben Affleck,10206.0,Action,Howard Rosenman,5.0,Buffy the Vampire Slayer
+Robert Duvall,12193.0,Comedy,Reese Witherspoon,5.0,Four Christmases
+Michael Caine,46878.0,Action,Irwin Allen,5.0,The Swarm
+Dwayne Johnson,72559.0,Adventure,Lorenzo di Bonaventura,5.0,G.I. Joe: Retaliation
+Idris Elba,8617.0,Crime,Neal H. Moritz,5.0,Prom Night
+Willem Dafoe,14000.0,Crime,Marissa McMahon,5.0,Anamorph
+Antonio Banderas,9488.0,Action,Elizabeth Avellan,5.0,Spy Kids 2: The Island of Lost Dreams
+Steve Buscemi,9488.0,Action,Elizabeth Avellan,5.0,Spy Kids 2: The Island of Lost Dreams
+Mark Wahlberg,8645.0,Thriller,Sam Mercer,5.0,The Happening
+Edward Norton,84834.0,Crime,Robert F. O Neill,5.0,Double Indemnity
+Anthony Hopkins,3132.0,Action,Michael Browning,5.0,Bad Company
+Samuel L. Jackson,98339.0,Thriller,András Hámori,5.0,The Samaritan
+Christopher Walken,21430.0,Drama,Edward R. Pressman,5.0,New Rose Hotel
+Willem Dafoe,21430.0,Drama,Edward R. Pressman,5.0,New Rose Hotel
+Forest Whitaker,138376.0,Action,Gary Howsam,5.0,A Dark Truth
+Harrison Ford,12618.0,Drama,Sydney Pollack,5.0,Random Hearts
+Jason Bateman,104155.0,Documentary,Morgan Spurlock,5.0,Mansome
+Steve Buscemi,124459.0,Comedy,Chris Bender,5.0,The Incredible Burt Wonderstone
+Paul Rudd,104155.0,Documentary,Morgan Spurlock,5.0,Mansome
+Steve Carell,124459.0,Comedy,Chris Bender,5.0,The Incredible Burt Wonderstone
+James Franco,122081.0,Drama,Jordan Gertner,5.0,Spring Breakers
+Chris Pratt,21862.0,Comedy,Matthew Rhodes,5.0,Deep in the Valley
+Robert De Niro,8944.0,Comedy,Robert De Niro,5.0,What Just Happened
+Sean Penn,8944.0,Comedy,Robert De Niro,5.0,What Just Happened
+Stanley Tucci,8944.0,Comedy,Robert De Niro,5.0,What Just Happened
+Tom Cruise,19114.0,Romance,Dyson Lovell,5.0,Endless Love
+Owen Wilson,12479.0,Comedy,David Willis,5.0,Breakfast of Champions
+Forest Whitaker,165739.0,Crime,Michael Becker,5.0,Pawn
+Michael Caine,31638.0,Action,Irwin Allen,5.0,Beyond the Poseidon Adventure
+Anthony Hopkins,109669.0,Drama,William Hill,5.0,The Tenth Man
+Michael Caine,2966.0,Adventure,Dean Barnes,5.0,"20,000 Leagues Under the Sea"
+Forest Whitaker,15124.0,Drama,Sigurjón Sighvatsson,5.0,A Little Trip to Heaven
+Christoph Waltz,206647.0,Action,Barbara Broccoli,6.0,Spectre
+Ralph Fiennes,206647.0,Action,Barbara Broccoli,6.0,Spectre
+Daniel Craig,206647.0,Action,Barbara Broccoli,6.0,Spectre
+Willem Dafoe,283700.0,History,Thierry Lounas,6.0,Pasolini
+John Goodman,41862.0,Comedy,Dan Halsted,6.0,Freshman Orientation
+Chris Hemsworth,296099.0,Comedy,Chris Bender,6.0,Vacation
+Channing Tatum,264999.0,Comedy,Nick Wechsler,6.0,Magic Mike XXL
+Joaquin Phoenix,282984.0,Mystery,Letty Aronson,6.0,Irrational Man
+Chris Evans,283350.0,Drama,Chris Evans,6.0,Before We Go
+Samuel L. Jackson,66799.0,TV Movie,Harry Moses,6.0,Assault at West Point: The Court-Martial of Johnson Whittaker
+Hugh Jackman,7092.0,Action,John Kafka,6.0,Van Helsing: The London Assignment
+Patrick Stewart,815.0,Family,Greg Smith,6.0,Animal Farm
+Michael Fassbender,225728.0,History,Iain Canning,6.0,Macbeth
+Peter Dinklage,74461.0,Adventure,Matt Wall,6.0,Knights of Badassdom
+George Clooney,270487.0,Comedy,Joel Coen,6.0,"Hail, Caesar!"
+J.K. Simmons,250572.0,Comedy,Jeremy Sisto,6.0,Break Point
+Kevin Spacey,301348.0,Comedy,Cassian Elwes,6.0,Elvis & Nixon
+Geoffrey Rush,292010.0,Drama,Jan Chapman,6.0,The Daughter
+Willem Dafoe,208091.0,Drama,Lisa Barrett McGuire,6.0,Saving Norman
+Tom Hiddleston,297806.0,Drama,Marc Abraham,6.0,I Saw the Light
+Keanu Reeves,342521.0,Action,Peter Principato,6.0,Keanu
+Chris Hemsworth,290595.0,Action,Joe Roth,6.0,The Huntsman: Winter's War
+William H. Macy,345874.0,Drama,Dan Keston,6.0,Stealing Cars
+Keanu Reeves,301365.0,Thriller,Lene Børglum,6.0,The Neon Demon
+Kevin Spacey,322240.0,Fantasy,Luc Besson,6.0,Nine Lives
+Ben Stiller,356298.0,Comedy,Miranda Bailey,6.0,Don't Think Twice
+Ewan McGregor,205588.0,Thriller,Simon Cornwell,6.0,Our Kind of Traitor
+Peter Dinklage,323676.0,Comedy,Will Ferrell,6.0,The Boss
+Idris Elba,333669.0,Action,Philippe Rousselet,6.0,Bastille Day
+Peter Dinklage,153518.0,Family,John Cohen,6.0,The Angry Birds Movie
+Sean Penn,153518.0,Family,John Cohen,6.0,The Angry Birds Movie
+Tom Hanks,270010.0,Comedy,Uwe Schott,6.0,A Hologram for the King
+Christopher Walken,322240.0,Fantasy,Luc Besson,6.0,Nine Lives
+Channing Tatum,270487.0,Comedy,Joel Coen,6.0,"Hail, Caesar!"
+Woody Harrelson,146198.0,Action,Marc Butan,6.0,Triple 9
+Robert De Niro,291870.0,Comedy,Barry Josephson,6.0,Dirty Grandpa
+Morgan Freeman,346808.0,Action,Donald A. Barton,6.0,Momentum
+Antonio Banderas,293646.0,Drama,Robert Katz,6.0,The 33
+Anthony Hopkins,339527.0,Crime,Claudia Bluemhuber,6.0,Solace
+Colin Farrell,339527.0,Crime,Claudia Bluemhuber,6.0,Solace
+Robert De Niro,336004.0,Crime,Robert Jones,6.0,Heist
+John Goodman,219466.0,Drama,Nicky Kentish Barnes,6.0,Dancing on the Edge
+Jean Reno,348060.0,Action,James Richardson,6.0,Antigang
+Chris Pine,300673.0,Action,James Whitaker,6.0,The Finest Hours
+Clint Eastwood,80775.0,War,Howard Christie,6.0,Away All Boats
+John Cusack,340275.0,Music,Spike Lee,6.0,Chi-Raq
+Ryan Gosling,291868.0,Documentary,Lene Børglum,6.0,My Life Directed by Nicolas Winding Refn
+Patrick Stewart,340816.0,Romance,Larry King,6.0,Christmas Eve
+James Franco,83728.0,Drama,Caroline Aragon,6.0,The Broken Tower
+Mark Wahlberg,274167.0,Comedy,Will Ferrell,6.0,Daddy's Home
+Will Ferrell,274167.0,Comedy,Will Ferrell,6.0,Daddy's Home
+Keanu Reeves,62768.0,Drama,Anthony Kramreither,6.0,Flying
+Samuel L. Jackson,340275.0,Music,Spike Lee,6.0,Chi-Raq
+John Cusack,23048.0,Science Fiction,John Cusack,6.0,Hot Tub Time Machine
+John Goodman,152760.0,War,George Clooney,6.0,The Monuments Men
+Bill Murray,152760.0,War,George Clooney,6.0,The Monuments Men
+Jude Law,39538.0,Drama,Michael Shamberg,6.0,Contagion
+Paul Giamatti,38543.0,Romance,Rick Benattar,6.0,Ironclad
+Michael Fassbender,48231.0,Drama,Jeremy Thomas,6.0,A Dangerous Method
+Viggo Mortensen,48231.0,Drama,Jeremy Thomas,6.0,A Dangerous Method
+Michael Caine,42266.0,Drama,Daniel M. Angel,6.0,The Romantic Englishwoman
+George Clooney,10316.0,Drama,George Clooney,6.0,The Ides of March
+Ryan Gosling,10316.0,Drama,George Clooney,6.0,The Ides of March
+Paul Giamatti,10316.0,Drama,George Clooney,6.0,The Ides of March
+Robert De Niro,49021.0,Action,Sigurjón Sighvatsson,6.0,Killer Elite
+Jason Statham,49021.0,Action,Sigurjón Sighvatsson,6.0,Killer Elite
+Christoph Waltz,52451.0,Adventure,Paul W.S. Anderson,6.0,The Three Musketeers
+Matt Damon,44754.0,Drama,Sydney Pollack,6.0,Margaret
+Mark Ruffalo,44754.0,Drama,Sydney Pollack,6.0,Margaret
+Willem Dafoe,9768.0,Comedy,Rachel Talalay,6.0,Cry-Baby
+Jean Reno,44754.0,Drama,Sydney Pollack,6.0,Margaret
+Bryan Cranston,39538.0,Drama,Michael Shamberg,6.0,Contagion
+Matt Damon,39538.0,Drama,Michael Shamberg,6.0,Contagion
+Mark Ruffalo,58884.0,Drama,Mark Ruffalo,6.0,Sympathy for Delicious
+John Goodman,48572.0,Horror,Jonathan Gordon,6.0,Red State
+Paul Giamatti,45243.0,Comedy,Steve Bing,6.0,The Hangover Part II
+Tom Hanks,59861.0,Comedy,Tom Hanks,6.0,Larry Crowne
+Bryan Cranston,59861.0,Comedy,Tom Hanks,6.0,Larry Crowne
+Kevin Spacey,51540.0,Comedy,Brett Ratner,6.0,Horrible Bosses
+Colin Farrell,51540.0,Comedy,Brett Ratner,6.0,Horrible Bosses
+Jamie Foxx,51540.0,Comedy,Brett Ratner,6.0,Horrible Bosses
+Jason Bateman,51540.0,Comedy,Brett Ratner,6.0,Horrible Bosses
+Peter Dinklage,45156.0,Comedy,Neil Sacker,6.0,A Little Bit of Heaven
+Michael Caine,49013.0,Animation,Denise Ream,6.0,Cars 2
+Jason Statham,55846.0,Crime,Donald Kushner,6.0,Blitz
+Hugh Dancy,59968.0,Comedy,Anthony Bregman,6.0,Our Idiot Brother
+Paul Rudd,59968.0,Comedy,Anthony Bregman,6.0,Our Idiot Brother
+Ryan Reynolds,49520.0,Comedy,Neal H. Moritz,6.0,The Change-Up
+Jason Bateman,49520.0,Comedy,Neal H. Moritz,6.0,The Change-Up
+James McAvoy,60309.0,Crime,Bill Holderman,6.0,The Conspirator
+Colin Farrell,58151.0,Horror,Michael De Luca,6.0,Fright Night
+Owen Wilson,49013.0,Animation,Denise Ream,6.0,Cars 2
+Daniel Craig,69668.0,Drama,James G. Robinson,6.0,Dream House
+Ben Stiller,59108.0,Action,Brian Grazer,6.0,Tower Heist
+Leonardo DiCaprio,88794.0,Drama,Clint Eastwood,6.0,J. Edgar
+Michael Caine,72545.0,Adventure,Beau Flynn,6.0,Journey 2: The Mysterious Island
+Dwayne Johnson,72545.0,Adventure,Beau Flynn,6.0,Journey 2: The Mysterious Island
+Owen Wilson,73937.0,Comedy,Curtis Hanson,6.0,The Big Year
+Tom Hardy,59962.0,Action,Will Smith,6.0,This Means War
+Chris Pine,59962.0,Action,Will Smith,6.0,This Means War
+Bryan Cranston,49529.0,Action,Colin Wilson,6.0,John Carter
+Willem Dafoe,49529.0,Action,Colin Wilson,6.0,John Carter
+Ryan Reynolds,59961.0,Action,Scott Stuber,6.0,Safe House
+Ewan McGregor,81025.0,Drama,Paul Webster,6.0,Salmon Fishing in the Yemen
+John Cusack,70436.0,Crime,Aaron Ryder,6.0,The Raven
+Johnny Depp,62213.0,Comedy,Johnny Depp,6.0,Dark Shadows
+Ben Kingsley,76493.0,Comedy,Scott Rudin,6.0,The Dictator
+Tommy Lee Jones,41154.0,Action,Walter F. Parkes,6.0,Men in Black 3
+Chris Hemsworth,58595.0,Adventure,Sam Mercer,6.0,Snow White and the Huntsman
+Michael Fassbender,70981.0,Science Fiction,Ridley Scott,6.0,Prometheus
+Idris Elba,70981.0,Science Fiction,Ridley Scott,6.0,Prometheus
+Ralph Fiennes,57165.0,Adventure,Basil Iwanyk,6.0,Wrath of the Titans
+Bradley Cooper,45243.0,Comedy,Steve Bing,6.0,The Hangover Part II
+Denzel Washington,59961.0,Action,Scott Stuber,6.0,Safe House
+Michael Caine,118911.0,Drama,Otto Preminger,6.0,Hurry Sundown
+John Cusack,38407.0,Drama,Barry Mendel,6.0,Shanghai
+Woody Harrelson,30618.0,Thriller,Nava Levin,6.0,Bunraku
+Matt Damon,65759.0,Animation,George Miller,6.0,Happy Feet Two
+Brad Pitt,65759.0,Animation,George Miller,6.0,Happy Feet Two
+Jason Statham,76163.0,Action,Kevin King Templeton,6.0,The Expendables 2
+Ralph Fiennes,101173.0,Drama,John Logan,6.0,Coriolanus
+J.K. Simmons,57157.0,Comedy,Jason Reitman,6.0,Young Adult
+Tom Hardy,65086.0,Drama,Brian Oliver,6.0,The Woman in Black
+Mark Wahlberg,77866.0,Thriller,Tim Bevan,6.0,Contraband
+Michael Fassbender,70435.0,Action,Ken Halsband,6.0,Haywire
+Ewan McGregor,70435.0,Action,Ken Halsband,6.0,Haywire
+Antonio Banderas,70435.0,Action,Ken Halsband,6.0,Haywire
+Channing Tatum,70435.0,Action,Ken Halsband,6.0,Haywire
+Patrick Stewart,75579.0,Crime,Robert Jones,6.0,Dad Savage
+Nicolas Cage,74998.0,Action,Tobey Maguire,6.0,Seeking Justice
+Bryan Cranston,72431.0,Drama,Rick McCallum,6.0,Red Tails
+J.K. Simmons,77866.0,Thriller,Tim Bevan,6.0,Contraband
+Matthew McConaughey,92591.0,Comedy,Ginger Sledge,6.0,Bernie
+Sean Penn,8967.0,Drama,Brad Pitt,6.0,The Tree of Life
+Geoffrey Rush,1865.0,Adventure,Jerry Bruckheimer,6.0,Pirates of the Caribbean: On Stranger Tides
+Samuel L. Jackson,27581.0,Action,Will Ferrell,6.0,The Other Guys
+Mark Wahlberg,27581.0,Action,Will Ferrell,6.0,The Other Guys
+Dwayne Johnson,27581.0,Action,Will Ferrell,6.0,The Other Guys
+Will Ferrell,27581.0,Action,Will Ferrell,6.0,The Other Guys
+Colin Farrell,33195.0,Drama,Alan Moloney,6.0,Triage
+Michael Fassbender,23759.0,Adventure,Robert Jones,6.0,Centurion
+Forest Whitaker,43549.0,Thriller,Bill Johnson,6.0,The Experiment
+Adrien Brody,43549.0,Thriller,Bill Johnson,6.0,The Experiment
+George Clooney,27579.0,Crime,George Clooney,6.0,The American
+Jason Bateman,41210.0,Comedy,Albert Berger,6.0,The Switch
+Robert De Niro,23631.0,Action,Robert Rodriguez,6.0,Machete
+Christopher Walken,4204.0,Drama,Carol Baum,6.0,$5 a Day
+Jean Reno,37645.0,Action,Luc Besson,6.0,22 Bullets
+Javier Bardem,38167.0,Drama,Dede Gardner,6.0,Eat Pray Love
+James Franco,38167.0,Drama,Dede Gardner,6.0,Eat Pray Love
+Ewan McGregor,35019.0,Comedy,Tim Bevan,6.0,Nanny McPhee and the Big Bang
+Ralph Fiennes,35019.0,Comedy,Tim Bevan,6.0,Nanny McPhee and the Big Bang
+Mark Ruffalo,39781.0,Comedy,Gary Gilbert,6.0,The Kids Are All Right
+Tom Cruise,37834.0,Action,Cathy Konrad,6.0,Knight and Day
+Woody Harrelson,34769.0,Drama,Nicholas Tabarrok,6.0,Defendor
+Mark Wahlberg,35056.0,Comedy,Shawn Levy,6.0,Date Night
+Mark Ruffalo,35056.0,Comedy,Shawn Levy,6.0,Date Night
+Steve Carell,35056.0,Comedy,Shawn Levy,6.0,Date Night
+James Franco,35056.0,Comedy,Shawn Levy,6.0,Date Night
+John Goodman,13417.0,Animation,John A. Smith,6.0,Kronk's New Groove
+Peter Dinklage,34803.0,Comedy,Chris Rock,6.0,Death at a Funeral
+Joaquin Phoenix,43939.0,Music,Joaquin Phoenix,6.0,I'm Still Here
+Chris Hemsworth,27004.0,Crime,Stephen Milburn Anderson,6.0,Ca$h
+Willem Dafoe,18516.0,Drama,Ehud Bleiberg,6.0,Adam Resurrected
+Jake Gyllenhaal,9543.0,Adventure,Jerry Bruckheimer,6.0,Prince of Persia: The Sands of Time
+Ben Kingsley,9543.0,Adventure,Jerry Bruckheimer,6.0,Prince of Persia: The Sands of Time
+Adrien Brody,37707.0,Horror,Guillermo del Toro,6.0,Splice
+Bradley Cooper,34544.0,Thriller,Iain Smith,6.0,The A-Team
+Robert Duvall,59231.0,Drama,Ronald Colby,6.0,The Rain People
+Adrien Brody,34851.0,Action,Robert Rodriguez,6.0,Predators
+Russell Crowe,20662.0,Action,Brian Grazer,6.0,Robin Hood
+Sean Penn,43939.0,Music,Joaquin Phoenix,6.0,I'm Still Here
+Jamie Foxx,43939.0,Music,Joaquin Phoenix,6.0,I'm Still Here
+Ben Stiller,43939.0,Music,Joaquin Phoenix,6.0,I'm Still Here
+Owen Wilson,39451.0,Comedy,Robert De Niro,6.0,Little Fockers
+Ben Stiller,39451.0,Comedy,Robert De Niro,6.0,Little Fockers
+Christoph Waltz,40805.0,Action,Neal H. Moritz,6.0,The Green Hornet
+John Goodman,333371.0,Thriller,J.J. Abrams,7.0,10 Cloverfield Lane
+Viggo Mortensen,283708.0,Drama,Olivier Charvet,7.0,Far from Men
+Tom Hanks,253639.0,TV Movie,Rob Epstein,7.0,And the Oscar Goes To...
+Forest Whitaker,400174.0,History,Ann Kindberg,7.0,Roots
+George Clooney,253639.0,TV Movie,Rob Epstein,7.0,And the Oscar Goes To...
+Chris Evans,110415.0,Action,Tae-sung Jeong,7.0,Snowpiercer
+Ben Kingsley,253639.0,TV Movie,Rob Epstein,7.0,And the Oscar Goes To...
+Tom Cruise,227.0,Crime,Gray Frederickson,7.0,The Outsiders
+Benicio del Toro,253639.0,TV Movie,Rob Epstein,7.0,And the Oscar Goes To...
+Harrison Ford,87.0,Adventure,Robert Watts,7.0,Indiana Jones and the Temple of Doom
+Christopher Walken,11336.0,Horror,Debra Hill,7.0,The Dead Zone
+Bradley Cooper,333371.0,Thriller,J.J. Abrams,7.0,10 Cloverfield Lane
+Ben Kingsley,169881.0,Adventure,Nico Hofmann,7.0,The Physician
+Michael Caine,1715.0,Drama,Alan C. Blomquist,7.0,The Cider House Rules
+Viggo Mortensen,48309.0,Crime,Irwin Yablans,7.0,Prison
+Paul Rudd,1715.0,Drama,Alan C. Blomquist,7.0,The Cider House Rules
+John Cusack,2832.0,Mystery,Cathy Konrad,7.0,Identity
+Peter Dinklage,2196.0,Comedy,Diana Phillips,7.0,Death at a Funeral
+Hugh Jackman,36658.0,Adventure,Lauren Shuler Donner,7.0,X2
+Ian McKellen,36658.0,Adventure,Lauren Shuler Donner,7.0,X2
+Patrick Stewart,36658.0,Adventure,Lauren Shuler Donner,7.0,X2
+Javier Bardem,20689.0,Crime,John Malkovich,7.0,The Dancer Upstairs
+Keanu Reeves,604.0,Adventure,Joel Silver,7.0,The Matrix Reloaded
+Edward Norton,9654.0,Action,Donald De Line,7.0,The Italian Job
+Mark Wahlberg,9654.0,Action,Donald De Line,7.0,The Italian Job
+Gary Oldman,675.0,Adventure,David Heyman,7.0,Harry Potter and the Order of the Phoenix
+Kevin Costner,3432.0,Drama,Kevin Costner,7.0,Mr. Brooks
+Johnny Depp,285.0,Adventure,Jerry Bruckheimer,7.0,Pirates of the Caribbean: At World's End
+Jason Statham,9654.0,Action,Donald De Line,7.0,The Italian Job
+Adrien Brody,39125.0,Romance,Wolfram Tichy,7.0,Love the Hard Way
+Clint Eastwood,11916.0,Western,Carroll Case,7.0,Two Mules for Sister Sara
+Leonardo DiCaprio,8092.0,Drama,Art Linson,7.0,This Boy’s Life
+Robert De Niro,8092.0,Drama,Art Linson,7.0,This Boy’s Life
+John Goodman,290.0,Comedy,Ethan Coen,7.0,Barton Fink
+Steve Buscemi,290.0,Comedy,Ethan Coen,7.0,Barton Fink
+Brad Pitt,14411.0,Family,Jeffrey Katzenberg,7.0,Sinbad: Legend of the Seven Seas
+Geoffrey Rush,285.0,Adventure,Jerry Bruckheimer,7.0,Pirates of the Caribbean: At World's End
+Jeff Bridges,4464.0,Drama,Gary Ross,7.0,Seabiscuit
+Ralph Fiennes,675.0,Adventure,David Heyman,7.0,Harry Potter and the Order of the Phoenix
+Robert De Niro,2270.0,Adventure,Matthew Vaughn,7.0,Stardust
+Johnny Depp,21189.0,Documentary,Rosa Bosch,7.0,Lost in La Mancha
+Jeff Bridges,21189.0,Documentary,Rosa Bosch,7.0,Lost in La Mancha
+George Clooney,4566.0,Drama,Sydney Pollack,7.0,Michael Clayton
+Adrien Brody,4538.0,Adventure,Scott Rudin,7.0,The Darjeeling Limited
+Owen Wilson,4538.0,Adventure,Scott Rudin,7.0,The Darjeeling Limited
+Bill Murray,4538.0,Adventure,Scott Rudin,7.0,The Darjeeling Limited
+Jeff Bridges,10150.0,Fantasy,Jules Bass,7.0,The Last Unicorn
+Clint Eastwood,688.0,Drama,Clint Eastwood,7.0,The Bridges of Madison County
+Viggo Mortensen,2252.0,Thriller,Robert Lantos,7.0,Eastern Promises
+Dustin Hoffman,994.0,Crime,Daniel Melnick,7.0,Straw Dogs
+James Franco,6973.0,History,Paul Haggis,7.0,In the Valley of Elah
+James McAvoy,4347.0,Drama,Tim Bevan,7.0,Atonement
+Benedict Cumberbatch,4347.0,Drama,Tim Bevan,7.0,Atonement
+Kevin Spacey,11615.0,Drama,Alan Parker,7.0,The Life of David Gale
+Will Ferrell,11635.0,Comedy,Daniel Goldberg,7.0,Old School
+Patrick Stewart,21867.0,Drama,Peter Snell,7.0,Lady Jane
+Don Cheadle,6535.0,Drama,Mark Gordon,7.0,Talk to Me
+Forest Whitaker,1817.0,Thriller,David Zucker,7.0,Phone Booth
+Colin Farrell,1817.0,Thriller,David Zucker,7.0,Phone Booth
+Ian McKellen,2270.0,Adventure,Matthew Vaughn,7.0,Stardust
+Tommy Lee Jones,6973.0,History,Paul Haggis,7.0,In the Valley of Elah
+William H. Macy,4464.0,Drama,Gary Ross,7.0,Seabiscuit
+Ryan Gosling,6145.0,Thriller,Charles Weinstock,7.0,Fracture
+Anthony Hopkins,6145.0,Thriller,Charles Weinstock,7.0,Fracture
+Clint Eastwood,11046.0,Adventure,Elliott Kastner,7.0,Where Eagles Dare
+William H. Macy,1730.0,Horror,David Lynch,7.0,INLAND EMPIRE
+Jeremy Irons,1730.0,Horror,David Lynch,7.0,INLAND EMPIRE
+Matthew McConaughey,11170.0,Drama,Basil Iwanyk,7.0,We Are Marshall
+Edward Norton,14202.0,Drama,Edward Norton,7.0,The Painted Veil
+Harrison Ford,11364.0,Drama,J.J. Abrams,7.0,Regarding Henry
+Peter Dinklage,2056.0,Drama,Robert May,7.0,The Station Agent
+Jean Reno,29415.0,Drama,Raymond Hakim,7.0,La Bête Humaine
+Keanu Reeves,14543.0,Documentary,Eric Matthies,7.0,The Matrix Revisited
+Owen Wilson,13685.0,Comedy,Cynthia Hargrave,7.0,Bottle Rocket
+James Franco,1581.0,Comedy,Nancy Meyers,7.0,The Holiday
+Dustin Hoffman,1581.0,Comedy,Nancy Meyers,7.0,The Holiday
+Morgan Freeman,2357.0,Comedy,Brad Silberling,7.0,10 Items or Less
+Dustin Hoffman,11329.0,Drama,Arnon Milchan,7.0,Runaway Jury
+Denzel Washington,7551.0,Action,Jerry Bruckheimer,7.0,Déjà Vu
+John Cusack,11329.0,Drama,Arnon Milchan,7.0,Runaway Jury
+Daniel Craig,36557.0,Adventure,Barbara Broccoli,7.0,Casino Royale
+Colin Farrell,10629.0,Drama,Jerry Bruckheimer,7.0,Veronica Guerin
+Dustin Hoffman,1427.0,Crime,Bernd Eichinger,7.0,Perfume: The Story of a Murderer
+Joaquin Phoenix,10009.0,Adventure,Chuck Williams,7.0,Brother Bear
+Jude Law,1581.0,Comedy,Nancy Meyers,7.0,The Holiday
+Mark Ruffalo,20.0,Drama,Esther García,7.0,My Life Without Me
+Jeremy Renner,395834.0,Action,Elizabeth A. Bell,7.0,Wind River
+Dustin Hoffman,23544.0,Animation,Jimmy T. Murakami,7.0,The Point!
+Dustin Hoffman,23397.0,Drama,Tim Zinnemann,7.0,Straight Time
+Javier Bardem,54580.0,Drama,Elías Querejeta,7.0,Mondays in the Sun
+Chris Evans,1272.0,Science Fiction,Andrew Macdonald,7.0,Sunshine
+Chris Pratt,8270.0,Crime,Walter F. Parkes,7.0,The Lookout
+Joseph Gordon-Levitt,8270.0,Crime,Walter F. Parkes,7.0,The Lookout
+Mark Wahlberg,7485.0,Action,Lorenzo di Bonaventura,7.0,Shooter
+Don Cheadle,2355.0,Drama,Jack Binder,7.0,Reign Over Me
+James McAvoy,2977.0,Drama,Graham Broadbent,7.0,Becoming Jane
+Michael Fassbender,1271.0,Action,Gianni Nunnari,7.0,300
+Robert Duvall,2055.0,Western,Kevin Costner,7.0,Open Range
+Kevin Costner,2055.0,Western,Kevin Costner,7.0,Open Range
+Mark Ruffalo,1949.0,Crime,Ceán Chaffin,7.0,Zodiac
+Jake Gyllenhaal,1949.0,Crime,Ceán Chaffin,7.0,Zodiac
+Robert Downey Jr.,1949.0,Crime,Ceán Chaffin,7.0,Zodiac
+John Cusack,8992.0,Comedy,Roger Birnbaum,7.0,The Sure Thing
+Samuel L. Jackson,7874.0,Drama,John Singleton,7.0,Black Snake Moan
+Idris Elba,16555.0,Comedy,Reuben Cannon,7.0,Daddy's Little Girls
+Nicolas Cage,7270.0,Comedy,Steve Starkey,7.0,Matchstick Men
+Bill Murray,153.0,Drama,Francis Ford Coppola,7.0,Lost in Translation
+Steve Buscemi,2266.0,Drama,Claudie Ossard,7.0,"Paris, je t'aime"
+Willem Dafoe,2266.0,Drama,Claudie Ossard,7.0,"Paris, je t'aime"
+Ryan Gosling,6615.0,Comedy,John Cameron,7.0,Lars and the Real Girl
+Channing Tatum,8194.0,Crime,Robert Downey Jr.,7.0,A Guide To Recognizing Your Saints
+Benicio del Toro,3877.0,Drama,Sam Mendes,7.0,Things We Lost in the Fire
+Mark Ruffalo,8954.0,Drama,A. Kitman Ho,7.0,Reservation Road
+Matthew McConaughey,12149.0,Drama,David Kirschner,7.0,Frailty
+James Franco,10189.0,Action,Judd Apatow,7.0,Pineapple Express
+Javier Bardem,5038.0,Drama,Letty Aronson,7.0,Vicky Cristina Barcelona
+Dustin Hoffman,27094.0,Drama,Marvin Worth,7.0,Lenny
+Daniel Day-Lewis,11240.0,Romance,Tim Bevan,7.0,My Beautiful Laundrette
+Ryan Gosling,4012.0,Drama,Susan Hoffman,7.0,The Believer
+Colin Firth,9026.0,Comedy,Barnaby Thompson,7.0,The Importance of Being Earnest
+Al Pacino,320.0,Crime,Paul Junger Witt,7.0,Insomnia
+Matt Damon,9023.0,Western,Jeffrey Katzenberg,7.0,Spirit: Stallion of the Cimarron
+Denzel Washington,8963.0,Action,Jerry Bruckheimer,7.0,Crimson Tide
+Matt Damon,2501.0,Action,Doug Liman,7.0,The Bourne Identity
+Daniel Craig,4147.0,Thriller,Sam Mendes,7.0,Road to Perdition
+Jude Law,4147.0,Thriller,Sam Mendes,7.0,Road to Perdition
+Stanley Tucci,4147.0,Thriller,Sam Mendes,7.0,Road to Perdition
+James Franco,13008.0,Crime,Jocelyn Hayes,7.0,An American Crime
+Christopher Plummer,18884.0,TV Movie,Ian McDougall,8.0,Nuremberg
+Hugh Jackman,1124.0,Drama,Christopher Nolan,8.0,The Prestige
+Christian Bale,1124.0,Drama,Christopher Nolan,8.0,The Prestige
+Michael Caine,5143.0,Comedy,Robert Greenhut,8.0,Hannah and Her Sisters
+Steve Carell,773.0,Comedy,Peter Saraf,8.0,Little Miss Sunshine
+Bryan Cranston,773.0,Comedy,Peter Saraf,8.0,Little Miss Sunshine
+Ewan McGregor,587.0,Adventure,Bruce Cohen,8.0,Big Fish
+Steve Buscemi,587.0,Adventure,Bruce Cohen,8.0,Big Fish
+Ian McKellen,122.0,Adventure,Barrie M. Osborne,8.0,The Lord of the Rings: The Return of the King
+Viggo Mortensen,122.0,Adventure,Barrie M. Osborne,8.0,The Lord of the Rings: The Return of the King
+Clint Eastwood,55676.0,Documentary,Martin Scorsese,8.0,A Personal Journey with Martin Scorsese Through American Movies
+Mark Ruffalo,38.0,Science Fiction,Anthony Bregman,8.0,Eternal Sunshine of the Spotless Mind
+Jim Carrey,38.0,Science Fiction,Anthony Bregman,8.0,Eternal Sunshine of the Spotless Mind
+Samuel L. Jackson,393.0,Action,Lawrence Bender,8.0,Kill Bill: Vol. 2
+Anthony Hopkins,10435.0,Drama,Mario Kassar,8.0,Chaplin
+Robert Downey Jr.,10435.0,Drama,Mario Kassar,8.0,Chaplin
+Ralph Fiennes,674.0,Adventure,David Heyman,8.0,Harry Potter and the Goblet of Fire
+Gary Oldman,674.0,Adventure,David Heyman,8.0,Harry Potter and the Goblet of Fire
+Robert Duvall,4539.0,Documentary,Les Mayfield,8.0,Hearts of Darkness: A Filmmaker's Apocalypse
+Robert De Niro,3870.0,Drama,Alberto Grimaldi,8.0,1900
+Morgan Freeman,70.0,Drama,Clint Eastwood,8.0,Million Dollar Baby
+Clint Eastwood,70.0,Drama,Clint Eastwood,8.0,Million Dollar Baby
+Joaquin Phoenix,205.0,Drama,Nicholas Meyer,8.0,Hotel Rwanda
+Don Cheadle,205.0,Drama,Nicholas Meyer,8.0,Hotel Rwanda
+Michael Caine,1124.0,Drama,Christopher Nolan,8.0,The Prestige
+Jean Reno,205.0,Drama,Nicholas Meyer,8.0,Hotel Rwanda
+Ryan Gosling,11036.0,Romance,Lynn Harris,8.0,The Notebook
+Gary Oldman,673.0,Adventure,Lorne Orleans,8.0,Harry Potter and the Prisoner of Azkaban
+Jake Gyllenhaal,142.0,Drama,Diana Ossana,8.0,Brokeback Mountain
+Daniel Craig,13823.0,Drama,Arnon Milchan,8.0,The Power of One
+Morgan Freeman,13823.0,Drama,Arnon Milchan,8.0,The Power of One
+Patrick Stewart,140207.0,Thriller,Jonathan Powell,8.0,Tinker Tailor Soldier Spy
+Christopher Plummer,49565.0,Animation,Frédéric Back,8.0,The Man Who Planted Trees
+Jake Gyllenhaal,141.0,Fantasy,Adam Fields,8.0,Donnie Darko
+Javier Bardem,13805.0,Action,Jason Friedberg,5.0,Disaster Movie
+Stanley Tucci,295011.0,Action,Vincent Newman,8.0,Patient Zero
+Stanley Tucci,11806.0,Comedy,Michael C. Gross,6.0,Beethoven
+Tommy Lee Jones,36349.0,Science Fiction,Joel B. Michaels,6.0,Black Moon Rising

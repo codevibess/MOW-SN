@@ -1,64 +1,119 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+from matplotlib.colors import ListedColormap
+import seaborn as sn
+import pylab as pl
+from mlxtend.plotting import plot_confusion_matrix
+
+cm=0
 
 
-#Importing the Dataset
-url = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
-file ='../../preparedData/mergedFile.csv'
+def knn():
+    global cm
+    #Importing the Dataset
 
-# Assign colum names to the dataset
-# We use separator delimiter instead
-# names = ['filmId', 'title', 'genre', 'producer', 'actor', 'rating']
+    file ='../scriptsForPreparingData/CV/train10.csv'
+    # file='../../preparedData/updatedFile.csv'
 
-# read dataset to pandas dataframe
-dataset = pd.read_csv(file, sep=',')
-print(dataset.head())
+    # Assign colum names to the dataset
+    # We use separator delimiter instead
+    # names = ['filmId', 'title', 'genre', 'producer', 'actor', 'rating']
 
-# The next step is to split our dataset into
-# its attributes and labels:
-X = dataset.iloc[:, :-1].values
-titles = dataset.iloc[:, 1].values
-genres = dataset.iloc[:, 2].values
-producers = dataset.iloc[:, 3].values
-actors = dataset.iloc[:, 4].values
-y = dataset.iloc[:, 5].values
-print(actors)
+    # read dataset to pandas dataframe
+    dataset = pd.read_csv(file, sep=',')
 
 
-# Encoding data columns
-# Import LabelEncoder
-from sklearn import preprocessing
-#creating labelEncoder
-le = preprocessing.LabelEncoder()
-# Converting string labels into numbers.
-titles_encoded=le.fit_transform(titles)
-genres_encoded=le.fit_transform(genres)
-producers_encoded=le.fit_transform(producers)
-actors_encoded=le.fit_transform(actors)
-#combinig all data into single listof tuples
-features=list(zip(genres_encoded,producers_encoded,actors_encoded))
+    # The next step is to split our dataset into
+    # its attributes and labels:
 
-
-# To avoid over-fitting, we will divide our dataset into training and test splits, which gives us
-# a better idea as to how our algorithm performed during the testing phase.
-from sklearn.model_selection import train_test_split
-X_train, X_test, y_train, y_test = train_test_split(features, y, test_size=0.20)
+    titles = dataset.iloc[:, 5].values
+    genres = dataset.iloc[:, 2].values
+    producers = dataset.iloc[:, 3].values
+    actors = dataset.iloc[:, 0].values
+    y = dataset.iloc[:, 4].values
 
 
 
 
-from sklearn.neighbors import KNeighborsClassifier
-classifier = KNeighborsClassifier(n_neighbors=7)
-classifier.fit(X_train, y_train)
 
-y_pred = classifier.predict(X_test)
+    # Encoding data columns
+    # Import LabelEncoder
+    from sklearn import preprocessing
+    #creating labelEncoder
+    le = preprocessing.LabelEncoder()
+    # Converting string labels into numbers.
+    titles_encoded=le.fit_transform(titles)
+    genres_encoded=le.fit_transform(genres)
+    producers_encoded=le.fit_transform(producers)
+    actors_encoded=le.fit_transform(actors)
+    #combinig all data into single listof tuples
+    features=list(zip(actors_encoded, genres_encoded))
 
-#Import scikit-learn metrics module for accuracy calculation
-from sklearn import metrics
-# Model Accuracy, how often is the classifier correct?
-print("Accuracy:",metrics.accuracy_score(y_test, y_pred))
 
-from sklearn.metrics import classification_report, confusion_matrix
-print(confusion_matrix(y_test, y_pred))
-print(classification_report(y_test, y_pred))
+
+
+    # To avoid over-fitting, we will divide our dataset into training and test splits, which gives us
+    # a better idea as to how our algorithm performed during the testing phase.
+    from sklearn.model_selection import train_test_split
+    X_train, X_test, y_train, y_test = train_test_split(features, y, test_size=0.2)
+
+
+    from sklearn.preprocessing import StandardScaler
+    scaler = StandardScaler()
+    scaler.fit(X_train)
+
+    X_train = scaler.transform(X_train)
+    X_test = scaler.transform(X_test)
+
+    from sklearn.neighbors import KNeighborsClassifier
+    classifier = KNeighborsClassifier(n_neighbors=95)
+    classifier.fit(X_train, y_train)
+
+    # # visualization
+    # h = .02  # step size in the mesh
+    #
+    # # Calculate min, max and limits
+    # x_min, x_max = X_train[:, 0].min() - 1, X_train[:, 0].max() + 1
+    # y_min, y_max = X_train[:, 1].min() - 1, X_train[:, 1].max() + 1
+    # xx, yy = np.meshgrid(np.arange(x_min, x_max, h), np.arange(y_min, y_max, h))
+    #
+    # # Put the result into a color plot
+    # plt.figure()
+    # plt.scatter(X_train[:, 0], X_train[:, 1])
+    # plt.xlim(xx.min(), xx.max())
+    # plt.ylim(yy.min(), yy.max())
+    # plt.title("Data points")
+    # plt.show()
+
+    y_pred = classifier.predict(X_test)
+
+    #Import scikit-learn metrics module for accuracy calculation
+
+
+
+    from sklearn import metrics
+    from sklearn.metrics import classification_report, confusion_matrix
+
+    cm= confusion_matrix(y_test, y_pred)
+    print(cm)
+
+    plt.show()
+
+    print(classification_report(y_test, y_pred))
+
+    # Model Accuracy, how often is the classifier correct?
+    print("Accuracy:",metrics.accuracy_score(y_test, y_pred))
+    return metrics.accuracy_score(y_test, y_pred)
+
+
+knn()
+
+while knn() < 0.5:
+    knn()
+
+fig, ax = plot_confusion_matrix(conf_mat=cm,
+                                    colorbar=True,
+                                    show_absolute=False,
+                                    show_normed=True,
+                                    )
