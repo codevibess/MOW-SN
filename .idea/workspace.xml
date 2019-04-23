@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272e7713-627e-4947-aedb-30505d8e779e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/updateFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/kNN/knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/kNN/knn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/scriptsForPreparingData/CV.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/CV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/scriptsForPreparingData/SortingData.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/SortingData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/scriptsForPreparingData/create.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/scriptsForPreparingData/merge_files_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/merge_files_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/scriptsForPreparingData/updateFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/scriptsForPreparingData/updateFile.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/kNN/knn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="69" column="51" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+            <state relative-caret-position="408">
+              <caret line="66" column="52" lean-forward="true" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -62,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/updateFile.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+              <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -341,12 +340,12 @@
       <workItem from="1554999924156" duration="11414000" />
       <workItem from="1555934106031" duration="14207000" />
       <workItem from="1555959108297" duration="2325000" />
-      <workItem from="1556041404238" duration="4933000" />
+      <workItem from="1556041404238" duration="5926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55814000" />
+    <option name="totallyTimeSpent" value="56807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -371,9 +370,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.9217391" visible="true" weight="0.13432837" />
+      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.9217391" visible="true" weight="0.33422175" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" sideWeight="0.07826087" side_tool="true" visible="true" weight="0.13432837" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" sideWeight="0.07826087" side_tool="true" visible="true" weight="0.33422175" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +486,7 @@
     <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/updateFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+          <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -513,8 +512,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/kNN/knn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="69" column="51" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+        <state relative-caret-position="408">
+          <caret line="66" column="52" lean-forward="true" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

@@ -120,7 +120,7 @@ def mergeRating(rating):
     '''
     mergeRating [return new ranking]
     
-    [Fynction return new ranikng, it means that if overage ranking 
+    [Function return new ranikng, it means that if overage ranking 
     is less then 4 of biggest then 8
     We made it to solve classification problem]
     
