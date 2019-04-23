@@ -38,8 +38,12 @@ print(data.loc[index_to_print])     # print whole row
 print(len(list_of_all_indexes))
 print(len(list_of_all_indexes[0]))
 
+
+# removing directory on name CV with all files
 if os.path.exists('CV'):
     shutil.rmtree('CV', ignore_errors=True)
+
+# creating new empty directory on name CV
 if not os.path.exists('CV'):
     os.mkdir('CV')
 
@@ -49,7 +53,6 @@ for cv_step in range(len(list_of_all_indexes)):
     for kind_data in range(len(list_of_all_indexes[cv_step])):
         for single_row in range(len(list_of_all_indexes[cv_step][kind_data])):
             if kind_data == 0:
-                # file_name_to_save = 'CV/train'
                 index_to_print = list_of_all_indexes[cv_step][kind_data][single_row]
                 df_x = pd.Series(data.loc[index_to_print])
                 df_train = df_train.append(df_x, ignore_index=True)
@@ -57,5 +60,7 @@ for cv_step in range(len(list_of_all_indexes)):
                 index_to_print = list_of_all_indexes[cv_step][kind_data][single_row]
                 df_x = pd.Series(data.loc[index_to_print])
                 df_test = df_test.append(df_x, ignore_index=True)
+                
+    # saving  files in specific path and name
     df_train.to_csv('CV/train' + str(cv_step+1) + '.csv', index=False)
     df_test.to_csv('CV/test' + str(cv_step+1) + '.csv', index=False)
