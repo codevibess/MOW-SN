@@ -49,32 +49,24 @@ def knn():
     # 3 The next step is to split our dataset into
     # its attributes and labels:
 
-    # titles = dataset.iloc[:, 5].values
-    # genres = dataset.iloc[:, 2].values
-    # producers = dataset.iloc[:, 3].values
-    # actors = dataset.iloc[:, 0].values
-    # y = dataset.iloc[:, 4].values
-
-    # # 4 Encoding data columns
-    # # creating labelEncoder
-    # le = preprocessing.LabelEncoder()
-    # # Converting string labels into numbers.
-    # titles_encoded=le.fit_transform(titles)
-    # genres_encoded=le.fit_transform(genres)
-    # producers_encoded=le.fit_transform(producers)
-    # actors_encoded=le.fit_transform(actors)
-    # # 5 combinig all data into single listof tuples
-    # features=list(zip(actors_encoded, genres_encoded))
-
-    le = preprocessing.LabelEncoder()
-    dataset['actor'] = le.fit_transform(dataset['actor'])
-    dataset['genre'] = le.fit_transform(dataset['genre'])
-    dataset['producer'] = le.fit_transform(dataset['producer'])
-
-
-    features = dataset.iloc[:, [0, 2]]
-
+    titles = dataset.iloc[:, 5].values
+    genres = dataset.iloc[:, 2].values
+    producers = dataset.iloc[:, 3].values
+    actors = dataset.iloc[:, 0].values
     y = dataset.iloc[:, 4].values
+
+    # 4 Encoding data columns
+    # creating labelEncoder
+    le = preprocessing.LabelEncoder()
+    # Converting string labels into numbers.
+    titles_encoded=le.fit_transform(titles)
+    genres_encoded=le.fit_transform(genres)
+    producers_encoded=le.fit_transform(producers)
+    actors_encoded=le.fit_transform(actors)
+    # 5 combinig all data into single listof tuples
+    features=list(zip(actors_encoded, genres_encoded))
+
+
 
 
     # 6 To avoid over-fitting, we will divide our dataset into training and test splits, which gives us
@@ -91,46 +83,33 @@ def knn():
 
     from sklearn.neighbors import KNeighborsClassifier
     # 7 Generating Model
-    # classifier = KNeighborsClassifier(n_neighbors=195)
-    # # 8 fit  model on the train set using fit() and perform prediction on the test set using predict()
-    # classifier.fit(X_train, y_train)
-    # y_pred = classifier.predict(X_test)
-    #
-    # cm= confusion_matrix(y_test, y_pred)
-    # accuracy=metrics.accuracy_score(y_test, y_pred)
+    classifier = KNeighborsClassifier(n_neighbors=195)
+    # 8 fit  model on the train set using fit() and perform prediction on the test set using predict()
+    classifier.fit(X_train, y_train)
+    y_pred = classifier.predict(X_test)
+
+    cm= confusion_matrix(y_test, y_pred)
+    accuracy=metrics.accuracy_score(y_test, y_pred)
     error = []
 
     # Calculating error for K values between 1 and 40
-    for i in range(1, 150):
-        knn = KNeighborsClassifier(n_neighbors=i)
-        knn.fit(X_train, y_train)
-        pred_i = knn.predict(X_test)
-        error.append(np.mean(pred_i != y_test))
-        print(i)
 
-    plt.figure(figsize=(12, 6))
-    plt.plot(range(1, 150), error, color='red', linestyle='dashed', marker='o',
-             markerfacecolor='blue', markersize=5)
-    plt.title('Error Rate K Value')
-    plt.xlabel('K Value')
-    plt.ylabel('Mean Error')
-    plt.show()
-    # print(cm)
-    # print(classification_report(y_test, y_pred))
+    print(cm)
+    print(classification_report(y_test, y_pred))
 
     # Model Accuracy, how often is the classifier correct
-    # print("Accuracy:",accuracy)
-    # return accuracy
+    print("Accuracy:",accuracy)
+    return accuracy
 
 
 knn()
 
-# while knn() < 0.5:
-#     knn()
+while knn() < 0.5:
+    knn()
 
-# fig, ax = plot_confusion_matrix(conf_mat=cm,
-#                                     colorbar=True,
-#                                     show_absolute=False,
-#                                     show_normed=True,
-#                                     )
-# plt.show()
+fig, ax = plot_confusion_matrix(conf_mat=cm,
+                                    colorbar=True,
+                                    show_absolute=False,
+                                    show_normed=True,
+                                    )
+plt.show()
