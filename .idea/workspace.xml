@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272e7713-627e-4947-aedb-30505d8e779e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/scripts/kNN/knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/kNN/knn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/kNN/knn _old.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/kNN/knn _old.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/kNN/knn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="104" selection-start-line="104" selection-end-line="116" selection-end-column="14" />
+            <state relative-caret-position="150">
+              <caret line="111" column="25" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="25" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -55,10 +55,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/kNN/knn - Copy.py">
+        <entry file="file://$PROJECT_DIR$/scripts/kNN/knn _old.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="887">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+            <state relative-caret-position="167">
+              <caret line="85" column="51" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -115,14 +115,15 @@
         <option value="$PROJECT_DIR$/scripts/scriptsForPreparingData/SortingData.py" />
         <option value="$PROJECT_DIR$/scripts/scriptsForPreparingData/updateFile.py" />
         <option value="$PROJECT_DIR$/scripts/scriptsForPreparingData/CV.py" />
-        <option value="$PROJECT_DIR$/scripts/kNN/knn.py" />
         <option value="$PROJECT_DIR$/scripts/kNN/knn - Copy.py" />
+        <option value="$PROJECT_DIR$/scripts/kNN/knn.py" />
+        <option value="$PROJECT_DIR$/scripts/kNN/knn _old.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="117" />
-    <option name="y" value="-19" />
+    <option name="x" value="2154" />
+    <option name="y" value="-18" />
     <option name="width" value="996" />
     <option name="height" value="700" />
   </component>
@@ -200,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.knn - Copy">
+  <component name="RunManager" selected="Python.knn _old">
     <configuration name="CV" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MOW-SN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,25 +218,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/scriptsForPreparingData/CV.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SortingData" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MOW-SN" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/scriptsForPreparingData" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/scriptsForPreparingData/SortingData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -275,6 +257,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="E:\Projects\MOW-SN\scripts\kNN\knn _old.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="knn _old" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MOW-SN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/kNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/kNN/knn _old.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.knn _old" />
         <item itemvalue="Python.knn - Copy" />
         <item itemvalue="Python.knn" />
         <item itemvalue="Python.CV" />
         <item itemvalue="Python.updateFile" />
-        <item itemvalue="Python.SortingData" />
       </list>
     </recent_temporary>
   </component>
@@ -348,18 +349,18 @@
       <workItem from="1554999924156" duration="11414000" />
       <workItem from="1555934106031" duration="14207000" />
       <workItem from="1555959108297" duration="2325000" />
-      <workItem from="1556041404238" duration="8840000" />
+      <workItem from="1556041404238" duration="9768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59721000" />
+    <option name="totallyTimeSpent" value="60649000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12153518" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17246597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -374,13 +375,13 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.37703142" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.5695581" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.9217391" visible="true" weight="0.46695095" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.89353615" visible="true" weight="0.28290468" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" sideWeight="0.07826087" side_tool="true" visible="true" weight="0.46695095" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" sideWeight="0.10646388" side_tool="true" visible="true" weight="0.28290468" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,18 +521,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/kNN/knn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="104" selection-start-line="104" selection-end-line="116" selection-end-column="14" />
+        <state relative-caret-position="150">
+          <caret line="111" column="25" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="25" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/kNN/knn - Copy.py">
+    <entry file="file://$PROJECT_DIR$/scripts/kNN/knn _old.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="887">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        <state relative-caret-position="167">
+          <caret line="85" column="51" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

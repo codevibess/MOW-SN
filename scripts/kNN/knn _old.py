@@ -83,7 +83,7 @@ def knn():
 
     from sklearn.neighbors import KNeighborsClassifier
     # 7 Generating Model
-    classifier = KNeighborsClassifier(n_neighbors=195)
+    classifier = KNeighborsClassifier(n_neighbors=25)
     # 8 fit  model on the train set using fit() and perform prediction on the test set using predict()
     classifier.fit(X_train, y_train)
     y_pred = classifier.predict(X_test)
@@ -104,8 +104,8 @@ def knn():
 
 knn()
 
-while knn() < 0.5:
-    knn()
+# while knn() < 0.5:
+#     knn()
 
 fig, ax = plot_confusion_matrix(conf_mat=cm,
                                     colorbar=True,
