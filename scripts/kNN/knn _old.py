@@ -35,7 +35,7 @@ def knn():
     global cm
     # 1 Importing the Dataset
 
-    file ='../scriptsForPreparingData/CV/train10.csv'
+    file ='../scriptsForPreparingData/CV/test1.csv'
     # file='../../preparedData/updatedFile.csv'
 
     # Assign colum names to the dataset
