@@ -90,15 +90,18 @@ def knn():
 
     cm= confusion_matrix(y_test, y_pred)
     accuracy=metrics.accuracy_score(y_test, y_pred)
+    # f1_score = metrics.f1_score(y_test, y_pred, average="binary")
     error = []
 
     # Calculating error for K values between 1 and 40
 
     print(cm)
     print(classification_report(y_test, y_pred))
+    # print("F!-score", f1_score)
 
     # Model Accuracy, how often is the classifier correct
     print("Accuracy:",accuracy)
+
     return accuracy
 
 

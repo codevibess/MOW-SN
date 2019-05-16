@@ -6,7 +6,7 @@ from sklearn import preprocessing
 
 
 def create_grid_search():
-    data = pd.read_csv('df.csv', sep=',')
+    data = pd.read_csv('../../preparedData/updatedFile.csv', sep=',')
 
     titles = data['title'].values
     genres = data['genre'].values
@@ -27,11 +27,10 @@ def create_grid_search():
 
     classifier = SVC(kernel='rbf')
 
-    parameters = [{'C': [0.001, 0.01, 0.1, 1, 10, 100, 1000], 'kernel': ['rbf'],
-                   'gamma': [0.001, 0.01, 0.1, 1, 10, 100, 1000]}]
+    parameters = [{'C': [1, 10, 100, 500, 5000, 10000],
+                   'kernel': ['rbf'],
+                   'gamma': [1, 0.8, 0.5, 0.3, 0.1, 0.05, 0.01, 0.001]}]
 
-    # parameters = [{'C': [0.6, 0.7, 0.8, 0.9, 1.1, 1.3, 1.5, 1.7, 1.9], 'kernel': ['rbf'],
-    #                'gamma': [5.9, 7.8, 8.8, 9.5, 10.8, 11.9, 13.9, 15.3]}]
 
     grid_search = GridSearchCV(estimator=classifier, param_grid=parameters, scoring='accuracy', cv=10, n_jobs=-1)
 

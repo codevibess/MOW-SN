@@ -8,7 +8,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 
 
 
-data = pd.read_csv('df.csv', sep=',')
+data = pd.read_csv('../../preparedData/updatedFile.csv', sep=',')
 # columns names ['filmId' 'title' 'genre' 'producer' 'actor' 'rating']
 
 
@@ -37,6 +37,7 @@ X = scaler.fit_transform(features)
 
 
 scores = []
+
 best_svc = SVC(gamma='auto')
 cv = KFold(n_splits=10, shuffle=False)
 for train_index, test_index in cv.split(X):

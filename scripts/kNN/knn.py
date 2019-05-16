@@ -49,22 +49,7 @@ def knn():
     # 3 The next step is to split our dataset into
     # its attributes and labels:
 
-    # titles = dataset.iloc[:, 5].values
-    # genres = dataset.iloc[:, 2].values
-    # producers = dataset.iloc[:, 3].values
-    # actors = dataset.iloc[:, 0].values
-    # y = dataset.iloc[:, 4].values
 
-    # # 4 Encoding data columns
-    # # creating labelEncoder
-    # le = preprocessing.LabelEncoder()
-    # # Converting string labels into numbers.
-    # titles_encoded=le.fit_transform(titles)
-    # genres_encoded=le.fit_transform(genres)
-    # producers_encoded=le.fit_transform(producers)
-    # actors_encoded=le.fit_transform(actors)
-    # # 5 combinig all data into single listof tuples
-    # features=list(zip(actors_encoded, genres_encoded))
 
     le = preprocessing.LabelEncoder()
     dataset['actor'] = le.fit_transform(dataset['actor'])
@@ -90,23 +75,19 @@ def knn():
     X_test = scaler.transform(X_test)
 
     from sklearn.neighbors import KNeighborsClassifier
-    # 7 Generating Model
-    # classifier = KNeighborsClassifier(n_neighbors=195)
-    # # 8 fit  model on the train set using fit() and perform prediction on the test set using predict()
-    # classifier.fit(X_train, y_train)
-    # y_pred = classifier.predict(X_test)
-    #
-    # cm= confusion_matrix(y_test, y_pred)
-    # accuracy=metrics.accuracy_score(y_test, y_pred)
+
     error = []
 
     # Calculating error for K values between 1 and 40
     for i in range(1, 150):
-        knn = KNeighborsClassifier(n_neighbors=i)
+        knn = KNeighborsClassifier(n_neighbors=i,metric="manhattan")
         knn.fit(X_train, y_train)
         pred_i = knn.predict(X_test)
         error.append(np.mean(pred_i != y_test))
         print(i)
+        print(classification_report(y_test, pred_i))
+        accuracy = metrics.accuracy_score(y_test, pred_i)
+        print(accuracy)
 
     plt.figure(figsize=(12, 6))
     plt.plot(range(1, 150), error, color='red', linestyle='dashed', marker='o',
