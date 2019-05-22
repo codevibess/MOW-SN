@@ -28,3 +28,4 @@ print(data.groupby(['quality']).count())
 
 scaler = MinMaxScaler(feature_range=(0, 1))
 X = scaler.fit_transform(data)
+print(X)
