@@ -34,9 +34,8 @@ def knn():
 
     global cm
     # 1 Importing the Dataset
+    file = '../../../preparedData/wineDataset/wines_scaled.csv'
 
-    file = '../scriptsForPreparingData/CV/train10.csv'
-    # file='../../preparedData/updatedFile.csv'
 
     # Assign colum names to the dataset
     # We use separator delimiter instead
@@ -45,38 +44,43 @@ def knn():
     # 2 read dataset to pandas dataframe
     dataset = pd.read_csv(file, sep=',')
 
+    
     # 3 The next step is to split our dataset into
     # its attributes and labels:
-
-    le = preprocessing.LabelEncoder()
-    dataset['actor'] = le.fit_transform(dataset['actor'])
-    dataset['genre'] = le.fit_transform(dataset['genre'])
-    dataset['producer'] = le.fit_transform(dataset['producer'])
-
-    features = dataset.iloc[:, [0, 2]]
-
-    y = dataset.iloc[:, 4].values
+    features = dataset.iloc[:, [1,2,3,4,5,6,7,8,9,10,11]]
+    print(features)
+    y = dataset.iloc[:, 12].values
+    
 
     # 6 To avoid over-fitting, we will divide our dataset into training and test splits, which gives us
     # a better idea as to how our algorithm performed during the testing phase.
 
     X_train, X_test, y_train, y_test = train_test_split(
-        features, y, test_size=0.2)
+        features, y, test_size=0.25, random_state=42)
+        
+    # Normalizing the data using mix-max method
+    X_train_norm = (X_train - X_train.min()) / (X_train.max() -  X_train.min())
+    X_test_norm = (X_test - X_train.min()) / (X_train.max() -  X_train.min())
+
+    X_train = np.array(X_train_norm)
+    X_test = np.array(X_test_norm)
+    y_train = np.array(y_train)
+    y_test = np.array(y_test)
 
     from sklearn.preprocessing import StandardScaler
-    scaler = StandardScaler()
-    scaler.fit(X_train)
+    # scaler = StandardScaler()
+    # scaler.fit(X_train)
 
-    X_train = scaler.transform(X_train)
-    X_test = scaler.transform(X_test)
+    # X_train = scaler.transform(X_train)
+    # X_test = scaler.transform(X_test)
 
     from sklearn.neighbors import KNeighborsClassifier
 
     error = []
 
     # Calculating error for K values between 1 and 40
-    for i in range(1, 150):
-        knn = KNeighborsClassifier(n_neighbors=i, metric="manhattan")
+    for i in range(1, 5):
+        knn = KNeighborsClassifier(n_neighbors=i)
         knn.fit(X_train, y_train)
         pred_i = knn.predict(X_test)
         error.append(np.mean(pred_i != y_test))
@@ -86,7 +90,7 @@ def knn():
         print(accuracy)
 
     plt.figure(figsize=(12, 6))
-    plt.plot(range(1, 150), error, color='red', linestyle='dashed', marker='o',
+    plt.plot(range(1, 5), error, color='red', linestyle='dashed', marker='o',
              markerfacecolor='blue', markersize=5)
     plt.title('Error Rate K Value')
     plt.xlabel('K Value')

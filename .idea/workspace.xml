@@ -2,38 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272e7713-627e-4947-aedb-30505d8e779e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/preparedData/actorsDataset/wines.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/kNN/knn _old.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/actorsDataset/kNN/knn _old.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/kNN/knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/actorsDataset/kNN/knn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/test1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/test10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/test2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/test3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/test4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/test5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/test6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/test7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/test8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/test9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/train1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/train10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/train2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/train3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/train4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/train5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/train6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/train7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/train8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/CV/train9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/Cleaning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/SortingData.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/SortingData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/check_actor_availability_in_dataset_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/check_actor_availability_in_dataset_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/create_CSV_header.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/create_CSV_header.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/create_JSON_from_CSV_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/create_JSON_from_CSV_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/create_proper_JSON.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/create_proper_JSON.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/merge_files_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/merge_files_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/updateFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/actorsDataset/scriptsForPreparingData/updateFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preparedData/wineDataset/wines_scaled.csv" beforeDir="false" afterPath="$PROJECT_DIR$/preparedData/wineDataset/wines_scaled.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/wineDataset/kNN/knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/wineDataset/kNN/knn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/wineDataset/scriptsForPreparingData/clean_check_gaps_scale_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/wineDataset/scriptsForPreparingData/clean_check_gaps_scale_data.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -75,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="170" />
     <option name="y" value="91" />
     <option name="width" value="1026" />
@@ -86,7 +57,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,6 +109,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -330,16 +301,17 @@
       <workItem from="1558023294425" duration="1685000" />
       <workItem from="1558025128187" duration="986000" />
       <workItem from="1558554819347" duration="154000" />
+      <workItem from="1558557869354" duration="600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68893000" />
+    <option name="totallyTimeSpent" value="69493000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10074627" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10181237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -397,28 +369,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/originalDataset/credits.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staggingArea/mergedFile.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/create_CSV_header.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/create_proper_JSON.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/originalDataset/credits.csv" />
+    <entry file="file://$PROJECT_DIR$/staggingArea/mergedFile.json" />
+    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/create_CSV_header.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/create_proper_JSON.py" />
     <entry file="file://$PROJECT_DIR$/linkToDatasetKaggle.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -430,44 +384,12 @@
     <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/merge_files.py" />
     <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/actorsInAFilms.txt" />
     <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/create.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/CV/test1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2193" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/CV/train1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2244" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/CV/test1.csv" />
+    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/CV/train1.csv" />
     <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/sorted.csv" />
-    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/updateFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/merge_files_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="82" column="20" selection-start-line="80" selection-start-column="8" selection-end-line="82" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/SortingData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="30" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/updateFile.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/merge_files_3.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/SortingData.py" />
     <entry file="file://$PROJECT_DIR$/helpers/createJSONFromCSV.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
@@ -484,52 +406,10 @@
     <entry file="file://$PROJECT_DIR$/docs/_build/html/searchindex.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/CV.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/kNN/knn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/SVC/SVC.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/kNN/knn _old.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/SVC/GridSearchCV.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scriptsForPreparingData/CV.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/kNN/knn.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/SVC/SVC.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/kNN/knn _old.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/SVC/GridSearchCV.py" />
   </component>
 </project>

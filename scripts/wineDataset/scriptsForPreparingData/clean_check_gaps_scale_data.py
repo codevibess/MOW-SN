@@ -34,7 +34,7 @@ print(type(X))
 df = pd.DataFrame({'fixed_acidit': X[:, 0], 'volatile_acidity': X[:, 1], 'citric_acid': X[:, 2],
                    'residual_sugar': X[:, 3], 'chlorides': X[:, 4], 'free_sulfur_dioxide': X[:, 5],
                    'total_sulfur_dioxide': X[:, 6], 'density': X[:, 7], 'pH': X[:, 8], 'sulphates': X[:, 9],
-                   'alcohol': X[:, 10], 'quality': X[:, 11]})
+                   'alcohol': X[:, 10], 'quality': data.iloc[:, 11]})
 
 print(df)
 df.to_csv('../../../preparedData/wineDataset/wines_scaled.csv')
