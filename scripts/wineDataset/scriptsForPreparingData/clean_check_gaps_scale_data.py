@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 
-name_file_to_read = '../../../preparedData/actorsDataset/wines.csv'
+name_file_to_read = '../../../preparedData/wineDataset/wines.csv'
 data = pd.read_csv(name_file_to_read, sep=';', names=['fixed_acidit', 'volatile_acidity', 'citric_acid',
                                                       'residual_sugar', 'chlorides', 'free_sulfur_dioxide',
                                                       'total_sulfur_dioxide', 'density', 'pH', 'sulphates',
@@ -37,4 +37,4 @@ df = pd.DataFrame({'fixed_acidit': X[:, 0], 'volatile_acidity': X[:, 1], 'citric
                    'alcohol': X[:, 10], 'quality': X[:, 11]})
 
 print(df)
-df.to_csv('df.csv')
+df.to_csv('../../../preparedData/wineDataset/wines_scaled.csv')
