@@ -8,11 +8,11 @@ from mlxtend.plotting import plot_confusion_matrix
 # Import LabelEncoder for data encoding
 from sklearn import preprocessing
 from sklearn.model_selection import train_test_split
-#Import scikit-learn metrics module for accuracy calculation
+# Import scikit-learn metrics module for accuracy calculation
 from sklearn import metrics
 from sklearn.metrics import classification_report, confusion_matrix
 
-cm=0
+cm = 0
 
 
 def knn():
@@ -27,7 +27,7 @@ def knn():
      a better idea as to how our algorithm performed during the testing phase.
     7 We generate Model 
     8 We fit our model on the train set using fit() and perform prediction on the test set using predict()]
-    
+
     :return: [Algorithm accurancy calculation]
     :rtype: [int]
     """
@@ -35,7 +35,7 @@ def knn():
     global cm
     # 1 Importing the Dataset
 
-    file ='../scriptsForPreparingData/CV/test1.csv'
+    file = '../scriptsForPreparingData/CV/test1.csv'
     # file='../../preparedData/updatedFile.csv'
 
     # Assign colum names to the dataset
@@ -44,7 +44,6 @@ def knn():
 
     # 2 read dataset to pandas dataframe
     dataset = pd.read_csv(file, sep=',')
-
 
     # 3 The next step is to split our dataset into
     # its attributes and labels:
@@ -59,20 +58,18 @@ def knn():
     # creating labelEncoder
     le = preprocessing.LabelEncoder()
     # Converting string labels into numbers.
-    titles_encoded=le.fit_transform(titles)
-    genres_encoded=le.fit_transform(genres)
-    producers_encoded=le.fit_transform(producers)
-    actors_encoded=le.fit_transform(actors)
+    titles_encoded = le.fit_transform(titles)
+    genres_encoded = le.fit_transform(genres)
+    producers_encoded = le.fit_transform(producers)
+    actors_encoded = le.fit_transform(actors)
     # 5 combinig all data into single listof tuples
-    features=list(zip(actors_encoded, genres_encoded))
-
-
-
+    features = list(zip(actors_encoded, genres_encoded))
 
     # 6 To avoid over-fitting, we will divide our dataset into training and test splits, which gives us
     # a better idea as to how our algorithm performed during the testing phase.
-    
-    X_train, X_test, y_train, y_test = train_test_split(features, y, test_size=0.2)
+
+    X_train, X_test, y_train, y_test = train_test_split(
+        features, y, test_size=0.2)
 
     from sklearn.preprocessing import StandardScaler
     scaler = StandardScaler()
@@ -88,8 +85,8 @@ def knn():
     classifier.fit(X_train, y_train)
     y_pred = classifier.predict(X_test)
 
-    cm= confusion_matrix(y_test, y_pred)
-    accuracy=metrics.accuracy_score(y_test, y_pred)
+    cm = confusion_matrix(y_test, y_pred)
+    accuracy = metrics.accuracy_score(y_test, y_pred)
     # f1_score = metrics.f1_score(y_test, y_pred, average="binary")
     error = []
 
@@ -100,7 +97,7 @@ def knn():
     # print("F!-score", f1_score)
 
     # Model Accuracy, how often is the classifier correct
-    print("Accuracy:",accuracy)
+    print("Accuracy:", accuracy)
 
     return accuracy
 
@@ -111,8 +108,8 @@ knn()
 #     knn()
 
 fig, ax = plot_confusion_matrix(conf_mat=cm,
-                                    colorbar=True,
-                                    show_absolute=False,
-                                    show_normed=True,
-                                    )
+                                colorbar=True,
+                                show_absolute=False,
+                                show_normed=True,
+                                )
 plt.show()

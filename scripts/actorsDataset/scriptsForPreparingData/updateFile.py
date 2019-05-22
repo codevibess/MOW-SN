@@ -6,9 +6,7 @@ from create_CSV_header import *
 
 
 def merge_two_CSV_files_to_one():
-    
 
-    
     fin = open(
         '../../preparedData/df.csv', 'r', encoding="utf8")
     fout_CSV = open('../../staggingArea/updatedFile.csv', 'w', encoding="utf8")

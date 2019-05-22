@@ -65,7 +65,6 @@ def return_new_row(old_row, producer_cell, actor_cell):
     return new_row
 
 
-
 def check_actor_in_film_CSV():
     '''
     check_actor_in_film_CSV Check if actor from prepared list is in a dataset
@@ -122,4 +121,4 @@ def check_actor_in_film_CSV():
 
 
 check_actor_in_film_CSV()
-# check_actor_infilm_JSON()
+

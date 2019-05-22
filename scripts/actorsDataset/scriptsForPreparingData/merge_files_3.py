@@ -5,8 +5,6 @@ from create_proper_JSON import *
 from create_CSV_header import *
 
 
-
-
 def create_list_of_ids(array_of_jsons):
     '''
     create_list_of_ids [Fuction create list of film metadata ids]
@@ -92,7 +90,7 @@ def merge_two_CSV_files_to_one():
         title = movie['title']
         vote_average = movie['vote_average']
         rating = round(float(movie['vote_average']))
-        # merge rating 
+        # merge rating
         rating = mergeRating(rating)
         # clean from uncompleted data
         try:
@@ -119,25 +117,25 @@ def merge_two_CSV_files_to_one():
 def mergeRating(rating):
     '''
     mergeRating [return new ranking]
-    
+
     [Function return new ranikng, it means that if overage ranking 
     is less then 4 of biggest then 8
     We made it to solve classification problem]
-    
-    
+
+
     :param rating: [actual film rating]
     :type rating: [int]
     :return: [new rating]
     :rtype: [int]
     '''
 
-    newRating=0
+    newRating = 0
     if rating < 4:
-        newRating=5
+        newRating = 5
     elif rating > 8:
-        newRating=8
+        newRating = 8
     else:
-        newRating=rating
+        newRating = rating
     return newRating
 
 

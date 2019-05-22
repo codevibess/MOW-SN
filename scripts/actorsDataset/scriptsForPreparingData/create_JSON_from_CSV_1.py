@@ -3,8 +3,9 @@ import json
 import sys
 
 default_input_file_path = '../../originalDataset/credits.csv'
-default_input_file= default_input_file_path.split("/")[-1]
-default_outfile_file_path = '../../staggingArea/parsed_' + default_input_file + '.json'
+default_input_file = default_input_file_path.split("/")[-1]
+default_outfile_file_path = '../../staggingArea/parsed_' + \
+    default_input_file + '.json'
 
 
 def parse_CSV_to_JSON(input_file=default_input_file_path, outfile_file=default_outfile_file_path):
