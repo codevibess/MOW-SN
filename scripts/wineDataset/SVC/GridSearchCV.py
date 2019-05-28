@@ -2,6 +2,9 @@ import pandas as pd
 from sklearn.model_selection import GridSearchCV, train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVC
+from sklearn.metrics import confusion_matrix
+from sklearn import preprocessing
+import numpy as np
 
 
 def create_grid_search():
@@ -21,6 +24,10 @@ def create_grid_search():
     #                    'kernel': ['rbf'],
     #                    'gamma': [1.335, 1.337, 1.338, 1.339, 1.34, 1.341, 1.342, 1.343, 1.344, 1.346]}]
 
+    # parameters = [{'C': [20.67, 20.69, 20.71, 20.73, 20.79, 20.81],
+    #                'kernel': ['rbf'],
+    #                'gamma': [1.338, 1.339, 1.34, 1.341, 1.342]}]
+
     parameters = [{'C': [20.67, 20.69, 20.71, 20.73, 20.79, 20.81],
                    'kernel': ['rbf'],
                    'gamma': [1.338, 1.339, 1.34, 1.341, 1.342]}]
@@ -39,12 +46,16 @@ def create_grid_search():
     # y_train = np.array(y_train)
 
     grid_search = grid_search.fit(X_train, y_train)
+
+    y_pred = grid_search.predict(X_test)
+
     scores = grid_search.cv_results_
     best_accuracy = grid_search.best_score_
     best_parameters = grid_search.best_params_
     print('Scores -> ', scores)
     print('Best accuracy -> ', best_accuracy)
     print('Best parameters -> ', best_parameters)
+    print('conf matrix', confusion_matrix(y_test, y_pred))
 
 
 if __name__ == '__main__':
